@@ -1,0 +1,221 @@
+<!doctype html>
+<html class="light" lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MacroTrack - Dashboard Principal</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700;800;900&family=Manrope:wght@300;400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      tailwind.config = {
+        darkMode: 'class',
+        theme: {
+          extend: {
+            colors: {
+              'surface-dim': 'rgb(var(--surface-dim) / <alpha-value>)',
+              'inverse-primary': 'rgb(var(--inverse-primary) / <alpha-value>)',
+              'surface-container-low': 'rgb(var(--surface-container-low) / <alpha-value>)',
+              'on-secondary-fixed': 'rgb(var(--on-secondary-fixed) / <alpha-value>)',
+              'on-background': 'rgb(var(--on-background) / <alpha-value>)',
+              'error-container': 'rgb(var(--error-container) / <alpha-value>)',
+              'surface-variant': 'rgb(var(--surface-variant) / <alpha-value>)',
+              'outline-variant': 'rgb(var(--outline-variant) / <alpha-value>)',
+              'on-tertiary-fixed': 'rgb(var(--on-tertiary-fixed) / <alpha-value>)',
+              'primary-fixed-dim': 'rgb(var(--primary-fixed-dim) / <alpha-value>)',
+              'on-tertiary': 'rgb(var(--on-tertiary) / <alpha-value>)',
+              'on-error': 'rgb(var(--on-error) / <alpha-value>)',
+              'tertiary-container': 'rgb(var(--tertiary-container) / <alpha-value>)',
+              'inverse-on-surface': 'rgb(var(--inverse-on-surface) / <alpha-value>)',
+              'primary-container': 'rgb(var(--primary-container) / <alpha-value>)',
+              'inverse-surface': 'rgb(var(--inverse-surface) / <alpha-value>)',
+              'surface-bright': 'rgb(var(--surface-bright) / <alpha-value>)',
+              'on-surface-variant': 'rgb(var(--on-surface-variant) / <alpha-value>)',
+              'surface-container-highest': 'rgb(var(--surface-container-highest) / <alpha-value>)',
+              'on-tertiary-fixed-variant': 'rgb(var(--on-tertiary-fixed-variant) / <alpha-value>)',
+              'tertiary-fixed': 'rgb(var(--tertiary-fixed) / <alpha-value>)',
+              'on-secondary-container': 'rgb(var(--on-secondary-container) / <alpha-value>)',
+              'surface-tint': 'rgb(var(--surface-tint) / <alpha-value>)',
+              'secondary-fixed-dim': 'rgb(var(--secondary-fixed-dim) / <alpha-value>)',
+              'tertiary-fixed-dim': 'rgb(var(--tertiary-fixed-dim) / <alpha-value>)',
+              'on-error-container': 'rgb(var(--on-error-container) / <alpha-value>)',
+              'on-primary-fixed': 'rgb(var(--on-primary-fixed) / <alpha-value>)',
+              'on-secondary': 'rgb(var(--on-secondary) / <alpha-value>)',
+              'on-surface': 'rgb(var(--on-surface) / <alpha-value>)',
+              'on-secondary-fixed-variant': 'rgb(var(--on-secondary-fixed-variant) / <alpha-value>)',
+              'secondary-container': 'rgb(var(--secondary-container) / <alpha-value>)',
+              'on-primary-container': 'rgb(var(--on-primary-container) / <alpha-value>)',
+              'secondary-fixed': 'rgb(var(--secondary-fixed) / <alpha-value>)',
+              'on-tertiary-container': 'rgb(var(--on-tertiary-container) / <alpha-value>)',
+              secondary: 'rgb(var(--secondary) / <alpha-value>)',
+              'surface-container': 'rgb(var(--surface-container) / <alpha-value>)',
+              background: 'rgb(var(--background) / <alpha-value>)',
+              tertiary: 'rgb(var(--tertiary) / <alpha-value>)',
+              'primary-dim': 'rgb(var(--primary-dim) / <alpha-value>)',
+              'error-dim': 'rgb(var(--error-dim) / <alpha-value>)',
+              'on-primary': 'rgb(var(--on-primary) / <alpha-value>)',
+              'on-primary-fixed-variant': 'rgb(var(--on-primary-fixed-variant) / <alpha-value>)',
+              'surface-container-high': 'rgb(var(--surface-container-high) / <alpha-value>)',
+              'surface-container-lowest': 'rgb(var(--surface-container-lowest) / <alpha-value>)',
+              error: 'rgb(var(--error) / <alpha-value>)',
+              'tertiary-dim': 'rgb(var(--tertiary-dim) / <alpha-value>)',
+              'secondary-dim': 'rgb(var(--secondary-dim) / <alpha-value>)',
+              'primary-fixed': 'rgb(var(--primary-fixed) / <alpha-value>)',
+              primary: 'rgb(var(--primary) / <alpha-value>)',
+              surface: 'rgb(var(--surface) / <alpha-value>)',
+              outline: 'rgb(var(--outline) / <alpha-value>)',
+            },
+            fontFamily: {
+              headline: ['Lexend'],
+              body: ['Manrope'],
+              label: ['Manrope'],
+              display: ['Lexend'],
+            },
+            borderRadius: {
+              DEFAULT: '0.25rem',
+              lg: '0.5rem',
+              xl: '0.75rem',
+              full: '9999px',
+            },
+          },
+        },
+      }
+    </script>
+    <style>
+      :root {
+        --surface-dim: 214 212 211;
+        --inverse-primary: 212 255 0;
+        --surface-container-low: 243 240 239;
+        --on-secondary-fixed: 64 63 63;
+        --on-background: 47 46 46;
+        --error-container: 249 86 48;
+        --surface-variant: 223 220 220;
+        --outline-variant: 175 172 172;
+        --on-tertiary-fixed: 71 59 0;
+        --primary-fixed-dim: 196 236 0;
+        --on-tertiary: 255 242 201;
+        --on-error: 255 239 236;
+        --tertiary-container: 252 220 67;
+        --inverse-on-surface: 158 156 156;
+        --primary-container: 209 252 0;
+        --inverse-surface: 14 14 14;
+        --surface-bright: 249 246 245;
+        --on-surface-variant: 92 91 91;
+        --surface-container-highest: 223 220 220;
+        --on-tertiary-fixed-variant: 103 87 0;
+        --tertiary-fixed: 252 220 67;
+        --on-secondary-container: 82 81 81;
+        --surface-tint: 81 98 0;
+        --secondary-fixed-dim: 215 212 211;
+        --tertiary-fixed-dim: 237 206 53;
+        --on-error-container: 82 12 0;
+        --on-primary-fixed: 60 74 0;
+        --on-secondary: 245 242 241;
+        --on-surface: 47 46 46;
+        --on-secondary-fixed-variant: 92 91 91;
+        --secondary-container: 229 226 225;
+        --on-primary-container: 76 93 0;
+        --secondary-fixed: 229 226 225;
+        --on-tertiary-container: 92 78 0;
+        --secondary: 92 91 91;
+        --surface-container: 234 231 231;
+        --background: 249 246 245;
+        --tertiary: 107 91 0;
+        --primary-dim: 70 86 0;
+        --error-dim: 185 41 2;
+        --on-primary: 227 255 123;
+        --on-primary-fixed-variant: 85 104 0;
+        --surface-container-high: 229 226 225;
+        --surface-container-lowest: 255 255 255;
+        --error: 176 37 0;
+        --tertiary-dim: 93 79 0;
+        --secondary-dim: 80 79 79;
+        --primary-fixed: 209 252 0;
+        --primary: 81 98 0;
+        --surface: 249 246 245;
+        --outline: 120 118 118;
+      }
+
+      .dark {
+        --surface-dim: 14 14 14;
+        --inverse-primary: 84 102 0;
+        --surface-container-low: 19 19 19;
+        --on-secondary-fixed: 64 63 63;
+        --on-background: 255 255 255;
+        --error-container: 185 41 2;
+        --surface-variant: 38 38 38;
+        --outline-variant: 72 72 71;
+        --on-tertiary-fixed: 71 59 0;
+        --primary-fixed-dim: 196 236 0;
+        --on-tertiary: 102 86 0;
+        --on-error: 69 9 0;
+        --tertiary-container: 252 220 67;
+        --inverse-on-surface: 86 85 85;
+        --primary-container: 209 252 0;
+        --inverse-surface: 252 249 248;
+        --surface-bright: 44 44 44;
+        --on-surface-variant: 173 170 170;
+        --surface-container-highest: 38 38 38;
+        --on-tertiary-fixed-variant: 103 87 0;
+        --tertiary-fixed: 252 220 67;
+        --on-secondary-container: 210 208 207;
+        --surface-tint: 244 255 198;
+        --secondary-fixed-dim: 215 212 211;
+        --tertiary-fixed-dim: 237 206 53;
+        --on-error-container: 255 210 200;
+        --on-primary-fixed: 60 74 0;
+        --on-secondary: 82 81 81;
+        --on-surface: 255 255 255;
+        --on-secondary-fixed-variant: 92 91 91;
+        --secondary-container: 71 70 70;
+        --on-primary-container: 76 93 0;
+        --secondary-fixed: 229 226 225;
+        --on-tertiary-container: 92 78 0;
+        --secondary: 229 226 225;
+        --surface-container: 26 26 26;
+        --background: 14 14 14;
+        --tertiary: 255 235 156;
+        --primary-dim: 199 239 0;
+        --error-dim: 213 61 24;
+        --on-primary: 84 102 0;
+        --on-primary-fixed-variant: 85 104 0;
+        --surface-container-high: 32 32 31;
+        --surface-container-lowest: 0 0 0;
+        --error: 255 115 81;
+        --tertiary-dim: 237 206 53;
+        --secondary-dim: 215 212 211;
+        --primary-fixed: 209 252 0;
+        --primary: 244 255 198;
+        --surface: 14 14 14;
+        --outline: 118 117 117;
+      }
+
+      .material-symbols-outlined {
+        font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+      }
+
+      .ring-gradient {
+        background: conic-gradient(from 0deg, #516200, #d1fc00);
+      }
+
+      .kinetic-gradient {
+        background: linear-gradient(135deg, #516200 0%, #d1fc00 100%);
+      }
+
+      body {
+        -webkit-tap-highlight-color: transparent;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
