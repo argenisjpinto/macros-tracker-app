@@ -391,7 +391,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00024-almond-milk-dulceened",
+    "id": "fndds-00024-almendra-milk-dulceened",
     "name": "Almendra leche, endulzada",
     "category": "general",
     "servingBase": 100,
@@ -408,7 +408,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00025-almond-milk-chocolate",
+    "id": "fndds-00025-almendra-milk-chocolate",
     "name": "Almendra leche, chocolate",
     "category": "general",
     "servingBase": 100,
@@ -425,7 +425,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00026-almond-milk-undulceened",
+    "id": "fndds-00026-almendra-milk-undulceened",
     "name": "Almendra leche, sin azúcar",
     "category": "general",
     "servingBase": 100,
@@ -442,7 +442,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00027-almond-milk-nfs",
+    "id": "fndds-00027-almendra-milk-nfs",
     "name": "Almendra leche, no especificado",
     "category": "general",
     "servingBase": 100,
@@ -1021,7 +1021,7 @@
   },
   {
     "id": "fndds-00061-chipotle-dip-yogurt-based",
-    "name": "Chipotle dip, yogur based",
+    "name": "Chipotle dip, yogur",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -1038,7 +1038,7 @@
   },
   {
     "id": "fndds-00062-onion-dip-yogurt-based",
-    "name": "Cebolla dip, yogur based",
+    "name": "Cebolla dip, hecho de yogur",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -1055,7 +1055,7 @@
   },
   {
     "id": "fndds-00063-ranch-dip-yogurt-based",
-    "name": "Ranch dip, yogur based",
+    "name": "Ranch dip, hecho de yogur",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -1072,7 +1072,7 @@
   },
   {
     "id": "fndds-00064-spinach-dip-yogurt-based",
-    "name": "Espinaca dip, yogur based",
+    "name": "Espinaca dip, hecho de yogur",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -1106,7 +1106,7 @@
   },
   {
     "id": "fndds-00066-vegetable-dip-yogurt-based",
-    "name": "Verdura dip, yogur based",
+    "name": "Verdura dip, hecho de yogur",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -1242,7 +1242,7 @@
   },
   {
     "id": "fndds-00074-frozen-yogurt-bar-vanilla",
-    "name": "Congelado yogur barrarara, vainilla",
+    "name": "Congelado yogur barra, vainilla",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -1259,7 +1259,7 @@
   },
   {
     "id": "fndds-00075-frozen-yogurt-bar-chocolate",
-    "name": "Congelado yogur barrarara, chocolate",
+    "name": "Congelado yogur barra, chocolate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -2483,7 +2483,7 @@
   },
   {
     "id": "fndds-00147-infant-formula-similac-for-spit-up-ready-to-feed",
-    "name": "Fórmula infantil, Similac for Spit-Up, lista para consumir",
+    "name": "Fórmula infantil, Similac para Spit-Up, lista para consumir",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -2500,7 +2500,7 @@
   },
   {
     "id": "fndds-00148-infant-formula-similac-for-spit-up-powder-made-with-water",
-    "name": "Fórmula infantil, Similac for Spit-Up, en polvo, hecho con agua",
+    "name": "Fórmula infantil, Similac para Spit-Up, en polvo, hecho con agua",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -3214,7 +3214,7 @@
   },
   {
     "id": "fndds-00190-infant-formula-similac-for-diarrhea",
-    "name": "Fórmula infantil, Similac for Diarrhea",
+    "name": "Fórmula infantil, Similac para Diarrhea",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -4319,7 +4319,7 @@
   },
   {
     "id": "fndds-00255-ice-cream-bar-vanilla",
-    "name": "Helado barrarara, vainilla",
+    "name": "Helado barra, vainilla",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -4336,7 +4336,7 @@
   },
   {
     "id": "fndds-00256-ice-cream-bar-vanilla-chocolate-coated",
-    "name": "Helado barrarara, vainilla, chocolate rebozado",
+    "name": "Helado barra, vainilla, chocolate rebozado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -4353,7 +4353,7 @@
   },
   {
     "id": "fndds-00257-ice-cream-candy-bar",
-    "name": "Helado dulces barrarara",
+    "name": "Helado dulces barra",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -4370,7 +4370,7 @@
   },
   {
     "id": "fndds-00258-ice-cream-bar-chocolate",
-    "name": "Helado barrarara, chocolate",
+    "name": "Helado barra, chocolate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -4863,7 +4863,7 @@
   },
   {
     "id": "fndds-00287-light-ice-cream-bar-vanilla",
-    "name": "Liviano helado barrarara, vainilla",
+    "name": "Liviano helado barra, vainilla",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -4880,7 +4880,7 @@
   },
   {
     "id": "fndds-00288-light-ice-cream-bar-vanilla-chocolate-coated",
-    "name": "Liviano helado barrarara, vainilla, chocolate rebozado",
+    "name": "Liviano helado barra, vainilla, chocolate rebozado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -4897,7 +4897,7 @@
   },
   {
     "id": "fndds-00289-light-ice-cream-bar-chocolate",
-    "name": "Liviano helado barrarara, chocolate",
+    "name": "Liviano helado barra, chocolate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -5373,7 +5373,7 @@
   },
   {
     "id": "fndds-00317-barfi-or-burfi-indian-dessert",
-    "name": "Barrararafi o Burfi, Indian dessert",
+    "name": "barrafi o Burfi, Indian dessert",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -6766,8 +6766,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00399-artichoke-dip",
-    "name": "Artichoke dip",
+    "id": "fndds-00399-alcachofa-dip",
+    "name": "alcachofa dip",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -6783,8 +6783,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00400-spinach-and-artichoke-dip",
-    "name": "Espinaca y artichoke dip",
+    "id": "fndds-00400-spinach-and-alcachofa-dip",
+    "name": "Espinaca y alcachofa , salsa de",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -6800,8 +6800,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00401-seafood-dip",
-    "name": "Seafood dip",
+    "id": "fndds-00401-mariscos-dip",
+    "name": "mariscos , salsa de",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -7327,8 +7327,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00432-alfredo-sauce-with-seafood",
-    "name": "Alfredo salsa con seafood",
+    "id": "fndds-00432-alfredo-sauce-with-mariscos",
+    "name": "Alfredo salsa con mariscos",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -7344,8 +7344,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00433-alfredo-sauce-with-seafood-and-agregado-vegetables",
-    "name": "Alfredo salsa con seafood y verduras añadidas",
+    "id": "fndds-00433-alfredo-sauce-with-mariscos-and-agregado-vegetables",
+    "name": "Alfredo salsa con mariscos y verduras añadidas",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -7905,8 +7905,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00466-beef-stew-meat",
-    "name": "Carne de res, stew carne",
+    "id": "fndds-00466-beef-guiso-meat",
+    "name": "Carne de res, guiso carne",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -7922,8 +7922,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00467-beef-corned",
-    "name": "Carne de res, corned",
+    "id": "fndds-00467-beef-con maiz",
+    "name": "Carne de res, con maiz",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -9418,7 +9418,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00555-chicken-ns-as-to-part-stewed-ns-as-to-skin-eaten",
+    "id": "fndds-00555-chicken-ns-as-to-part-guisoed-ns-as-to-skin-eaten",
     "name": "Pollo, sin especificar parte, guisado, sin especificar con piel",
     "category": "general",
     "servingBase": 100,
@@ -9435,7 +9435,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00556-chicken-ns-as-to-part-stewed-skin-eaten",
+    "id": "fndds-00556-chicken-ns-as-to-part-guisoed-skin-eaten",
     "name": "Pollo, sin especificar parte, guisado, con piel",
     "category": "general",
     "servingBase": 100,
@@ -9452,7 +9452,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00557-chicken-ns-as-to-part-stewed-skin-not-eaten",
+    "id": "fndds-00557-chicken-ns-as-to-part-guisoed-skin-not-eaten",
     "name": "Pollo, sin especificar parte, guisado, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -9877,7 +9877,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00582-chicken-breast-stewed-skin-eaten",
+    "id": "fndds-00582-chicken-breast-guisoed-skin-eaten",
     "name": "Pollo pechuga, guisado, con piel",
     "category": "general",
     "servingBase": 100,
@@ -9894,7 +9894,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00583-chicken-breast-stewed-skin-not-eaten",
+    "id": "fndds-00583-chicken-breast-guisoed-skin-not-eaten",
     "name": "Pollo pechuga, guisado, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -10268,7 +10268,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00605-chicken-leg-drumstick-and-thigh-stewed-skin-eaten",
+    "id": "fndds-00605-chicken-leg-drumstick-and-thigh-guisoed-skin-eaten",
     "name": "Pollo leg, pata y muslo, guisado, con piel",
     "category": "general",
     "servingBase": 100,
@@ -10285,7 +10285,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00606-chicken-leg-drumstick-and-thigh-stewed-skin-not-eaten",
+    "id": "fndds-00606-chicken-leg-drumstick-and-thigh-guisoed-skin-not-eaten",
     "name": "Pollo leg, pata y muslo, guisado, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -10710,7 +10710,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00631-chicken-drumstick-stewed-skin-eaten",
+    "id": "fndds-00631-chicken-drumstick-guisoed-skin-eaten",
     "name": "Pollo pata, guisado, con piel",
     "category": "general",
     "servingBase": 100,
@@ -10727,7 +10727,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00632-chicken-drumstick-stewed-skin-not-eaten",
+    "id": "fndds-00632-chicken-drumstick-guisoed-skin-not-eaten",
     "name": "Pollo pata, guisado, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -11101,7 +11101,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00654-chicken-thigh-stewed-skin-eaten",
+    "id": "fndds-00654-chicken-thigh-guisoed-skin-eaten",
     "name": "Pollo muslo, guisado, con piel",
     "category": "general",
     "servingBase": 100,
@@ -11118,7 +11118,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00655-chicken-thigh-stewed-skin-not-eaten",
+    "id": "fndds-00655-chicken-thigh-guisoed-skin-not-eaten",
     "name": "Pollo muslo, guisado, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -11509,7 +11509,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00678-chicken-wing-stewed",
+    "id": "fndds-00678-chicken-wing-guisoed",
     "name": "Pollo ala, guisado",
     "category": "general",
     "servingBase": 100,
@@ -12461,7 +12461,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00734-turkey-light-or-dark-meat-stewed-skin-not-eaten",
+    "id": "fndds-00734-turkey-light-or-dark-meat-guisoed-skin-not-eaten",
     "name": "Pavo, liviano o carne oscura, guisado, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -12478,7 +12478,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00735-turkey-light-or-dark-meat-stewed-skin-eaten",
+    "id": "fndds-00735-turkey-light-or-dark-meat-guisoed-skin-eaten",
     "name": "Pavo liviano o carne oscura, guisado, con piel",
     "category": "general",
     "servingBase": 100,
@@ -13175,8 +13175,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00776-brains",
-    "name": "Brains",
+    "id": "fndds-00776-sesos",
+    "name": "sesos",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -15980,8 +15980,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00941-fish-white-mixed-species-nfs",
-    "name": "Pescado, blanco, mixed species, no especificado",
+    "id": "fndds-00941-fish-white-mezcla-species-nfs",
+    "name": "Pescado, blanco, mezcla species, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -15997,8 +15997,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00942-fish-white-mixed-species-baked-or-broiled",
-    "name": "Pescado, blanco, mixed species, horneado o a la parrilla",
+    "id": "fndds-00942-fish-white-mezcla-species-baked-or-broiled",
+    "name": "Pescado, blanco, mezcla species, horneado o a la parrilla",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -16014,8 +16014,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00943-fish-white-mixed-species-baked-or-broiled-coated",
-    "name": "Pescado, blanco, mixed species, horneado o a la parrilla, rebozado",
+    "id": "fndds-00943-fish-white-mezcla-species-baked-or-broiled-coated",
+    "name": "Pescado, blanco, mezcla species, horneado o a la parrilla, rebozado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -16031,8 +16031,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00944-fish-white-mixed-species-fried",
-    "name": "Pescado, blanco, mixed species, frito",
+    "id": "fndds-00944-fish-white-mezcla-species-fried",
+    "name": "Pescado, blanco, mezcla species, frito",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -16048,8 +16048,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00945-fish-white-mixed-species-steamed",
-    "name": "Pescado, blanco, mixed species, al vapor",
+    "id": "fndds-00945-fish-white-mezcla-species-steamed",
+    "name": "Pescado, blanco, mezcla species, al vapor",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -16065,8 +16065,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00946-fish-white-mixed-species-grilled",
-    "name": "Pescado, blanco, mixed species, a la parrilla",
+    "id": "fndds-00946-fish-white-mezcla-species-grilled",
+    "name": "Pescado, blanco, mezcla species, a la parrilla",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -16746,7 +16746,7 @@
   },
   {
     "id": "fndds-00986-barbecue-meat-nfs",
-    "name": "Barrararabacoa carne, no especificado",
+    "name": "barrabacoa carne, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -17103,7 +17103,7 @@
   },
   {
     "id": "fndds-01007-barbecue-beef-with-sauce",
-    "name": "Barrararabacoa carne de res, con salsa",
+    "name": "barrabacoa carne de res, con salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -17120,7 +17120,7 @@
   },
   {
     "id": "fndds-01008-barbecue-beef-no-sauce",
-    "name": "Barrararabacoa carne de res, no salsa",
+    "name": "barrabacoa carne de res, no salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -17153,7 +17153,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01010-stewed-seasoned-ground-beef-mexican-style",
+    "id": "fndds-01010-guisoed-seasoned-ground-beef-mexican-style",
     "name": "Guisado sazonado carne molida de res, mexicano style",
     "category": "general",
     "servingBase": 100,
@@ -17204,7 +17204,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01013-stewed-seasoned-ground-beef-puerto-rican-style",
+    "id": "fndds-01013-guisoed-seasoned-ground-beef-puerto-rican-style",
     "name": "Guisado sazonado carne molida de res, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
@@ -17221,7 +17221,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01014-stewed-dried-beef-puerto-rican-style",
+    "id": "fndds-01014-guisoed-dried-beef-puerto-rican-style",
     "name": "Guisado seco carne de res, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
@@ -17256,7 +17256,7 @@
   },
   {
     "id": "fndds-01016-barbecue-pork-with-sauce",
-    "name": "Barrararabacoa cerdo, con salsa",
+    "name": "barrabacoa cerdo, con salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -17273,7 +17273,7 @@
   },
   {
     "id": "fndds-01017-barbecue-pork-no-sauce",
-    "name": "Barrararabacoa cerdo, no salsa",
+    "name": "barrabacoa cerdo, no salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -17476,7 +17476,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01029-stewed-pork-puerto-rican-style",
+    "id": "fndds-01029-guisoed-pork-puerto-rican-style",
     "name": "Guisado cerdo, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
@@ -17510,7 +17510,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01031-stewed-goat-puerto-rican-style",
+    "id": "fndds-01031-guisoed-goat-puerto-rican-style",
     "name": "Guisado goat, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
@@ -17680,7 +17680,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01041-stewed-chicken-with-tomato-based-sauce-mexican-style",
+    "id": "fndds-01041-guisoed-chicken-with-tomato-based-sauce-mexican-style",
     "name": "Guisado pollo con tomate-based salsa, mexicano style",
     "category": "general",
     "servingBase": 100,
@@ -17851,7 +17851,7 @@
   },
   {
     "id": "fndds-01051-barbecue-chicken",
-    "name": "Barrararabacoa pollo",
+    "name": "barrabacoa pollo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -18139,8 +18139,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01068-seafood-thermidor",
-    "name": "Seafood thermidor",
+    "id": "fndds-01068-mariscos-thermidor",
+    "name": "mariscos thermidor",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -18156,8 +18156,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01069-seafood-sauce",
-    "name": "Seafood salsa",
+    "id": "fndds-01069-mariscos-sauce",
+    "name": "mariscos salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -18173,8 +18173,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01070-spaghetti-sauce-with-seafood",
-    "name": "Espagueti salsa con seafood",
+    "id": "fndds-01070-spaghetti-sauce-with-mariscos",
+    "name": "Espagueti salsa con mariscos",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -18190,8 +18190,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01071-spaghetti-sauce-with-seafood-and-agregado-vegetables",
-    "name": "Espagueti salsa con seafood y verduras añadidas",
+    "id": "fndds-01071-spaghetti-sauce-with-mariscos-and-agregado-vegetables",
+    "name": "Espagueti salsa con mariscos y verduras añadidas",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -18394,8 +18394,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01083-stew-fish",
-    "name": "Stew, pescado",
+    "id": "fndds-01083-guiso-fish",
+    "name": "guiso, pescado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -18496,7 +18496,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01089-stewed-seasoned-ground-beef-and-pork-mexican-style",
+    "id": "fndds-01089-guisoed-seasoned-ground-beef-and-pork-mexican-style",
     "name": "Guisado, sazonado, carne molida de res y cerdo, mexicano style",
     "category": "general",
     "servingBase": 100,
@@ -18581,8 +18581,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01094-corned-beef-hash",
-    "name": "Corned carne de res hash",
+    "id": "fndds-01094-con maiz-beef-hash",
+    "name": "carne de res con maiz hash",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -18615,7 +18615,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01096-stewed-seasoned-ground-beef-with-potatoes-mexican-style",
+    "id": "fndds-01096-guisoed-seasoned-ground-beef-with-potatoes-mexican-style",
     "name": "Guisado, sazonado, carne molida de res con papas, mexicano style",
     "category": "general",
     "servingBase": 100,
@@ -19006,8 +19006,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01119-corned-beef-patty",
-    "name": "Corned carne de res medallón",
+    "id": "fndds-01119-con maiz-beef-patty",
+    "name": "con maiz carne de res medallón",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -19023,8 +19023,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01120-beef-stew-with-potatoes-puerto-rican-style",
-    "name": "Carne de res stew con papas, estilo puertorriqueño",
+    "id": "fndds-01120-beef-guiso-with-potatoes-puerto-rican-style",
+    "name": "Carne de res guiso con papas, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -19278,7 +19278,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01135-stewed-pig-s-feet-puerto-rican-style",
+    "id": "fndds-01135-guisoed-pig-s-feet-puerto-rican-style",
     "name": "Guisado patas de cerdo, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
@@ -19295,8 +19295,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01136-stew-pork",
-    "name": "Stew, cerdo",
+    "id": "fndds-01136-guiso-pork",
+    "name": "guiso, cerdo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -19312,8 +19312,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01137-stew-pork-with-pasta",
-    "name": "Stew, cerdo, con pasta",
+    "id": "fndds-01137-guiso-pork-with-pasta",
+    "name": "guiso, cerdo, con pasta",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -20145,8 +20145,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01186-seafood-souffle",
-    "name": "Seafood souffle",
+    "id": "fndds-01186-mariscos-souffle",
+    "name": "mariscos souffle",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -20298,7 +20298,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01195-stewed-salmon-puerto-rican-style",
+    "id": "fndds-01195-guisoed-salmon-puerto-rican-style",
     "name": "Guisado salmón, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
@@ -20417,7 +20417,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01202-vienna-sausages-stewed-with-potatoes-puerto-rican-style",
+    "id": "fndds-01202-vienna-sausages-guisoed-with-potatoes-puerto-rican-style",
     "name": "Vienna sausages guisado con papas, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
@@ -20434,7 +20434,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01203-stewed-seasoned-ground-beef-and-pork-with-potatoes-mexican-s",
+    "id": "fndds-01203-guisoed-seasoned-ground-beef-and-pork-with-potatoes-mexican-s",
     "name": "Guisado, sazonado, carne molida de res y cerdo con papas, mexicano style",
     "category": "general",
     "servingBase": 100,
@@ -20485,8 +20485,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01206-corned-beef-potatoes-and-vegetables-incluyendo-zanahorias-brocco",
-    "name": "Corned carne de res, papas, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; no salsa",
+    "id": "fndds-01206-con maiz-beef-potatoes-and-vegetables-incluyendo-zanahorias-brocco",
+    "name": "con maiz carne de res, papas, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; no salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -20502,8 +20502,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01207-corned-beef-potatoes-and-vegetables-excluyendo-zanahorias-brocco",
-    "name": "Corned carne de res, papas, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; no salsa",
+    "id": "fndds-01207-con maiz-beef-potatoes-and-vegetables-excluyendo-zanahorias-brocco",
+    "name": "con maiz carne de res, papas, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; no salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -20519,8 +20519,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01208-stew-beef-canned",
-    "name": "Stew, carne de res, enlatado",
+    "id": "fndds-01208-guiso-beef-canned",
+    "name": "guiso, carne de res, enlatado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -20536,8 +20536,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01209-stew-beef",
-    "name": "Stew, carne de res",
+    "id": "fndds-01209-guiso-beef",
+    "name": "guiso, carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -20553,8 +20553,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01210-stew-beef-with-pasta",
-    "name": "Stew, carne de res, con pasta",
+    "id": "fndds-01210-guiso-beef-with-pasta",
+    "name": "guiso, carne de res, con pasta",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -21692,8 +21692,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01277-stew-lamb",
-    "name": "Stew, cordero",
+    "id": "fndds-01277-guiso-lamb",
+    "name": "guiso, cordero",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -21709,7 +21709,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01278-stewed-rabbit-puerto-rican-style",
+    "id": "fndds-01278-guisoed-rabbit-puerto-rican-style",
     "name": "Guisado rabbit, estilo puertorriqueño,",
     "category": "general",
     "servingBase": 100,
@@ -21981,8 +21981,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01294-stew-chicken-with-pasta",
-    "name": "Stew, pollo, con pasta",
+    "id": "fndds-01294-guiso-chicken-with-pasta",
+    "name": "guiso, pollo, con pasta",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -21998,8 +21998,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01295-stew-chicken",
-    "name": "Stew, pollo",
+    "id": "fndds-01295-guiso-chicken",
+    "name": "guiso, pollo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -22559,8 +22559,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01328-paella-with-seafood",
-    "name": "Paella con seafood",
+    "id": "fndds-01328-paella-with-mariscos",
+    "name": "Paella con mariscos",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -22729,8 +22729,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01338-stew-nfs",
-    "name": "Stew, no especificado",
+    "id": "fndds-01338-guiso-nfs",
+    "name": "guiso, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -22797,7 +22797,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01342-stewed-tripe-with-potatoes-puerto-rican-style",
+    "id": "fndds-01342-guisoed-tripe-with-potatoes-puerto-rican-style",
     "name": "Guisado tripe, con papas, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
@@ -23240,7 +23240,7 @@
   },
   {
     "id": "fndds-01368-stir-fried-beef-and-vegetables-in-soy-sauce",
-    "name": "Stir frito carne de res y verduras in salsa de soja",
+    "name": "salteado carne de res y verduras in salsa de soja",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -23375,8 +23375,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01376-greens-with-ham-or-pork",
-    "name": "Greens con jamón o cerdo",
+    "id": "fndds-01376-ensalada verde-with-ham-or-pork",
+    "name": "ensalada verde con jamón o cerdo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24021,7 +24021,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01414-almond-chicken",
+    "id": "fndds-01414-almendra-chicken",
     "name": "Almendra pollo",
     "category": "general",
     "servingBase": 100,
@@ -24072,8 +24072,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01417-chicken-or-turkey-salad-with-nuts-and-or-fruits",
-    "name": "Pollo o pavo ensalada con nuts y/o frutas",
+    "id": "fndds-01417-chicken-or-turkey-salad-with-nueces-and-or-fruits",
+    "name": "Pollo o pavo ensalada con nueces y/o frutas",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24243,7 +24243,7 @@
   },
   {
     "id": "fndds-01427-chicken-or-turkey-garden-salad-chicken-and-or-turkey-tomato-",
-    "name": "Pollo o pavo garden ensalada, pollo y/o pavo, tomate y/o zanahorias, otras verduras, no aderezo",
+    "name": "Pollo o pavo ensalada, pollo y/o pavo, tomate y/o zanahorias, otras verduras, no aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24260,7 +24260,7 @@
   },
   {
     "id": "fndds-01428-chicken-or-turkey-garden-salad-chicken-and-or-turkey-other-v",
-    "name": "Pollo o pavo garden ensalada, pollo y/o pavo, otras verduras excluyendo tomate y zanahorias, no aderezo",
+    "name": "Pollo o pavo ensalada, pollo y/o pavo, otras verduras excluyendo tomate y zanahorias, no aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24277,7 +24277,7 @@
   },
   {
     "id": "fndds-01429-chicken-or-turkey-garden-salad-with-bacon-and-cheese-chicken",
-    "name": "Pollo o pavo garden ensalada con tocineta y queso, pollo y/o pavo, tocineta, queso, lechuga y/o greens, tomate y/o zanahorias, otras verduras, no aderezo",
+    "name": "Pollo o pavo ensalada con tocineta y queso, pollo y/o pavo, tocineta, queso, lechuga y/o ensalada verde, tomate y/o zanahorias, otras verduras, no aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24294,7 +24294,7 @@
   },
   {
     "id": "fndds-01430-chicken-or-turkey-breaded-fried-garden-salad-with-bacon-and-",
-    "name": "Pollo o pavo, empanado, frito, garden ensalada con tocineta y queso, pollo y/o pavo, tocineta, queso, lechuga y/o greens, tomate y/o zanahorias, otras verduras, no aderezo",
+    "name": "Pollo o pavo, empanado, frito, ensalada con tocineta y queso, pollo y/o pavo, tocineta, queso, lechuga y/o ensalada verde, tomate y/o zanahorias, otras verduras, no aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24311,7 +24311,7 @@
   },
   {
     "id": "fndds-01431-chicken-or-turkey-garden-salad-with-cheese-chicken-and-or-tu",
-    "name": "Pollo o pavo garden ensalada con queso, pollo y/o pavo, queso, lechuga y/o greens, tomate y/o zanahorias, otras verduras, no aderezo",
+    "name": "Pollo o pavo ensalada con queso, pollo y/o pavo, queso, lechuga y/o ensalada verde, tomate y/o zanahorias, otras verduras, no aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24328,7 +24328,7 @@
   },
   {
     "id": "fndds-01432-chicken-or-turkey-breaded-fried-garden-salad-with-cheese-chi",
-    "name": "Pollo o pavo, empanado, frito, garden ensalada con queso, pollo y/o pavo, queso, lechuga y/o greens, tomate y/o zanahorias, otras verduras, no aderezo",
+    "name": "Pollo o pavo, empanado, frito, ensalada con queso, pollo y/o pavo, queso, lechuga y/o ensalada verde, tomate y/o zanahorias, otras verduras, no aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24345,7 +24345,7 @@
   },
   {
     "id": "fndds-01433-asian-chicken-or-turkey-garden-salad-chicken-and-or-turkey-l",
-    "name": "Asiático pollo o pavo garden ensalada, pollo y/o pavo, lechuga, fruta, nuts, no aderezo",
+    "name": "Asiático pollo o pavo ensalada, pollo y/o pavo, lechuga, fruta, nueces, no aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24361,8 +24361,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01434-asian-chicken-or-turkey-garden-salad-with-crispy-noodles-chi",
-    "name": "Asiático pollo o pavo garden ensalada con crispy fideos, pollo y/o pavo, lechuga, fruta, nuts, crispy fideos, no aderezo",
+    "id": "fndds-01434-asian-chicken-or-turkey-garden-salad-with-crocante-noodles-chi",
+    "name": "Asiático pollo o pavo ensalada con crocante fideos, pollo y/o pavo, lechuga, fruta, nueces, crocante fideos, no aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24379,7 +24379,7 @@
   },
   {
     "id": "fndds-01435-chicken-or-turkey-caesar-garden-salad-chicken-and-or-turkey-",
-    "name": "Pollo o pavo caesar garden ensalada, pollo y/o pavo, lechuga, tomate, queso, no aderezo",
+    "name": "Pollo o pavo caesar ensalada, pollo y/o pavo, lechuga, tomate, queso, no aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24396,7 +24396,7 @@
   },
   {
     "id": "fndds-01436-chicken-or-turkey-breaded-fried-caesar-garden-salad-chicken-",
-    "name": "Pollo o pavo, empanado, frito, caesar garden ensalada, pollo y/o pavo, lechuga, tomatoes, queso, no aderezo",
+    "name": "Pollo o pavo, empanado, frito, caesar ensalada, pollo y/o pavo, lechuga, tomatoes, queso, no aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24718,8 +24718,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01455-seafood-salad",
-    "name": "Seafood ensalada",
+    "id": "fndds-01455-mariscos-salad",
+    "name": "mariscos ensalada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24770,7 +24770,7 @@
   },
   {
     "id": "fndds-01458-shrimp-garden-salad-shrimp-lettuce-eggs-tomato-and-or-carrot",
-    "name": "Camarón garden ensalada, camarón, lechuga, huevos, tomate y/o zanahorias, otras verduras, no aderezo",
+    "name": "Camarón ensalada, camarón, lechuga, huevos, tomate y/o zanahorias, otras verduras, no aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24787,7 +24787,7 @@
   },
   {
     "id": "fndds-01459-shrimp-garden-salad-shrimp-lettuce-eggs-vegetables-excluyendo",
-    "name": "Camarón garden ensalada, camarón, lechuga, huevos, verduras excluyendo tomate y zanahorias, no aderezo",
+    "name": "Camarón ensalada, camarón, lechuga, huevos, verduras excluyendo tomate y zanahorias, no aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24837,7 +24837,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01462-seafood-garden-salad-with-seafood-lettuce-vegetables-excludi",
+    "id": "fndds-01462-mariscos-garden-salad-with-mariscos-lettuce-vegetables-excludi",
     "name": "Ensalada de mariscos, Ensalada con mariscos, lechuga, verduras excluyendo tomate y zanahorias, no aderezo",
     "category": "general",
     "servingBase": 100,
@@ -24854,7 +24854,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01463-seafood-garden-salad-with-seafood-lettuce-tomato-and-or-carr",
+    "id": "fndds-01463-mariscos-garden-salad-with-mariscos-lettuce-tomato-and-or-carr",
     "name": "Ensalada de mariscos, Ensalada con mariscos, lechuga, tomate y/o zanahorias, otras verduras, no aderezo",
     "category": "general",
     "servingBase": 100,
@@ -24871,7 +24871,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01464-seafood-garden-salad-with-seafood-lettuce-eggs-vegetables-ex",
+    "id": "fndds-01464-mariscos-garden-salad-with-mariscos-lettuce-eggs-vegetables-ex",
     "name": "Ensalada de mariscos, Ensalada con mariscos, lechuga, huevos, verduras excluyendo tomate y zanahorias, no aderezo",
     "category": "general",
     "servingBase": 100,
@@ -24888,7 +24888,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01465-seafood-garden-salad-with-seafood-lettuce-eggs-tomato-and-or",
+    "id": "fndds-01465-mariscos-garden-salad-with-mariscos-lettuce-eggs-tomato-and-or",
     "name": "Ensalada de mariscos, Ensalada con mariscos, lechuga, huevos, tomate y/o zanahorias, otras verduras, no aderezo",
     "category": "general",
     "servingBase": 100,
@@ -25381,7 +25381,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01494-stewed-chitterlings-puerto-rican-style",
+    "id": "fndds-01494-guisoed-chitterlings-puerto-rican-style",
     "name": "Guisado chitterlings, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
@@ -25398,7 +25398,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01495-stewed-gizzards-puerto-rican-style",
+    "id": "fndds-01495-guisoed-gizzards-puerto-rican-style",
     "name": "Guisado gizzards, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
@@ -25467,7 +25467,7 @@
   },
   {
     "id": "fndds-01499-barbecue-sandwich-nfs",
-    "name": "Barrararabacoa sándwich, no especificado",
+    "name": "barrabacoa sándwich, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -25518,7 +25518,7 @@
   },
   {
     "id": "fndds-01502-barbecue-beef-sandwich-on-white-bun",
-    "name": "Barrararabacoa carne de res sándwich, on blanco panecillo",
+    "name": "barrabacoa carne de res sándwich, on blanco panecillo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -25535,7 +25535,7 @@
   },
   {
     "id": "fndds-01503-barbecue-beef-sandwich-on-wheat-bun",
-    "name": "Barrararabacoa carne de res sándwich, on trigo panecillo",
+    "name": "barrabacoa carne de res sándwich, on trigo panecillo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26588,8 +26588,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01565-corned-beef-sandwich-on-white",
-    "name": "Corned carne de res sándwich on blanco",
+    "id": "fndds-01565-con maiz-beef-sandwich-on-white",
+    "name": "con maiz carne de res sándwich on blanco",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26605,8 +26605,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01566-corned-beef-sandwich-on-white-with-cheese",
-    "name": "Corned carne de res sándwich on blanco, con queso",
+    "id": "fndds-01566-con maiz-beef-sandwich-on-white-with-cheese",
+    "name": "con maiz carne de res sándwich on blanco, con queso",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26622,8 +26622,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01567-corned-beef-sandwich-on-wheat",
-    "name": "Corned carne de res sándwich on trigo",
+    "id": "fndds-01567-con maiz-beef-sandwich-on-wheat",
+    "name": "con maiz carne de res sándwich on trigo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26639,8 +26639,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01568-corned-beef-sandwich-on-wheat-with-cheese",
-    "name": "Corned carne de res sándwich on trigo, con queso",
+    "id": "fndds-01568-con maiz-beef-sandwich-on-wheat-with-cheese",
+    "name": "con maiz carne de res sándwich on trigo, con queso",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -27031,7 +27031,7 @@
   },
   {
     "id": "fndds-01591-barbecue-rib-sandwich",
-    "name": "Barrararabacoa rib sándwich",
+    "name": "barrabacoa rib sándwich",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -27048,7 +27048,7 @@
   },
   {
     "id": "fndds-01592-barbecue-pork-sandwich-on-white-bun",
-    "name": "Barrararabacoa cerdo sándwich, on blanco panecillo",
+    "name": "barrabacoa cerdo sándwich, on blanco panecillo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -27065,7 +27065,7 @@
   },
   {
     "id": "fndds-01593-barbecue-pork-sandwich-on-wheat-bun",
-    "name": "Barrararabacoa cerdo sándwich, on trigo panecillo",
+    "name": "barrabacoa cerdo sándwich, on trigo panecillo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -27439,7 +27439,7 @@
   },
   {
     "id": "fndds-01615-barbecue-chicken-sandwich-on-white-bun",
-    "name": "Barrararabacoa pollo sándwich, on blanco panecillo",
+    "name": "barrabacoa pollo sándwich, on blanco panecillo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -27456,7 +27456,7 @@
   },
   {
     "id": "fndds-01616-barbecue-chicken-sandwich-on-wheat-bun",
-    "name": "Barrararabacoa pollo sándwich, on trigo panecillo",
+    "name": "barrabacoa pollo sándwich, on trigo panecillo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -27880,8 +27880,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01641-fried-seafood-sandwich",
-    "name": "Frito seafood sándwich",
+    "id": "fndds-01641-fried-mariscos-sandwich",
+    "name": "Frito mariscos sándwich",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -28135,8 +28135,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01656-seafood-salad-sandwich",
-    "name": "Seafood ensalada sándwich",
+    "id": "fndds-01656-mariscos-salad-sandwich",
+    "name": "mariscos ensalada sándwich",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -28221,7 +28221,7 @@
   },
   {
     "id": "fndds-01661-corn-dog",
-    "name": "Maíz dog",
+    "name": "salchicha empanizada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -28764,8 +28764,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01693-hot-dog-sandwich-vegetarian-on-bun",
-    "name": "Perro caliente sándwich, vegetarian, on panecillo",
+    "id": "fndds-01693-hot-dog-sandwich-vegetariano-on-bun",
+    "name": "Perro caliente sándwich, vegetariano, on panecillo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -28781,8 +28781,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01694-hot-dog-sandwich-vegetarian-on-bread",
-    "name": "Perro caliente sándwich, vegetarian, on pan",
+    "id": "fndds-01694-hot-dog-sandwich-vegetariano-on-bread",
+    "name": "Perro caliente sándwich, vegetariano, on pan",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -34119,8 +34119,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02008-baked-beans-vegetarian",
-    "name": "Horneado frijoles, vegetarian",
+    "id": "fndds-02008-baked-beans-vegetariano",
+    "name": "Horneado frijoles, vegetariano",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -34273,7 +34273,7 @@
   },
   {
     "id": "fndds-02017-bean-dip-made-with-refried-beans",
-    "name": "Frijol dip, hecho con refrito frijoles",
+    "name": "Frijol , salsa de, hecho con refrito frijoles",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -34290,7 +34290,7 @@
   },
   {
     "id": "fndds-02018-layer-dip",
-    "name": "Layer dip",
+    "name": "dip de capas texano",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -34459,8 +34459,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02028-chili-vegetarian",
-    "name": "Chili, vegetarian",
+    "id": "fndds-02028-chili-vegetariano",
+    "name": "Chili, vegetariano",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -34782,8 +34782,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02047-sambar-vegetable-stew",
-    "name": "Sambarrarara, verdura stew",
+    "id": "fndds-02047-sambar-vegetable-guiso",
+    "name": "Sambarra, verdura guiso",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -34833,8 +34833,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02050-soy-nuts",
-    "name": "Soja nuts",
+    "id": "fndds-02050-soy-nueces",
+    "name": "Soja nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35377,8 +35377,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02082-bacon-strip-meatless",
-    "name": "Tocineta strip, meatless",
+    "id": "fndds-02082-bacon-strip-sin carne de res",
+    "name": "Tocineta strip, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35411,8 +35411,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02084-breakfast-link-pattie-or-slice-meatless",
-    "name": "Breakfast link, pattie, o slice, meatless",
+    "id": "fndds-02084-breakfast-link-pattie-or-slice-sin carne de res",
+    "name": "embutidos de salchicha, patty, o loncha",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35428,8 +35428,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02085-chicken-meatless-nfs",
-    "name": "Pollo, meatless, no especificado",
+    "id": "fndds-02085-chicken-sin carne de res-nfs",
+    "name": "Pollo, sin carne de res, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35445,8 +35445,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02086-chicken-meatless-breaded-fried",
-    "name": "Pollo, meatless, empanado, frito",
+    "id": "fndds-02086-chicken-sin carne de res-breaded-fried",
+    "name": "Pollo, sin carne de res, empanado, frito",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35462,8 +35462,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02087-hot-dog-vegetarian",
-    "name": "Perro caliente, vegetarian",
+    "id": "fndds-02087-hot-dog-vegetariano",
+    "name": "Perro caliente, vegetariano",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35479,8 +35479,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02088-luncheon-slice-meatless-beef-chicken-salami-or-turkey",
-    "name": "Luncheon slice, meatless-carne de res, pollo, salami o pavo",
+    "id": "fndds-02088-luncheon-slice-sin carne de res-beef-chicken-salami-or-turkey",
+    "name": "Luncheon slice, sin carne de res-carne de res, pollo, salami o pavo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35496,8 +35496,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02089-meatball-meatless",
-    "name": "Meatball, meatless",
+    "id": "fndds-02089-meatball-sin carne de res",
+    "name": "Meatball, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35530,8 +35530,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02091-swiss-steak-with-gravy-meatless",
-    "name": "Swiss bistec, con salsa, meatless",
+    "id": "fndds-02091-swiss-steak-with-gravy-sin carne de res",
+    "name": "Swiss bistec, con salsa, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35598,8 +35598,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02095-vegetarian-fillet",
-    "name": "Vegetarian, filete",
+    "id": "fndds-02095-vegetariano-fillet",
+    "name": "vegetariano, filete",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35615,8 +35615,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02096-vegetarian-stew",
-    "name": "Vegetarian stew",
+    "id": "fndds-02096-vegetariano-guiso",
+    "name": "vegetariano guiso",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35632,8 +35632,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02097-vegetarian-stroganoff",
-    "name": "Vegetarian stroganoff",
+    "id": "fndds-02097-vegetariano-stroganoff",
+    "name": "vegetariano stroganoff",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35700,8 +35700,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02101-nuts-nfs",
-    "name": "Nuts, no especificado",
+    "id": "fndds-02101-nueces-nfs",
+    "name": "nueces, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35717,8 +35717,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02102-almonds-nfs",
-    "name": "Almonds, no especificado",
+    "id": "fndds-02102-almendras-nfs",
+    "name": "almendras, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35734,8 +35734,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02103-almonds-unroasted",
-    "name": "Almonds, unasado",
+    "id": "fndds-02103-almendras-unroasted",
+    "name": "almendras, unasado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35751,8 +35751,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02104-almonds-salted",
-    "name": "Almonds, ensalada",
+    "id": "fndds-02104-almendras-salted",
+    "name": "almendras, ensalada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35768,8 +35768,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02105-almonds-lightly-salted",
-    "name": "Almonds, lightly ensalada",
+    "id": "fndds-02105-almendras-lightly-salted",
+    "name": "almendras, lightly ensalada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35785,8 +35785,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02106-almonds-unsalted",
-    "name": "Almonds, sin sal",
+    "id": "fndds-02106-almendras-unsalted",
+    "name": "almendras, sin sal",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35802,8 +35802,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02107-almonds-flavored",
-    "name": "Almonds, saborizado",
+    "id": "fndds-02107-almendras-flavored",
+    "name": "almendras, saborizado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35819,8 +35819,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02108-almonds-honey-roasted",
-    "name": "Almonds, miel asado",
+    "id": "fndds-02108-almendras-honey-roasted",
+    "name": "almendras, miel asado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35836,8 +35836,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02109-brazil-nuts",
-    "name": "Brazil nuts",
+    "id": "fndds-02109-brazil-nueces",
+    "name": "Brazil nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35853,8 +35853,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02110-cashews-nfs",
-    "name": "Cashews, no especificado",
+    "id": "fndds-02110-Mereys-nfs",
+    "name": "Mereys, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35870,8 +35870,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02111-cashews-unroasted",
-    "name": "Cashews, unasado",
+    "id": "fndds-02111-Mereys-unroasted",
+    "name": "Mereys, unasado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35887,8 +35887,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02112-cashews-salted",
-    "name": "Cashews, ensalada",
+    "id": "fndds-02112-Mereys-salted",
+    "name": "Mereys, ensalada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35904,8 +35904,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02113-cashews-lightly-salted",
-    "name": "Cashews, lightly ensalada",
+    "id": "fndds-02113-Mereys-lightly-salted",
+    "name": "Mereys, lightly ensalada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35921,8 +35921,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02114-cashews-unsalted",
-    "name": "Cashews, sin sal",
+    "id": "fndds-02114-Mereys-unsalted",
+    "name": "Mereys, sin sal",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35938,8 +35938,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02115-cashews-honey-roasted",
-    "name": "Cashews, miel asado",
+    "id": "fndds-02115-Mereys-honey-roasted",
+    "name": "Mereys, miel asado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -35955,8 +35955,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02116-chestnuts",
-    "name": "Chestnuts",
+    "id": "fndds-02116-chestnueces",
+    "name": "Chestnueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36006,8 +36006,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02119-hazelnuts",
-    "name": "Hazelnuts",
+    "id": "fndds-02119-hazelnueces",
+    "name": "Hazelnueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36023,8 +36023,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02120-macadamia-nuts",
-    "name": "Macadamia nuts",
+    "id": "fndds-02120-macadamia-nueces",
+    "name": "Macadamia nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36040,8 +36040,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02121-mixed-nuts-nfs",
-    "name": "Mixed nuts, no especificado",
+    "id": "fndds-02121-mezcla-nueces-nfs",
+    "name": "mezcla nueces, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36057,8 +36057,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02122-mixed-nuts-unroasted",
-    "name": "Mixed nuts, unasado",
+    "id": "fndds-02122-mezcla-nueces-unroasted",
+    "name": "mezcla nueces, unasado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36074,8 +36074,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02123-mixed-nuts-with-peanuts-salted",
-    "name": "Mixed nuts, con peanuts, ensalada",
+    "id": "fndds-02123-mezcla-nueces-with-peanueces-salted",
+    "name": "mezcla nueces, con peanueces, ensalada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36091,8 +36091,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02124-mixed-nuts-with-peanuts-lightly-salted",
-    "name": "Mixed nuts, con peanuts, lightly ensalada",
+    "id": "fndds-02124-mezcla-nueces-with-peanueces-lightly-salted",
+    "name": "mezcla nueces, con peanueces, lightly ensalada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36108,8 +36108,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02125-mixed-nuts-with-peanuts-unsalted",
-    "name": "Mixed nuts, con peanuts, sin sal",
+    "id": "fndds-02125-mezcla-nueces-with-peanueces-unsalted",
+    "name": "mezcla nueces, con peanueces, sin sal",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36125,8 +36125,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02126-mixed-nuts-without-peanuts-salted",
-    "name": "Mixed nuts, sin peanuts, ensalada",
+    "id": "fndds-02126-mezcla-nueces-without-peanueces-salted",
+    "name": "mezcla nueces, sin peanueces, ensalada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36142,8 +36142,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02127-mixed-nuts-without-peanuts-unsalted",
-    "name": "Mixed nuts, sin peanuts, sin sal",
+    "id": "fndds-02127-mezcla-nueces-without-peanueces-unsalted",
+    "name": "mezcla nueces, sin peanueces, sin sal",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36159,8 +36159,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02128-mixed-nuts-honey-roasted",
-    "name": "Mixed nuts, miel asado",
+    "id": "fndds-02128-mezcla-nueces-honey-roasted",
+    "name": "mezcla nueces, miel asado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36176,8 +36176,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02129-peanuts-nfs",
-    "name": "Peanuts, no especificado",
+    "id": "fndds-02129-peanueces-nfs",
+    "name": "Peanueces, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36193,8 +36193,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02130-peanuts-boiled",
-    "name": "Peanuts, hervido",
+    "id": "fndds-02130-peanueces-boiled",
+    "name": "Peanueces, hervido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36210,8 +36210,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02131-peanuts-unroasted",
-    "name": "Peanuts, unasado",
+    "id": "fndds-02131-peanueces-unroasted",
+    "name": "Peanueces, unasado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36227,8 +36227,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02132-peanuts-roasted-salted",
-    "name": "Peanuts, asado, ensalada",
+    "id": "fndds-02132-peanueces-roasted-salted",
+    "name": "Peanueces, asado, ensalada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36244,8 +36244,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02133-peanuts-roasted-unsalted",
-    "name": "Peanuts, asado, sin sal",
+    "id": "fndds-02133-peanueces-roasted-unsalted",
+    "name": "Peanueces, asado, sin sal",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36261,8 +36261,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02134-peanuts-dry-roasted-salted",
-    "name": "Peanuts, seca asado, ensalada",
+    "id": "fndds-02134-peanueces-dry-roasted-salted",
+    "name": "Peanueces, seca asado, ensalada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36278,8 +36278,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02135-peanuts-dry-roasted-lightly-salted",
-    "name": "Peanuts, seca asado, lightly ensalada",
+    "id": "fndds-02135-peanueces-dry-roasted-lightly-salted",
+    "name": "Peanueces, seca asado, lightly ensalada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36295,8 +36295,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02136-peanuts-dry-roasted-unsalted",
-    "name": "Peanuts, seca asado, sin sal",
+    "id": "fndds-02136-peanueces-dry-roasted-unsalted",
+    "name": "Peanueces, seca asado, sin sal",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36312,8 +36312,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02137-peanuts-honey-roasted",
-    "name": "Peanuts, miel asado",
+    "id": "fndds-02137-peanueces-honey-roasted",
+    "name": "Peanueces, miel asado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36329,8 +36329,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02138-pecans-nfs",
-    "name": "Pecans, no especificado",
+    "id": "fndds-02138-pecanas-nfs",
+    "name": "pecanas, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36346,8 +36346,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02139-pecans-unroasted",
-    "name": "Pecans, unasado",
+    "id": "fndds-02139-pecanas-unroasted",
+    "name": "pecanas, unasado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36363,8 +36363,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02140-pecans-salted",
-    "name": "Pecans, ensalada",
+    "id": "fndds-02140-pecanas-salted",
+    "name": "pecanas, ensalada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36380,8 +36380,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02141-pecans-unsalted",
-    "name": "Pecans, sin sal",
+    "id": "fndds-02141-pecanas-unsalted",
+    "name": "pecanas, sin sal",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36397,8 +36397,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02142-pecans-honey-roasted",
-    "name": "Pecans, miel asado",
+    "id": "fndds-02142-pecanas-honey-roasted",
+    "name": "pecanas, miel asado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36414,8 +36414,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02143-pine-nuts",
-    "name": "Pine nuts",
+    "id": "fndds-02143-pine-nueces",
+    "name": "Pine nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36431,8 +36431,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02144-pistachio-nuts-nfs",
-    "name": "Pistachio nuts, no especificado",
+    "id": "fndds-02144-pistachio-nueces-nfs",
+    "name": "Pistachio nueces, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36448,8 +36448,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02145-pistachio-nuts-salted",
-    "name": "Pistachio nuts, ensalada",
+    "id": "fndds-02145-pistachio-nueces-salted",
+    "name": "Pistachio nueces, ensalada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36465,8 +36465,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02146-pistachio-nuts-lightly-salted",
-    "name": "Pistachio nuts, lightly ensalada",
+    "id": "fndds-02146-pistachio-nueces-lightly-salted",
+    "name": "Pistachio nueces, lightly ensalada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36482,8 +36482,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02147-pistachio-nuts-unsalted",
-    "name": "Pistachio nuts, sin sal",
+    "id": "fndds-02147-pistachio-nueces-unsalted",
+    "name": "Pistachio nueces, sin sal",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36499,8 +36499,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02148-walnuts-excluyendo-honey-roasted",
-    "name": "Walnuts, excluyendo miel asado",
+    "id": "fndds-02148-walnueces-excluyendo-honey-roasted",
+    "name": "Walnueces, excluyendo miel asado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36516,8 +36516,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02149-walnuts-honey-roasted",
-    "name": "Walnuts, miel asado",
+    "id": "fndds-02149-walnueces-honey-roasted",
+    "name": "Walnueces, miel asado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36533,7 +36533,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02150-almond-butter",
+    "id": "fndds-02150-almendra-butter",
     "name": "Almendra mantequilla",
     "category": "general",
     "servingBase": 100,
@@ -36550,7 +36550,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02151-almond-butter-lower-sodium",
+    "id": "fndds-02151-almendra-butter-lower-sodium",
     "name": "Almendra mantequilla, lower sodium",
     "category": "general",
     "servingBase": 100,
@@ -36567,7 +36567,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02152-almond-paste",
+    "id": "fndds-02152-almendra-paste",
     "name": "Almendra paste",
     "category": "general",
     "servingBase": 100,
@@ -36584,7 +36584,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02153-cashew-butter",
+    "id": "fndds-02153-Merey-butter",
     "name": "Merey mantequilla",
     "category": "general",
     "servingBase": 100,
@@ -36687,7 +36687,7 @@
   },
   {
     "id": "fndds-02159-peanut-butter-vitamin-and-mineral-fortified",
-    "name": "Maní mantequilla, vitamin y mineral fortified",
+    "name": "Maní mantequilla, vitaminas y minerales fortificada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -36788,8 +36788,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02165-gravy-vegetarian",
-    "name": "Salsa, vegetarian",
+    "id": "fndds-02165-gravy-vegetariano",
+    "name": "Salsa, vegetariano",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -37026,7 +37026,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02179-almond-butter-sandwich-on-white-bread",
+    "id": "fndds-02179-almendra-butter-sandwich-on-white-bread",
     "name": "Almendra mantequilla sándwich, on blanco pan",
     "category": "general",
     "servingBase": 100,
@@ -37043,7 +37043,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02180-almond-butter-sandwich-on-wheat-bread",
+    "id": "fndds-02180-almendra-butter-sandwich-on-wheat-bread",
     "name": "Almendra mantequilla sándwich, on trigo pan",
     "category": "general",
     "servingBase": 100,
@@ -37060,7 +37060,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02181-almond-butter-and-jelly-sandwich-on-white-bread",
+    "id": "fndds-02181-almendra-butter-and-jelly-sandwich-on-white-bread",
     "name": "Almendra mantequilla y jelly sándwich, on blanco pan",
     "category": "general",
     "servingBase": 100,
@@ -37077,7 +37077,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02182-almond-butter-and-jelly-sandwich-on-wheat-bread",
+    "id": "fndds-02182-almendra-butter-and-jelly-sandwich-on-wheat-bread",
     "name": "Almendra mantequilla y jelly sándwich, on trigo pan",
     "category": "general",
     "servingBase": 100,
@@ -37162,7 +37162,7 @@
     "servingWeightGrams": 103
   },
   {
-    "id": "fndds-02187-yogurt-almond-milk",
+    "id": "fndds-02187-yogurt-almendra-milk",
     "name": "Yogur, almendra leche",
     "category": "general",
     "servingBase": 100,
@@ -37247,8 +37247,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02192-trail-mix-with-nuts",
-    "name": "Trail mix con nuts",
+    "id": "fndds-02192-trail-mix-with-nueces",
+    "name": "Trail mix con nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -37264,8 +37264,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02193-trail-mix-with-nuts-and-fruit",
-    "name": "Trail mix con nuts y fruta",
+    "id": "fndds-02193-trail-mix-with-nueces-and-fruit",
+    "name": "Trail mix con nueces y fruta",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -37485,8 +37485,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02206-mixed-seeds",
-    "name": "Mixed seeds",
+    "id": "fndds-02206-mezcla-seeds",
+    "name": "mezcla seeds",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -38302,7 +38302,7 @@
   },
   {
     "id": "fndds-02254-bread-reduced-calorie-and-or-high-fiber-white-or-nfs-with-fr",
-    "name": "Pan, reduced calorie y/o high fiber, blanco o no especificado, con fruta y/o nuts",
+    "name": "Pan, reduced calorie y/o high fiber, blanco o no especificado, con fruta y/o nueces",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -38319,7 +38319,7 @@
   },
   {
     "id": "fndds-02255-bread-reduced-calorie-and-or-high-fiber-white-or-nfs-with-fr",
-    "name": "Pan, reduced calorie y/o high fiber, blanco o no especificado, con fruta y/o nuts, toasted",
+    "name": "Pan, reduced calorie y/o high fiber, blanco o no especificado, con fruta y/o nueces, toasted",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -38420,8 +38420,8 @@
     "servingWeightGrams": 28
   },
   {
-    "id": "fndds-02261-bread-raisin",
-    "name": "Pan, raisin",
+    "id": "fndds-02261-bread-pasas",
+    "name": "Pan, pasas",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -38437,8 +38437,8 @@
     "servingWeightGrams": 28
   },
   {
-    "id": "fndds-02262-bread-raisin-toasted",
-    "name": "Pan, raisin, toasted",
+    "id": "fndds-02262-bread-pasas-toasted",
+    "name": "Pan, pasas, toasted",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -39984,8 +39984,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02353-bagel-wheat-with-fruit-and-nuts",
-    "name": "Rosca, trigo, con fruta y nuts",
+    "id": "fndds-02353-bagel-wheat-with-fruit-and-nueces",
+    "name": "Rosca, trigo, con fruta y nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -42772,7 +42772,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02517-cookie-almond",
+    "id": "fndds-02517-cookie-almendra",
     "name": "Galleta, almendra",
     "category": "general",
     "servingBase": 100,
@@ -42909,7 +42909,7 @@
   },
   {
     "id": "fndds-02525-cookie-bar-with-chocolate",
-    "name": "Galleta, barrarara, con chocolate",
+    "name": "Galleta, barra, con chocolate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43214,8 +43214,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02543-cookie-bar-with-chocolate-nuts-and-graham-crackers",
-    "name": "Galleta barrarara, con chocolate, nuts, y graham crackers",
+    "id": "fndds-02543-cookie-bar-with-chocolate-nueces-and-graham-crackers",
+    "name": "Galleta barra, con chocolate, nueces, y graham crackers",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43249,7 +43249,7 @@
   },
   {
     "id": "fndds-02545-cookie-fruit-filled-bar",
-    "name": "Galleta, fruta-filled barrarara",
+    "name": "Galleta, fruta-filled barra",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43266,7 +43266,7 @@
   },
   {
     "id": "fndds-02546-cookie-fig-bar",
-    "name": "Galleta, higo barrarara",
+    "name": "Galleta, higo barra",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43368,7 +43368,7 @@
   },
   {
     "id": "fndds-02552-cookie-lemon-bar",
-    "name": "Galleta, limón barrarara",
+    "name": "Galleta, limón barra",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43792,8 +43792,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02577-cookie-raisin",
-    "name": "Galleta, raisin",
+    "id": "fndds-02577-cookie-pasas",
+    "name": "Galleta, pasas",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43809,8 +43809,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02578-cookie-raisin-sandwich-cream-filled",
-    "name": "Galleta, raisin sándwich, crema-filled",
+    "id": "fndds-02578-cookie-pasas-sandwich-cream-filled",
+    "name": "Galleta, pasas sándwich, crema-filled",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43996,8 +43996,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02589-cookie-butter-or-sugar-with-fruit-and-or-nuts",
-    "name": "Galleta, mantequilla o azúcar, con fruta y/o nuts",
+    "id": "fndds-02589-cookie-butter-or-sugar-with-fruit-and-or-nueces",
+    "name": "Galleta, mantequilla o azúcar, con fruta y/o nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -44031,7 +44031,7 @@
   },
   {
     "id": "fndds-02591-cookie-toffee-bar",
-    "name": "Galleta, toffee barrarara",
+    "name": "Galleta, toffee barra",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -44727,8 +44727,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02632-pie-pecan",
-    "name": "Tarta, pecan",
+    "id": "fndds-02632-pie-pecana",
+    "name": "Tarta, pecana",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45867,7 +45867,7 @@
   },
   {
     "id": "fndds-02699-cereal-or-granola-bar-general-mills-fiber-one-chewy-bar",
-    "name": "Cereal o granola barrarara (General Mills Fiber One Chewy barrarara)",
+    "name": "Cereal o granola barra (General Mills Fiber One Chewy barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45884,7 +45884,7 @@
   },
   {
     "id": "fndds-02700-cereal-or-granola-bar-kellogg-s-nutri-grain-cereal-bar",
-    "name": "Cereal o granola barrarara (Kellogg's Nutri-Grain cereal barrarara)",
+    "name": "Cereal o granola barra (Kellogg's Nutri-Grain cereal barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45901,7 +45901,7 @@
   },
   {
     "id": "fndds-02701-cereal-or-granola-bar-kellogg-s-nutri-grain-yogurt-bar",
-    "name": "Cereal o granola barrarara (Kellogg's Nutri-Grain yogur barrarara)",
+    "name": "Cereal o granola barra (Kellogg's Nutri-Grain yogur barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45918,7 +45918,7 @@
   },
   {
     "id": "fndds-02702-cereal-or-granola-bar-kellogg-s-nutri-grain-fruit-and-nut-ba",
-    "name": "Cereal o granola barrarara (Kellogg's Nutri-Grain fruta y Nut barrarara)",
+    "name": "Cereal o granola barra (Kellogg's Nutri-Grain fruta y Nut barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45935,7 +45935,7 @@
   },
   {
     "id": "fndds-02703-milk-n-cereal-bar",
-    "name": "Leche 'n cereal barrarara",
+    "name": "Leche 'n cereal barra",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -45952,7 +45952,7 @@
   },
   {
     "id": "fndds-02704-cereal-or-granola-bar-kellogg-s-special-k-bar",
-    "name": "Cereal o granola barrarara (Kellogg's Special K barrarara)",
+    "name": "Cereal o granola barra (Kellogg's Special K barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45969,7 +45969,7 @@
   },
   {
     "id": "fndds-02705-cereal-or-granola-bar-kashi-chewy",
-    "name": "Cereal o granola barrarara (Kashi Chewy)",
+    "name": "Cereal o granola barra (Kashi Chewy)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45986,7 +45986,7 @@
   },
   {
     "id": "fndds-02706-cereal-or-granola-bar-kashi-crunchy",
-    "name": "Cereal o granola barrarara (Kashi Crunchy)",
+    "name": "Cereal o granola barra (Kashi Crunchy)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46003,7 +46003,7 @@
   },
   {
     "id": "fndds-02707-cereal-or-granola-bar-kind-fruit-and-nut-bar",
-    "name": "Cereal o granola barrarara (clase fruta y Nut barrarara)",
+    "name": "Cereal o granola barra (clase fruta y Nut barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46020,7 +46020,7 @@
   },
   {
     "id": "fndds-02708-cereal-or-granola-bar-general-mills-nature-valley-chewy-trai",
-    "name": "Cereal o granola barrarara (General Mills Nature Valley Chewy Trail Mix)",
+    "name": "Cereal o granola barra (General Mills Nature Valley Chewy Trail Mix)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46037,7 +46037,7 @@
   },
   {
     "id": "fndds-02709-cereal-or-granola-bar-with-yogurt-coating-general-mills-natu",
-    "name": "Cereal o granola barrarara, con yogur rebozado (General Mills Nature Valley Chewy granola barrarara)",
+    "name": "Cereal o granola barra, con yogur rebozado (General Mills Nature Valley Chewy granola barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46054,7 +46054,7 @@
   },
   {
     "id": "fndds-02710-cereal-or-granola-bar-general-mills-nature-valley-dulce-and-",
-    "name": "Cereal o granola barrarara (General Mills Nature Valley dulce y Salty granola barrarara)",
+    "name": "Cereal o granola barra (General Mills Nature Valley dulce y Salty granola barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46071,7 +46071,7 @@
   },
   {
     "id": "fndds-02711-cereal-or-granola-bar-general-mills-nature-valley-crunchy-gr",
-    "name": "Cereal o granola barrarara (General Mills Nature Valley Crunchy granola barrarara)",
+    "name": "Cereal o granola barra (General Mills Nature Valley Crunchy granola barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46088,7 +46088,7 @@
   },
   {
     "id": "fndds-02712-cereal-or-granola-bar-quaker-chewy-granola-bar",
-    "name": "Cereal o granola barrarara (Quaker Chewy granola barrarara)",
+    "name": "Cereal o granola barra (Quaker Chewy granola barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46105,7 +46105,7 @@
   },
   {
     "id": "fndds-02713-cereal-or-granola-bar-quaker-chewy-90-calorie-granola-bar",
-    "name": "Cereal o granola barrarara (Quaker Chewy 90 Calorie granola barrarara)",
+    "name": "Cereal o granola barra (Quaker Chewy 90 Calorie granola barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46122,7 +46122,7 @@
   },
   {
     "id": "fndds-02714-cereal-or-granola-bar-quaker-chewy-25-less-sugar-granola-bar",
-    "name": "Cereal o granola barrarara (Quaker Chewy 25% Less azúcar granola barrarara)",
+    "name": "Cereal o granola barra (Quaker Chewy 25% Less azúcar granola barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46139,7 +46139,7 @@
   },
   {
     "id": "fndds-02715-cereal-or-granola-bar-quaker-chewy-dipps-granola-bar",
-    "name": "Cereal o granola barrarara (Quaker Chewy dipps granola barrarara)",
+    "name": "Cereal o granola barra (Quaker Chewy dip granola barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46156,7 +46156,7 @@
   },
   {
     "id": "fndds-02716-cereal-or-granola-bar-quaker-granola-bites",
-    "name": "Cereal o granola barrarara (Quaker granola Bites)",
+    "name": "Cereal o granola barra (Quaker granola Bites)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46173,7 +46173,7 @@
   },
   {
     "id": "fndds-02717-snack-bar-oatmeal",
-    "name": "Snack barrarara, avena",
+    "name": "Snack barra, avena",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46190,7 +46190,7 @@
   },
   {
     "id": "fndds-02718-cereal-or-granola-bar-nfs",
-    "name": "Cereal o granola barrarara, no especificado",
+    "name": "Cereal o granola barra, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46207,7 +46207,7 @@
   },
   {
     "id": "fndds-02719-cereal-or-granola-bar-lowfat-nfs",
-    "name": "Cereal o granola barrarara, lowfat, no especificado",
+    "name": "Cereal o granola barra, lowfat, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46224,7 +46224,7 @@
   },
   {
     "id": "fndds-02720-cereal-or-granola-bar-nonfat",
-    "name": "Cereal o granola barrarara, sin grasa",
+    "name": "Cereal o granola barra, sin grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46241,7 +46241,7 @@
   },
   {
     "id": "fndds-02721-cereal-or-granola-bar-reduced-sugar-nfs",
-    "name": "Cereal o granola barrarara, reduced azúcar, no especificado",
+    "name": "Cereal o granola barra, reduced azúcar, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46258,7 +46258,7 @@
   },
   {
     "id": "fndds-02722-cereal-or-granola-bar-fruit-and-nut",
-    "name": "Cereal o granola barrarara, fruta y nut",
+    "name": "Cereal o granola barra, fruta y nut",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46274,8 +46274,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02723-cereal-or-granola-bar-peanuts-oats-sugar-wheat-germ",
-    "name": "Cereal o granola barrarara, peanuts, avena, azúcar, trigo germ",
+    "id": "fndds-02723-cereal-or-granola-bar-peanueces-oats-sugar-wheat-germ",
+    "name": "Cereal o granola barra, peanueces, avena, azúcar, trigo germ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46292,7 +46292,7 @@
   },
   {
     "id": "fndds-02724-cereal-or-granola-bar-chocolate-coated-nfs",
-    "name": "Cereal o granola barrarara, chocolate rebozado, no especificado",
+    "name": "Cereal o granola barra, chocolate rebozado, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46309,7 +46309,7 @@
   },
   {
     "id": "fndds-02725-cereal-or-granola-bar-with-coconut-chocolate-coated",
-    "name": "Cereal o granola barrarara, con coco, chocolate rebozado",
+    "name": "Cereal o granola barra, con coco, chocolate rebozado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46325,8 +46325,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02726-cereal-or-granola-bar-with-nuts-chocolate-coated",
-    "name": "Cereal o granola barrarara con nuts, chocolate rebozado",
+    "id": "fndds-02726-cereal-or-granola-bar-with-nueces-chocolate-coated",
+    "name": "Cereal o granola barra con nueces, chocolate rebozado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46342,8 +46342,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02727-cereal-or-granola-bar-oats-nuts-coated-with-non-chocolate-co",
-    "name": "Cereal o granola barrarara, avena, nuts, rebozado con non-chocolate rebozado",
+    "id": "fndds-02727-cereal-or-granola-bar-oats-nueces-coated-with-non-chocolate-co",
+    "name": "Cereal o granola barra, avena, nueces, rebozado con non-chocolate rebozado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46360,7 +46360,7 @@
   },
   {
     "id": "fndds-02728-cereal-or-granola-bar-coated-with-non-chocolate-coating",
-    "name": "Cereal o granola barrarara, rebozado con non-chocolate rebozado",
+    "name": "Cereal o granola barra, rebozado con non-chocolate rebozado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46377,7 +46377,7 @@
   },
   {
     "id": "fndds-02729-cereal-or-granola-bar-high-fiber-coated-with-non-chocolate-y",
-    "name": "Cereal o granola barrarara, high fiber, rebozado con non-chocolate yogur rebozado",
+    "name": "Cereal o granola barra, high fiber, rebozado con non-chocolate yogur rebozado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46394,7 +46394,7 @@
   },
   {
     "id": "fndds-02730-cereal-or-granola-bar-with-rice-cereal",
-    "name": "Cereal o granola barrarara, con arroz cereal",
+    "name": "Cereal o granola barra, con arroz cereal",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46411,7 +46411,7 @@
   },
   {
     "id": "fndds-02731-breakfast-bar-nfs",
-    "name": "Breakfast barrarara, no especificado",
+    "name": "Breakfast barra, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46428,7 +46428,7 @@
   },
   {
     "id": "fndds-02732-breakfast-bar-date-with-yogurt-coating",
-    "name": "Breakfast barrarara, date, con yogur rebozado",
+    "name": "Breakfast barra, date, con yogur rebozado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46445,7 +46445,7 @@
   },
   {
     "id": "fndds-02733-breakfast-bar-cereal-crust-with-fruit-filling-lowfat",
-    "name": "Breakfast barrarara, cereal crust con fruta filling, lowfat",
+    "name": "Breakfast barra, cereal crust con fruta filling, lowfat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46462,7 +46462,7 @@
   },
   {
     "id": "fndds-02734-nutrition-bar-balance-original-bar",
-    "name": "Nutrition barrarara (Balance Original barrarara)",
+    "name": "Nutrition barra (Balance Original barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46479,7 +46479,7 @@
   },
   {
     "id": "fndds-02735-nutrition-bar-clif-bar",
-    "name": "Nutrition barrarara (Clif barrarara)",
+    "name": "Nutrition barra (Clif barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46496,7 +46496,7 @@
   },
   {
     "id": "fndds-02736-nutrition-bar-clif-kids-organic-zbar",
-    "name": "Nutrition barrarara (Clif Kids Organic Zbarrarara)",
+    "name": "Nutrition barra (Clif Kids Organic Zbarra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46513,7 +46513,7 @@
   },
   {
     "id": "fndds-02737-nutrition-bar-powerbar",
-    "name": "Nutrition barrarara (Powerbarrarara)",
+    "name": "Nutrition barra (Powerbarra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46530,7 +46530,7 @@
   },
   {
     "id": "fndds-02738-nutrition-bar-slim-fast-original-meal-bar",
-    "name": "Nutrition barrarara (Slim Fast Original Meal barrarara)",
+    "name": "Nutrition barra (Slim Fast Original Meal barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46547,7 +46547,7 @@
   },
   {
     "id": "fndds-02739-nutrition-bar-snickers-marathon-protein-bar",
-    "name": "Nutrition barrarara (Snickers Marathon proteína barrarara)",
+    "name": "Nutrition barra (Snickers Marathon proteína barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46564,7 +46564,7 @@
   },
   {
     "id": "fndds-02740-nutrition-bar-south-beach-living-meal-bar",
-    "name": "Nutrition barrarara (South Beach Living Meal barrarara)",
+    "name": "Nutrition barra (South Beach Living Meal barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46581,7 +46581,7 @@
   },
   {
     "id": "fndds-02741-nutrition-bar-south-beach-living-high-protein-bar",
-    "name": "Nutrition barrarara (South Beach Living High proteína barrarara)",
+    "name": "Nutrition barra (South Beach Living High proteína barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46598,7 +46598,7 @@
   },
   {
     "id": "fndds-02742-nutrition-bar-tiger-s-milk",
-    "name": "Nutrition barrarara (Tiger's leche)",
+    "name": "Nutrition barra (Tiger's leche)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46614,8 +46614,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02743-nutrition-bar-zone-perfect-classic-crunch",
-    "name": "Nutrition barrarara (Zone Perfect Classic Crunch)",
+    "id": "fndds-02743-nutrition-bar-zone-perfect-Clasica-crunch",
+    "name": "Nutrition barra (Zone Perfect Clasica Crunch)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46632,7 +46632,7 @@
   },
   {
     "id": "fndds-02744-nutrition-bar-or-meal-replacement-bar-nfs",
-    "name": "Nutrition barrarara o meal replacement barrarara, no especificado",
+    "name": "Nutrition barra o meal replacement barra, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -47260,8 +47260,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02781-crackers-rice-and-nuts",
-    "name": "Crackers, arroz y nuts",
+    "id": "fndds-02781-crackers-rice-and-nueces",
+    "name": "Crackers, arroz y nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -47787,8 +47787,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02812-corn-nuts",
-    "name": "Maíz nuts",
+    "id": "fndds-02812-corn-nueces",
+    "name": "Maíz nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -48552,8 +48552,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02857-popcorn-caramel-coated-with-nuts",
-    "name": "Popcorn, caramel rebozado, con nuts",
+    "id": "fndds-02857-popcorn-caramel-coated-with-nueces",
+    "name": "Popcorn, caramel rebozado, con nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -49046,7 +49046,7 @@
   },
   {
     "id": "fndds-02886-pretzels-soft-ready-to-eat-salted-buttered",
-    "name": "Pretzels, soft, listo para comer, ensalada, mantequillaed",
+    "name": "Pretzels, soft, listo para comer, ensalada, enmantequillado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -49063,7 +49063,7 @@
   },
   {
     "id": "fndds-02887-pretzels-soft-ready-to-eat-unsalted-buttered",
-    "name": "Pretzels, soft, listo para comer, sin sal, mantequillaed",
+    "name": "Pretzels, soft, listo para comer, sin sal, enmantequillado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -52139,8 +52139,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03068-cereal-chocolate-crispy",
-    "name": "Cereal, chocolate crispy",
+    "id": "fndds-03068-cereal-chocolate-crocante",
+    "name": "Cereal, chocolate crocante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -52207,8 +52207,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03072-cereal-rice-crispy-plain",
-    "name": "Cereal, arroz crispy, natural",
+    "id": "fndds-03072-cereal-rice-crocante-plain",
+    "name": "Cereal, arroz crocante, natural",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -52258,8 +52258,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03075-cereal-rice-crispy-flavored",
-    "name": "Cereal, arroz crispy, saborizado",
+    "id": "fndds-03075-cereal-rice-crocante-flavored",
+    "name": "Cereal, arroz crocante, saborizado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -52292,8 +52292,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03077-cereal-fruit-crispy",
-    "name": "Cereal, fruta crispy",
+    "id": "fndds-03077-cereal-fruit-crocante",
+    "name": "Cereal, fruta crocante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -53142,8 +53142,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03127-taco-or-tostada-salad-meatless",
-    "name": "Taco o tostada ensalada, meatless",
+    "id": "fndds-03127-taco-or-tostada-salad-sin carne de res",
+    "name": "Taco o tostada ensalada, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -53193,8 +53193,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03130-taco-or-tostada-salad-meatless-with-sour-cream",
-    "name": "Taco o tostada ensalada, meatless con sour crema",
+    "id": "fndds-03130-taco-or-tostada-salad-sin carne de res-with-sour-cream",
+    "name": "Taco o tostada ensalada, sin carne de res con sour crema",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -56100,8 +56100,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03301-calzone-with-cheese-meatless",
-    "name": "Calzone, con queso, meatless",
+    "id": "fndds-03301-calzone-with-cheese-sin carne de res",
+    "name": "Calzone, con queso, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -56372,8 +56372,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03317-egg-roll-meatless",
-    "name": "Huevo panecillo, meatless",
+    "id": "fndds-03317-egg-roll-sin carne de res",
+    "name": "Huevo panecillo, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -56916,8 +56916,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03349-spinach-quiche-meatless",
-    "name": "Espinaca quiche, meatless",
+    "id": "fndds-03349-spinach-quiche-sin carne de res",
+    "name": "Espinaca quiche, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -56933,8 +56933,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03350-cheese-quiche-meatless",
-    "name": "Queso quiche, meatless",
+    "id": "fndds-03350-cheese-quiche-sin carne de res",
+    "name": "Queso quiche, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -56967,8 +56967,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03352-pastelitos dulces-or-hot-pocket-meatless",
-    "name": "pastelitos dulces o hot pocket, meatless",
+    "id": "fndds-03352-pastelitos dulces-or-hot-pocket-sin carne de res",
+    "name": "pastelitos dulces o hot pocket, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57069,8 +57069,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03358-pastelitos dulces-seafood",
-    "name": "pastelitos dulces, seafood",
+    "id": "fndds-03358-pastelitos dulces-mariscos",
+    "name": "pastelitos dulces, mariscos",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57358,8 +57358,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03375-lasagna-meatless",
-    "name": "Lasaña, meatless",
+    "id": "fndds-03375-lasagna-sin carne de res",
+    "name": "Lasaña, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57375,8 +57375,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03376-lasagna-meatless-with-vegetables",
-    "name": "Lasaña, meatless, con verduras",
+    "id": "fndds-03376-lasagna-sin carne de res-with-vegetables",
+    "name": "Lasaña, sin carne de res, con verduras",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57664,8 +57664,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03393-manicotti-cheese-filled-with-tomato-sauce-meatless",
-    "name": "Manicotti, queso-filled, con salsa de tomate, meatless",
+    "id": "fndds-03393-manicotti-cheese-filled-with-tomato-sauce-sin carne de res",
+    "name": "Manicotti, queso-filled, con salsa de tomate, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57699,7 +57699,7 @@
   },
   {
     "id": "fndds-03395-manicotti-vegetable-and-cheese-filled-with-tomato-sauce-meat",
-    "name": "Manicotti, verdura- y queso-filled, con salsa de tomate, meatless",
+    "name": "Manicotti, verdura- y queso-filled, con salsa de tomate, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57732,8 +57732,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03397-stuffed-shells-cheese-filled-with-tomato-sauce-meatless",
-    "name": "Relleno shells, queso-filled, con salsa de tomate, meatless",
+    "id": "fndds-03397-stuffed-shells-cheese-filled-with-tomato-sauce-sin carne de res",
+    "name": "Relleno shells, queso-filled, con salsa de tomate, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57851,8 +57851,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03404-tortellini-cheese-filled-meatless-with-tomato-sauce",
-    "name": "Tortellini, queso-filled, meatless, con salsa de tomate",
+    "id": "fndds-03404-tortellini-cheese-filled-sin carne de res-with-tomato-sauce",
+    "name": "Tortellini, queso-filled, sin carne de res, con salsa de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57868,8 +57868,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03405-tortellini-cheese-filled-meatless-with-tomato-sauce-canned",
-    "name": "Tortellini, queso-filled, meatless, con salsa de tomate, enlatado",
+    "id": "fndds-03405-tortellini-cheese-filled-sin carne de res-with-tomato-sauce-canned",
+    "name": "Tortellini, queso-filled, sin carne de res, con salsa de tomate, enlatado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57885,8 +57885,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03406-tortellini-cheese-filled-meatless-with-vinaigrette-dressing",
-    "name": "Tortellini, queso-filled, meatless, con vinaigrette aderezo",
+    "id": "fndds-03406-tortellini-cheese-filled-sin carne de res-with-vinaigrette-dressing",
+    "name": "Tortellini, queso-filled, sin carne de res, con vinaigrette aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58021,8 +58021,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03414-chow-fun-noodles-with-vegetables-meatless",
-    "name": "Chow fun fideos con verduras, meatless",
+    "id": "fndds-03414-chow-fun-noodles-with-vegetables-sin carne de res",
+    "name": "Chow fun fideos con verduras, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58055,8 +58055,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03416-lo-mein-meatless",
-    "name": "Lo mein, meatless",
+    "id": "fndds-03416-lo-mein-sin carne de res",
+    "name": "Lo mein, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58157,8 +58157,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03422-pad-thai-meatless",
-    "name": "Pad Thai, meatless",
+    "id": "fndds-03422-pad-thai-sin carne de res",
+    "name": "Pad Thai, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58191,8 +58191,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03424-pad-thai-with-seafood",
-    "name": "Pad Thai con seafood",
+    "id": "fndds-03424-pad-thai-with-mariscos",
+    "name": "Pad Thai con mariscos",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58565,8 +58565,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03446-pasta-with-sauce-meatless-school-lunch",
-    "name": "Pasta con salsa, meatless, almuerzo escolar",
+    "id": "fndds-03446-pasta-with-sauce-sin carne de res-school-lunch",
+    "name": "Pasta con salsa, sin carne de res, almuerzo escolar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58905,8 +58905,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03466-pasta-with-tomato-based-sauce-and-seafood-restaurant",
-    "name": "Pasta con tomate-based salsa y seafood, restaurante",
+    "id": "fndds-03466-pasta-with-tomato-based-sauce-and-mariscos-restaurant",
+    "name": "Pasta con tomate-based salsa y mariscos, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58922,8 +58922,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03467-pasta-with-tomato-based-sauce-and-seafood-home-recipe",
-    "name": "Pasta con tomate-based salsa y seafood, receta casera",
+    "id": "fndds-03467-pasta-with-tomato-based-sauce-and-mariscos-home-recipe",
+    "name": "Pasta con tomate-based salsa y mariscos, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58939,8 +58939,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03468-pasta-with-tomato-based-sauce-and-seafood-ready-to-heat",
-    "name": "Pasta con tomate-based salsa y seafood, ready-to-heat",
+    "id": "fndds-03468-pasta-with-tomato-based-sauce-and-mariscos-ready-to-heat",
+    "name": "Pasta con tomate-based salsa y mariscos, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58956,8 +58956,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03469-pasta-with-tomato-based-sauce-seafood-and-agregado-vegetables-r",
-    "name": "Pasta con tomate-based salsa, seafood, y verduras añadidas, restaurante",
+    "id": "fndds-03469-pasta-with-tomato-based-sauce-mariscos-and-agregado-vegetables-r",
+    "name": "Pasta con tomate-based salsa, mariscos, y verduras añadidas, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58973,8 +58973,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03470-pasta-with-tomato-based-sauce-seafood-and-agregado-vegetables-h",
-    "name": "Pasta con tomate-based salsa, seafood, y verduras añadidas, receta casera",
+    "id": "fndds-03470-pasta-with-tomato-based-sauce-mariscos-and-agregado-vegetables-h",
+    "name": "Pasta con tomate-based salsa, mariscos, y verduras añadidas, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58990,8 +58990,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03471-pasta-with-tomato-based-sauce-seafood-and-agregado-vegetables-r",
-    "name": "Pasta con tomate-based salsa, seafood, y verduras añadidas, ready-to-heat",
+    "id": "fndds-03471-pasta-with-tomato-based-sauce-mariscos-and-agregado-vegetables-r",
+    "name": "Pasta con tomate-based salsa, mariscos, y verduras añadidas, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59313,8 +59313,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03490-pasta-with-cream-sauce-and-seafood-restaurant",
-    "name": "Pasta con salsa de crema y seafood, restaurante",
+    "id": "fndds-03490-pasta-with-cream-sauce-and-mariscos-restaurant",
+    "name": "Pasta con salsa de crema y mariscos, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59330,8 +59330,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03491-pasta-with-cream-sauce-and-seafood-home-recipe",
-    "name": "Pasta con salsa de crema y seafood, receta casera",
+    "id": "fndds-03491-pasta-with-cream-sauce-and-mariscos-home-recipe",
+    "name": "Pasta con salsa de crema y mariscos, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59347,8 +59347,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03492-pasta-with-cream-sauce-and-seafood-ready-to-heat",
-    "name": "Pasta con salsa de crema y seafood, ready-to-heat",
+    "id": "fndds-03492-pasta-with-cream-sauce-and-mariscos-ready-to-heat",
+    "name": "Pasta con salsa de crema y mariscos, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59364,8 +59364,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03493-pasta-with-cream-sauce-seafood-and-agregado-vegetables-restaura",
-    "name": "Pasta con salsa de crema, seafood, y verduras añadidas, restaurante",
+    "id": "fndds-03493-pasta-with-cream-sauce-mariscos-and-agregado-vegetables-restaura",
+    "name": "Pasta con salsa de crema, mariscos, y verduras añadidas, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59381,8 +59381,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03494-pasta-with-cream-sauce-seafood-and-agregado-vegetables-home-rec",
-    "name": "Pasta con salsa de crema, seafood, y verduras añadidas, receta casera",
+    "id": "fndds-03494-pasta-with-cream-sauce-mariscos-and-agregado-vegetables-home-rec",
+    "name": "Pasta con salsa de crema, mariscos, y verduras añadidas, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59398,8 +59398,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03495-pasta-with-cream-sauce-seafood-and-agregado-vegetables-ready-to",
-    "name": "Pasta con salsa de crema, seafood, y verduras añadidas, ready-to-heat",
+    "id": "fndds-03495-pasta-with-cream-sauce-mariscos-and-agregado-vegetables-ready-to",
+    "name": "Pasta con salsa de crema, mariscos, y verduras añadidas, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59721,8 +59721,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03514-pasta-whole-grain-with-tomato-based-sauce-and-seafood-restau",
-    "name": "Pasta, grano entero, con tomate-based salsa y seafood, restaurante",
+    "id": "fndds-03514-pasta-whole-grain-with-tomato-based-sauce-and-mariscos-restau",
+    "name": "Pasta, grano entero, con tomate-based salsa y mariscos, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59738,8 +59738,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03515-pasta-whole-grain-with-tomato-based-sauce-and-seafood-home-r",
-    "name": "Pasta, grano entero, con tomate-based salsa y seafood, receta casera",
+    "id": "fndds-03515-pasta-whole-grain-with-tomato-based-sauce-and-mariscos-home-r",
+    "name": "Pasta, grano entero, con tomate-based salsa y mariscos, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59755,8 +59755,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03516-pasta-whole-grain-with-tomato-based-sauce-and-seafood-ready-",
-    "name": "Pasta, grano entero, con tomate-based salsa y seafood, ready-to-heat",
+    "id": "fndds-03516-pasta-whole-grain-with-tomato-based-sauce-and-mariscos-ready-",
+    "name": "Pasta, grano entero, con tomate-based salsa y mariscos, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59772,8 +59772,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03517-pasta-whole-grain-with-tomato-based-sauce-seafood-and-agregado-",
-    "name": "Pasta, grano entero, con tomate-based salsa, seafood, y verduras añadidas, restaurante",
+    "id": "fndds-03517-pasta-whole-grain-with-tomato-based-sauce-mariscos-and-agregado-",
+    "name": "Pasta, grano entero, con tomate-based salsa, mariscos, y verduras añadidas, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59789,8 +59789,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03518-pasta-whole-grain-with-tomato-based-sauce-seafood-and-agregado-",
-    "name": "Pasta, grano entero, con tomate-based salsa, seafood, y verduras añadidas, receta casera",
+    "id": "fndds-03518-pasta-whole-grain-with-tomato-based-sauce-mariscos-and-agregado-",
+    "name": "Pasta, grano entero, con tomate-based salsa, mariscos, y verduras añadidas, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59806,8 +59806,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03519-pasta-whole-grain-with-tomato-based-sauce-seafood-and-agregado-",
-    "name": "Pasta, grano entero, con tomate-based salsa, seafood, y verduras añadidas, ready-to-heat",
+    "id": "fndds-03519-pasta-whole-grain-with-tomato-based-sauce-mariscos-and-agregado-",
+    "name": "Pasta, grano entero, con tomate-based salsa, mariscos, y verduras añadidas, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -60129,8 +60129,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03538-pasta-whole-grain-with-cream-sauce-and-seafood-restaurant",
-    "name": "Pasta, grano entero, con salsa de crema y seafood, restaurante",
+    "id": "fndds-03538-pasta-whole-grain-with-cream-sauce-and-mariscos-restaurant",
+    "name": "Pasta, grano entero, con salsa de crema y mariscos, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -60146,8 +60146,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03539-pasta-whole-grain-with-cream-sauce-and-seafood-home-recipe",
-    "name": "Pasta, grano entero, con salsa de crema y seafood, receta casera",
+    "id": "fndds-03539-pasta-whole-grain-with-cream-sauce-and-mariscos-home-recipe",
+    "name": "Pasta, grano entero, con salsa de crema y mariscos, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -60163,8 +60163,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03540-pasta-whole-grain-with-cream-sauce-and-seafood-ready-to-heat",
-    "name": "Pasta, grano entero, con salsa de crema y seafood, ready-to-heat",
+    "id": "fndds-03540-pasta-whole-grain-with-cream-sauce-and-mariscos-ready-to-heat",
+    "name": "Pasta, grano entero, con salsa de crema y mariscos, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -60180,8 +60180,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03541-pasta-whole-grain-with-cream-sauce-seafood-and-agregado-vegetab",
-    "name": "Pasta, grano entero, con salsa de crema, seafood, y verduras añadidas, restaurante",
+    "id": "fndds-03541-pasta-whole-grain-with-cream-sauce-mariscos-and-agregado-vegetab",
+    "name": "Pasta, grano entero, con salsa de crema, mariscos, y verduras añadidas, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -60197,8 +60197,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03542-pasta-whole-grain-with-cream-sauce-seafood-and-agregado-vegetab",
-    "name": "Pasta, grano entero, con salsa de crema, seafood, y verduras añadidas, receta casera",
+    "id": "fndds-03542-pasta-whole-grain-with-cream-sauce-mariscos-and-agregado-vegetab",
+    "name": "Pasta, grano entero, con salsa de crema, mariscos, y verduras añadidas, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -60214,8 +60214,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03543-pasta-whole-grain-with-cream-sauce-seafood-and-agregado-vegetab",
-    "name": "Pasta, grano entero, con salsa de crema, seafood, y verduras añadidas, ready-to-heat",
+    "id": "fndds-03543-pasta-whole-grain-with-cream-sauce-mariscos-and-agregado-vegetab",
+    "name": "Pasta, grano entero, con salsa de crema, mariscos, y verduras añadidas, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -60639,8 +60639,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03568-rice-fried-meatless",
-    "name": "Arroz, frito, meatless",
+    "id": "fndds-03568-rice-fried-sin carne de res",
+    "name": "Arroz, frito, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61013,8 +61013,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03590-seafood-paella-puerto-rican-style",
-    "name": "Seafood paella, estilo puertorriqueño",
+    "id": "fndds-03590-mariscos-paella-puerto-rican-style",
+    "name": "mariscos paella, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61064,7 +61064,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03593-stewed-rice-puerto-rican-style",
+    "id": "fndds-03593-guisoed-rice-puerto-rican-style",
     "name": "Guisado arroz, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
@@ -61132,7 +61132,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03597-rice-with-stewed-beans-puerto-rican-style",
+    "id": "fndds-03597-rice-with-guisoed-beans-puerto-rican-style",
     "name": "Arroz con guisado frijoles, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
@@ -61149,8 +61149,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03598-Arroz con gachas (asiatico)-with-meat-poultry-and-or-seafood",
-    "name": "Arroz con gachas (asiatico), con carne, poultry, y/o seafood",
+    "id": "fndds-03598-Arroz con gachas (asiatico)-with-meat-poultry-and-or-mariscos",
+    "name": "Arroz con gachas (asiatico), con carne, poultry, y/o mariscos",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61166,8 +61166,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03599-Arroz con gachas (asiatico)-with-meat-poultry-and-or-seafood-and-vegetables",
-    "name": "Arroz con gachas (asiatico), con carne, poultry, y/o seafood, y verduras",
+    "id": "fndds-03599-Arroz con gachas (asiatico)-with-meat-poultry-and-or-mariscos-and-vegetables",
+    "name": "Arroz con gachas (asiatico), con carne, poultry, y/o mariscos, y verduras",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62730,8 +62730,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03691-stuffed-pepper-with-rice-meatless",
-    "name": "Relleno pimiento, con arroz, meatless",
+    "id": "fndds-03691-stuffed-pepper-with-rice-sin carne de res",
+    "name": "Relleno pimiento, con arroz, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62764,8 +62764,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03693-stuffed-tomato-with-rice-meatless",
-    "name": "Relleno tomate, con arroz, meatless",
+    "id": "fndds-03693-stuffed-tomato-with-rice-sin carne de res",
+    "name": "Relleno tomate, con arroz, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -64141,8 +64141,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03774-ramen-bowl-vegetarian",
-    "name": "Ramen bowl, vegetarian",
+    "id": "fndds-03774-ramen-bowl-vegetariano",
+    "name": "Ramen bowl, vegetariano",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -64175,8 +64175,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03776-ramen-bowl-vegetarian-with-egg",
-    "name": "Ramen bowl, vegetarian con huevo",
+    "id": "fndds-03776-ramen-bowl-vegetariano-with-egg",
+    "name": "Ramen bowl, vegetariano con huevo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -66029,7 +66029,7 @@
   },
   {
     "id": "fndds-03885-rhubarb",
-    "name": "Rhubarrararab",
+    "name": "Rhubarrab",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -66777,7 +66777,7 @@
   },
   {
     "id": "fndds-03929-frozen-fruit-juice-bar",
-    "name": "Congelado fruta jugo barrarara",
+    "name": "Congelado fruta jugo barra",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -66794,7 +66794,7 @@
   },
   {
     "id": "fndds-03930-frozen-fruit-juice-bar-no-sugar-agregado",
-    "name": "Congelado fruta jugo barrarara, no azúcar agregado",
+    "name": "Congelado fruta jugo barra, no azúcar agregado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -67864,7 +67864,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03993-baby-toddler-juice-mixed-fruit",
+    "id": "fndds-03993-baby-toddler-juice-mezcla-fruit",
     "name": "Apto para Bebé o niño pequeño, jugo, frutas mixtas",
     "category": "general",
     "servingBase": 100,
@@ -68544,7 +68544,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04033-stewed-potatoes-puerto-rican-style",
+    "id": "fndds-04033-guisoed-potatoes-puerto-rican-style",
     "name": "Guisado papas, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
@@ -68561,8 +68561,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04034-potato-only-from-puerto-rican-mixed-dishes-gravy-and-other-c",
-    "name": "Papa solo de Puerto Rican mixed dishes, salsa y otras components reported separately",
+    "id": "fndds-04034-potato-only-from-puerto-rican-mezcla-dishes-gravy-and-other-c",
+    "name": "Papa solo de Puerto Rican mezcla dishes, salsa y otras components reported separately",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -68595,8 +68595,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04036-potato-from-puerto-rican-beef-stew-with-gravy",
-    "name": "Papa de Puerto Rican carne de res stew, con salsa",
+    "id": "fndds-04036-potato-from-puerto-rican-beef-guiso-with-gravy",
+    "name": "Papa de Puerto Rican carne de res guiso, con salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -68664,7 +68664,7 @@
   },
   {
     "id": "fndds-04040-potato-chips-barbecue-flavored",
-    "name": "Papa chips, barrararabacoa saborizado",
+    "name": "Papa chips, barrabacoa saborizado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -68749,7 +68749,7 @@
   },
   {
     "id": "fndds-04045-potato-chips-ruffled-barbecue-flavored",
-    "name": "Papa chips, ruffled, barrararabacoa saborizado",
+    "name": "Papa chips, ruffled, barrabacoa saborizado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -69054,8 +69054,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04063-potato-sticks-fry-shaped",
-    "name": "Papa sticks, fry shaped",
+    "id": "fndds-04063-potato-sticks-frito-shaped",
+    "name": "Papa sticks, frito shaped",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -70890,7 +70890,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04171-stewed-potatoes",
+    "id": "fndds-04171-guisoed-potatoes",
     "name": "Guisado papas",
     "category": "general",
     "servingBase": 100,
@@ -70907,7 +70907,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04172-stewed-potatoes-with-tomatoes",
+    "id": "fndds-04172-guisoed-potatoes-with-tomatoes",
     "name": "Guisado papas con tomatoes",
     "category": "general",
     "servingBase": 100,
@@ -71162,8 +71162,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04187-beet-greens-raw",
-    "name": "Beet greens, sin cocinar",
+    "id": "fndds-04187-beet-ensalada verde-raw",
+    "name": "Beet ensalada verde, sin cocinar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71179,8 +71179,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04188-beet-greens-cooked",
-    "name": "Beet greens, cocido",
+    "id": "fndds-04188-beet-ensalada verde-cooked",
+    "name": "Beet ensalada verde, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71468,8 +71468,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04205-dandelion-greens-raw",
-    "name": "Dandelion greens, sin cocinar",
+    "id": "fndds-04205-dandelion-ensalada verde-raw",
+    "name": "Dandelion ensalada verde, sin cocinar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71485,8 +71485,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04206-dandelion-greens-cooked",
-    "name": "Dandelion greens, cocido",
+    "id": "fndds-04206-dandelion-ensalada verde-cooked",
+    "name": "Dandelion ensalada verde, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71553,8 +71553,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04210-greens-fresh-cooked-no-agregado-fat",
-    "name": "Greens, fresco, cocido, sin grasa añadida",
+    "id": "fndds-04210-ensalada verde-fresh-cooked-no-agregado-fat",
+    "name": "ensalada verde, fresco, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71570,8 +71570,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04211-greens-frozen-cooked-no-agregado-fat",
-    "name": "Greens, congelado, cocido, sin grasa añadida",
+    "id": "fndds-04211-ensalada verde-frozen-cooked-no-agregado-fat",
+    "name": "ensalada verde, congelado, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71587,8 +71587,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04212-greens-ns-as-to-form-cooked",
-    "name": "Greens, sin especificar presentación, cocido",
+    "id": "fndds-04212-ensalada verde-ns-as-to-form-cooked",
+    "name": "ensalada verde, sin especificar presentación, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71604,8 +71604,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04213-greens-fresh-cooked-fat-agregado",
-    "name": "Greens, fresco, cocido, con grasa añadida",
+    "id": "fndds-04213-ensalada verde-fresh-cooked-fat-agregado",
+    "name": "ensalada verde, fresco, cocido, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71621,8 +71621,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04214-greens-frozen-cooked-fat-agregado",
-    "name": "Greens, congelado, cocido, con grasa añadida",
+    "id": "fndds-04214-ensalada verde-frozen-cooked-fat-agregado",
+    "name": "ensalada verde, congelado, cocido, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71638,8 +71638,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04215-greens-canned-cooked",
-    "name": "Greens, enlatado, cocido",
+    "id": "fndds-04215-ensalada verde-canned-cooked",
+    "name": "ensalada verde, enlatado, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71774,8 +71774,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04223-mustard-greens-raw",
-    "name": "Mostaza greens, sin cocinar",
+    "id": "fndds-04223-mustard-ensalada verde-raw",
+    "name": "Mostaza ensalada verde, sin cocinar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71791,8 +71791,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04224-mustard-greens-fresh-cooked-no-agregado-fat",
-    "name": "Mostaza greens, fresco, cocido, sin grasa añadida",
+    "id": "fndds-04224-mustard-ensalada verde-fresh-cooked-no-agregado-fat",
+    "name": "Mostaza ensalada verde, fresco, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71808,8 +71808,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04225-mustard-greens-frozen-cooked-no-agregado-fat",
-    "name": "Mostaza greens, congelado, cocido, sin grasa añadida",
+    "id": "fndds-04225-mustard-ensalada verde-frozen-cooked-no-agregado-fat",
+    "name": "Mostaza ensalada verde, congelado, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71825,8 +71825,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04226-mustard-greens-ns-as-to-form-cooked",
-    "name": "Mostaza greens, sin especificar presentación, cocido",
+    "id": "fndds-04226-mustard-ensalada verde-ns-as-to-form-cooked",
+    "name": "Mostaza ensalada verde, sin especificar presentación, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71842,8 +71842,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04227-mustard-greens-fresh-cooked-fat-agregado",
-    "name": "Mostaza greens, fresco, cocido, con grasa añadida",
+    "id": "fndds-04227-mustard-ensalada verde-fresh-cooked-fat-agregado",
+    "name": "Mostaza ensalada verde, fresco, cocido, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71859,8 +71859,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04228-mustard-greens-frozen-cooked-fat-agregado",
-    "name": "Mostaza greens, congelado, cocido, con grasa añadida",
+    "id": "fndds-04228-mustard-ensalada verde-frozen-cooked-fat-agregado",
+    "name": "Mostaza ensalada verde, congelado, cocido, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -71876,8 +71876,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04229-poke-greens-cooked",
-    "name": "Poke greens, cocido",
+    "id": "fndds-04229-poke-ensalada verde-cooked",
+    "name": "Poke ensalada verde, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -72250,8 +72250,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04251-turnip-greens-fresh-cooked-no-agregado-fat",
-    "name": "Nabo greens, fresco, cocido, sin grasa añadida",
+    "id": "fndds-04251-turnip-ensalada verde-fresh-cooked-no-agregado-fat",
+    "name": "Nabo ensalada verde, fresco, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -72267,8 +72267,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04252-turnip-greens-frozen-cooked-no-agregado-fat",
-    "name": "Nabo greens, congelado, cocido, sin grasa añadida",
+    "id": "fndds-04252-turnip-ensalada verde-frozen-cooked-no-agregado-fat",
+    "name": "Nabo ensalada verde, congelado, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -72284,8 +72284,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04253-turrnip-greens-ns-as-to-form-cooked",
-    "name": "Turrnip greens, sin especificar presentación, cocido",
+    "id": "fndds-04253-turrnip-ensalada verde-ns-as-to-form-cooked",
+    "name": "Turrnip ensalada verde, sin especificar presentación, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -72301,8 +72301,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04254-turnip-greens-fresh-cooked-fat-agregado",
-    "name": "Nabo greens, fresco, cocido, con grasa añadida",
+    "id": "fndds-04254-turnip-ensalada verde-fresh-cooked-fat-agregado",
+    "name": "Nabo ensalada verde, fresco, cocido, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -72318,8 +72318,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04255-turnip-greens-frozen-cooked-fat-agregado",
-    "name": "Nabo greens, congelado, cocido, con grasa añadida",
+    "id": "fndds-04255-turnip-ensalada verde-frozen-cooked-fat-agregado",
+    "name": "Nabo ensalada verde, congelado, cocido, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -72386,8 +72386,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04259-dulce-potato-squash-pumpkin-chrysanthemum-or-bean-leaves-coo",
-    "name": "Batata, squash, calabaza, chrysanthemum, o frijol leaves, cocido",
+    "id": "fndds-04259-dulce-potato-zapallo-pumpkin-chrysanthemum-or-bean-leaves-coo",
+    "name": "Batata, zapallo, calabaza, chrysantemo, o frijol, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -73253,8 +73253,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04310-winter-squash-raw",
-    "name": "Winter squash, sin cocinar",
+    "id": "fndds-04310-winter-zapallo-raw",
+    "name": "zapallo, sin cocinar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -73270,8 +73270,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04311-winter-squash-cooked-no-agregado-fat",
-    "name": "Winter squash, cocido, sin grasa añadida",
+    "id": "fndds-04311-winter-zapallo-cooked-no-agregado-fat",
+    "name": "zapallo, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -73287,8 +73287,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04312-winter-squash-cooked-fat-agregado",
-    "name": "Winter squash, cocido, con grasa añadida",
+    "id": "fndds-04312-winter-zapallo-cooked-fat-agregado",
+    "name": "zapallo, cocido, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -73304,8 +73304,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04313-squash-winter-souffle",
-    "name": "Squash, winter, souffle",
+    "id": "fndds-04313-zapallo-winter-souffle",
+    "name": "zapallo, winter, souffle",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -74223,7 +74223,7 @@
   },
   {
     "id": "fndds-04367-barbecue-sauce",
-    "name": "Barrararabacoa salsa",
+    "name": "barrabacoa salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -74494,8 +74494,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04383-artichoke",
-    "name": "Artichoke",
+    "id": "fndds-04383-alcachofa",
+    "name": "alcachofa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -74936,8 +74936,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04409-mixed-salad-greens-raw",
-    "name": "Mixed ensalada greens, sin cocinar",
+    "id": "fndds-04409-mezcla-salad-ensalada verde-raw",
+    "name": "mezcla ensalada ensalada verde, sin cocinar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -75174,8 +75174,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04423-snowpeas-raw",
-    "name": "Snowpeas, sin cocinar",
+    "id": "fndds-04423-arvejas-raw",
+    "name": "arvejas, sin cocinar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -75191,8 +75191,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04424-summer-squash-yellow-raw",
-    "name": "Summer squash, amarillo, sin cocinar",
+    "id": "fndds-04424-summer-zapallo-yellow-raw",
+    "name": "zapallo, amarillo, sin cocinar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -75208,8 +75208,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04425-summer-squash-green-raw",
-    "name": "Summer squash, verde, sin cocinar",
+    "id": "fndds-04425-summer-zapallo-green-raw",
+    "name": "zapallo, verde, sin cocinar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -75242,8 +75242,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04427-mixed-vegetable-juice",
-    "name": "Mixed verdura jugo",
+    "id": "fndds-04427-mezcla-vegetable-juice",
+    "name": "mezcla verdura jugo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -75294,7 +75294,7 @@
   },
   {
     "id": "fndds-04430-broccoli-slaw-salad",
-    "name": "Brócoli slaw ensalada",
+    "name": "Brócoli en tiras ensalada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -75311,7 +75311,7 @@
   },
   {
     "id": "fndds-04431-coleslaw-fast-food-restaurant",
-    "name": "Coleslaw, comida rápida/restaurante",
+    "name": "ensalada de col, comida rápida/restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -75328,7 +75328,7 @@
   },
   {
     "id": "fndds-04432-coleslaw",
-    "name": "Coleslaw",
+    "name": "ensalada de col",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -75362,7 +75362,7 @@
   },
   {
     "id": "fndds-04434-coleslaw-with-fruit",
-    "name": "Coleslaw, con fruta",
+    "name": "ensalada de col, con fruta",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -77299,8 +77299,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04548-flowers-or-blossoms-of-sesbania-squash-or-lily-cooked",
-    "name": "Flowers o blossoms de sesbania, squash, o lily, cocido",
+    "id": "fndds-04548-flowers-or-blossoms-of-sesbania-zapallo-or-lily-cooked",
+    "name": "Flowers o blossoms de sesbania, zapallo, o lily, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -77725,7 +77725,7 @@
   },
   {
     "id": "fndds-04573-blackeyed-peas-from-frozen",
-    "name": "Guisantes de ojo negro, de congelado",
+    "name": "Guisantes negros, congelados",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78183,8 +78183,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04600-snowpeas-fresh-cooked-no-agregado-fat",
-    "name": "Snowpeas, fresco, cocido, sin grasa añadida",
+    "id": "fndds-04600-arvejas-fresh-cooked-no-agregado-fat",
+    "name": "arvejas, fresco, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78200,8 +78200,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04601-snowpeas-frozen-cooked-no-agregado-fat",
-    "name": "Snowpeas, congelado, cocido, sin grasa añadida",
+    "id": "fndds-04601-arvejas-frozen-cooked-no-agregado-fat",
+    "name": "arvejas, congelado, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78217,8 +78217,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04602-snowpeas-ns-as-to-form-cooked",
-    "name": "Snowpeas, sin especificar presentación, cocido",
+    "id": "fndds-04602-arvejas-ns-as-to-form-cooked",
+    "name": "arvejas, sin especificar presentación, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78234,8 +78234,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04603-snowpeas-fresh-cooked-fat-agregado",
-    "name": "Snowpeas, fresco, cocido, con grasa añadida",
+    "id": "fndds-04603-arvejas-fresh-cooked-fat-agregado",
+    "name": "arvejas, fresco, cocido, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78251,8 +78251,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04604-snowpeas-frozen-cooked-fat-agregado",
-    "name": "Snowpeas, congelado, cocido, con grasa añadida",
+    "id": "fndds-04604-arvejas-frozen-cooked-fat-agregado",
+    "name": "arvejas, congelado, cocido, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78319,8 +78319,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04608-summer-squash-yellow-or-green-fresh-cooked-no-agregado-fat",
-    "name": "Summer squash, amarillo o verde, fresco, cocido, sin grasa añadida",
+    "id": "fndds-04608-summer-zapallo-yellow-or-green-fresh-cooked-no-agregado-fat",
+    "name": "zapallo, amarillo o verde, fresco, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78336,8 +78336,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04609-summer-squash-yellow-or-green-frozen-cooked-no-agregado-fat",
-    "name": "Summer squash, amarillo o verde, congelado, cocido, sin grasa añadida",
+    "id": "fndds-04609-summer-zapallo-yellow-or-green-frozen-cooked-no-agregado-fat",
+    "name": "zapallo, amarillo o verde, congelado, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78353,8 +78353,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04610-summer-squash-yellow-or-green-ns-as-to-form-cooked",
-    "name": "Summer squash, amarillo o verde, sin especificar presentación, cocido",
+    "id": "fndds-04610-summer-zapallo-yellow-or-green-ns-as-to-form-cooked",
+    "name": "zapallo, amarillo o verde, sin especificar presentación, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78370,8 +78370,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04611-summer-squash-yellow-or-green-fresh-cooked-fat-agregado-ns-as-t",
-    "name": "Summer squash, amarillo o verde, fresco, cocido, con grasa añadida, sin especificar grasa tipo",
+    "id": "fndds-04611-summer-zapallo-yellow-or-green-fresh-cooked-fat-agregado-ns-as-t",
+    "name": "zapallo, amarillo o verde, fresco, cocido, con grasa añadida, sin especificar grasa tipo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78387,8 +78387,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04612-summer-squash-yellow-or-green-frozen-cooked-fat-agregado-ns-as-",
-    "name": "Summer squash, amarillo o verde, congelado, cocido, con grasa añadida, sin especificar grasa tipo",
+    "id": "fndds-04612-summer-zapallo-yellow-or-green-frozen-cooked-fat-agregado-ns-as-",
+    "name": "zapallo, amarillo o verde, congelado, cocido, con grasa añadida, sin especificar grasa tipo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78404,8 +78404,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04613-summer-squash-yellow-or-green-canned-cooked-fat-agregado-ns-as-",
-    "name": "Summer squash, amarillo o verde, enlatado, cocido, con grasa añadida, sin especificar grasa tipo",
+    "id": "fndds-04613-summer-zapallo-yellow-or-green-canned-cooked-fat-agregado-ns-as-",
+    "name": "zapallo, amarillo o verde, enlatado, cocido, con grasa añadida, sin especificar grasa tipo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78421,8 +78421,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04614-summer-squash-yellow-or-green-fresh-cooked-with-oil",
-    "name": "Summer squash, amarillo o verde, fresco, cocido con aceite",
+    "id": "fndds-04614-summer-zapallo-yellow-or-green-fresh-cooked-with-oil",
+    "name": "zapallo, amarillo o verde, fresco, cocido con aceite",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78438,8 +78438,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04615-summer-squash-yellow-or-green-fresh-cooked-with-butter-or-ma",
-    "name": "Summer squash, amarillo o verde, fresco, cocido con mantequilla o margarina",
+    "id": "fndds-04615-summer-zapallo-yellow-or-green-fresh-cooked-with-butter-or-ma",
+    "name": "zapallo, amarillo o verde, fresco, cocido con mantequilla o margarina",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78455,8 +78455,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04616-summer-squash-yellow-or-green-frozen-cooked-with-oil",
-    "name": "Summer squash, amarillo o verde, congelado, cocido con aceite",
+    "id": "fndds-04616-summer-zapallo-yellow-or-green-frozen-cooked-with-oil",
+    "name": "zapallo, amarillo o verde, congelado, cocido con aceite",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78472,8 +78472,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04617-summer-squash-yellow-or-green-frozen-cooked-with-butter-or-m",
-    "name": "Summer squash, amarillo o verde, congelado, cocido con mantequilla o margarina",
+    "id": "fndds-04617-summer-zapallo-yellow-or-green-frozen-cooked-with-butter-or-m",
+    "name": "zapallo, amarillo o verde, congelado, cocido con mantequilla o margarina",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78489,8 +78489,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04618-spaghetti-squash-cooked",
-    "name": "Espagueti squash, cocido",
+    "id": "fndds-04618-spaghetti-zapallo-cooked",
+    "name": "Espagueti zapallo, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78524,7 +78524,7 @@
   },
   {
     "id": "fndds-04620-water-chesnut",
-    "name": "Agua Chesnut",
+    "name": "castaña de agua china",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -78676,8 +78676,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04629-classic-mixed-vegetables-cooked-from-restaurant",
-    "name": "Classic mixed verduras, cocido, de restaurante",
+    "id": "fndds-04629-Clasica-mezcla-vegetables-cooked-from-restaurant",
+    "name": "Clasica mezcla verduras, cocido, de restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78693,8 +78693,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04630-classic-mixed-vegetables-frozen-cooked-no-agregado-fat",
-    "name": "Classic mixed verduras, congelado, cocido, sin grasa añadida",
+    "id": "fndds-04630-Clasica-mezcla-vegetables-frozen-cooked-no-agregado-fat",
+    "name": "Clasica mezcla verduras, congelado, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78710,8 +78710,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04631-classic-mixed-vegetables-canned-cooked-no-agregado-fat",
-    "name": "Classic mixed verduras, enlatado, cocido, sin grasa añadida",
+    "id": "fndds-04631-Clasica-mezcla-vegetables-canned-cooked-no-agregado-fat",
+    "name": "Clasica mezcla verduras, enlatado, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78727,8 +78727,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04632-classic-mixed-vegetables-ns-as-to-form-cooked",
-    "name": "Classic mixed verduras, sin especificar presentación, cocido",
+    "id": "fndds-04632-Clasica-mezcla-vegetables-ns-as-to-form-cooked",
+    "name": "Clasica mezcla verduras, sin especificar presentación, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78744,8 +78744,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04633-classic-mixed-vegetables-frozen-cooked-fat-agregado-ns-as-to-fa",
-    "name": "Classic mixed verduras, congelado, cocido, con grasa añadida, sin especificar grasa tipo",
+    "id": "fndds-04633-Clasica-mezcla-vegetables-frozen-cooked-fat-agregado-ns-as-to-fa",
+    "name": "Clasica mezcla verduras, congelado, cocido, con grasa añadida, sin especificar grasa tipo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78761,8 +78761,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04634-classic-mixed-vegetables-canned-cooked-fat-agregado-ns-as-to-fa",
-    "name": "Classic mixed verduras, enlatado, cocido, con grasa añadida, sin especificar grasa tipo",
+    "id": "fndds-04634-Clasica-mezcla-vegetables-canned-cooked-fat-agregado-ns-as-to-fa",
+    "name": "Clasica mezcla verduras, enlatado, cocido, con grasa añadida, sin especificar grasa tipo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78778,8 +78778,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04635-classic-mixed-vegetables-frozen-cooked-with-oil",
-    "name": "Classic mixed verduras, congelado, cocido con aceite",
+    "id": "fndds-04635-Clasica-mezcla-vegetables-frozen-cooked-with-oil",
+    "name": "Clasica mezcla verduras, congelado, cocido con aceite",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78795,8 +78795,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04636-classic-mixed-vegetables-frozen-cooked-with-butter-or-margar",
-    "name": "Classic mixed verduras, congelado, cocido con mantequilla o margarina",
+    "id": "fndds-04636-Clasica-mezcla-vegetables-frozen-cooked-with-butter-or-margar",
+    "name": "Clasica mezcla verduras, congelado, cocido con mantequilla o margarina",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78812,8 +78812,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04637-classic-mixed-vegetables-canned-cooked-with-oil",
-    "name": "Classic mixed verduras, enlatado, cocido con aceite",
+    "id": "fndds-04637-Clasica-mezcla-vegetables-canned-cooked-with-oil",
+    "name": "Clasica mezcla verduras, enlatado, cocido con aceite",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78829,8 +78829,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04638-classic-mixed-vegetables-canned-cooked-with-butter-or-margar",
-    "name": "Classic mixed verduras, enlatado, cocido con mantequilla o margarina",
+    "id": "fndds-04638-Clasica-mezcla-vegetables-canned-cooked-with-butter-or-margar",
+    "name": "Clasica mezcla verduras, enlatado, cocido con mantequilla o margarina",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78846,8 +78846,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04639-classic-mixed-vegetables-canned-reduced-sodium-cooked-no-add",
-    "name": "Classic mixed verduras, enlatado, reducido en sodio, cocido, sin grasa añadida",
+    "id": "fndds-04639-Clasica-mezcla-vegetables-canned-reduced-sodium-cooked-no-add",
+    "name": "Clasica mezcla verduras, enlatado, reducido en sodio, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78863,8 +78863,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04640-classic-mixed-vegetables-canned-reduced-sodium-cooked-fat-ad",
-    "name": "Classic mixed verduras, enlatado, reducido en sodio, cocido, con grasa añadida, sin especificar grasa tipo",
+    "id": "fndds-04640-Clasica-mezcla-vegetables-canned-reduced-sodium-cooked-fat-ad",
+    "name": "Clasica mezcla verduras, enlatado, reducido en sodio, cocido, con grasa añadida, sin especificar grasa tipo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78880,8 +78880,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04641-classic-mixed-vegetables-canned-reduced-sodium-cooked-with-o",
-    "name": "Classic mixed verduras, enlatado, reducido en sodio, cocido con aceite",
+    "id": "fndds-04641-Clasica-mezcla-vegetables-canned-reduced-sodium-cooked-with-o",
+    "name": "Clasica mezcla verduras, enlatado, reducido en sodio, cocido con aceite",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78897,8 +78897,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04642-classic-mixed-vegetables-canned-reduced-sodium-cooked-with-b",
-    "name": "Classic mixed verduras, enlatado, reducido en sodio, cocido con mantequilla o margarina",
+    "id": "fndds-04642-Clasica-mezcla-vegetables-canned-reduced-sodium-cooked-with-b",
+    "name": "Clasica mezcla verduras, enlatado, reducido en sodio, cocido con mantequilla o margarina",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78965,8 +78965,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04646-vegetables-stew-type-cooked-fat-agregado",
-    "name": "Verduras, stew tipo, cocido, con grasa añadida",
+    "id": "fndds-04646-vegetables-guiso-type-cooked-fat-agregado",
+    "name": "Verduras, guiso tipo, cocido, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -78982,8 +78982,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04647-vegetables-stew-type-cooked-no-agregado-fat",
-    "name": "Verduras, stew tipo, cocido, sin grasa añadida",
+    "id": "fndds-04647-vegetables-guiso-type-cooked-no-agregado-fat",
+    "name": "Verduras, guiso tipo, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79067,8 +79067,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04652-asian-stir-fry-vegetables-cooked-no-agregado-fat",
-    "name": "Asiático stir fry verduras, cocido, sin grasa añadida",
+    "id": "fndds-04652-asian-stir-frito-vegetables-cooked-no-agregado-fat",
+    "name": "Asiático salteado verduras, cocido, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79084,8 +79084,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04653-asian-stir-fry-vegetables-cooked-fat-agregado",
-    "name": "Asiático stir fry verduras, cocido, con grasa añadida",
+    "id": "fndds-04653-asian-stir-frito-vegetables-cooked-fat-agregado",
+    "name": "Asiático salteado verduras, cocido, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79135,8 +79135,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04656-artichokes-stuffed",
-    "name": "Artichokes, relleno",
+    "id": "fndds-04656-alcachofas-stuffed",
+    "name": "alcachofas, relleno",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79306,7 +79306,7 @@
   },
   {
     "id": "fndds-04666-eggplant-dip",
-    "name": "Berenjena dip",
+    "name": "Berenjena , salsa de",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79425,7 +79425,7 @@
   },
   {
     "id": "fndds-04673-pea-salad",
-    "name": "Pea ensalada",
+    "name": "ensalada de guisantes",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79442,7 +79442,7 @@
   },
   {
     "id": "fndds-04674-pea-salad-with-cheese",
-    "name": "Pea ensalada con queso",
+    "name": "ensalada de guisantes con queso",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79458,8 +79458,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04675-fried-summer-squash-yellow-or-green",
-    "name": "Frito summer squash, amarillo o verde",
+    "id": "fndds-04675-fried-summer-zapallo-yellow-or-green",
+    "name": "Frito zapallo, amarillo o verde",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79475,8 +79475,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04676-squash-summer-casserole-with-tomato-and-cheese",
-    "name": "Squash, summer, guiso con tomate y queso",
+    "id": "fndds-04676-zapallo-summer-casserole-with-tomato-and-cheese",
+    "name": "zapallo, guiso con tomate y queso",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79492,8 +79492,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04677-squash-summer-casserole-with-rice-and-tomato-sauce",
-    "name": "Squash, summer, guiso, con arroz y salsa de tomate",
+    "id": "fndds-04677-zapallo-summer-casserole-with-rice-and-tomato-sauce",
+    "name": "zapallo, guiso, con arroz y salsa de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79509,8 +79509,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04678-squash-summer-casserole-with-cheese-sauce",
-    "name": "Squash, summer, guiso, con queso salsa",
+    "id": "fndds-04678-zapallo-summer-casserole-with-cheese-sauce",
+    "name": "zapallo, guiso, con queso salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79526,8 +79526,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04679-squash-summer-souffle",
-    "name": "Squash, summer, souffle",
+    "id": "fndds-04679-zapallo-summer-souffle",
+    "name": "zapallo, souffle",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79543,8 +79543,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04680-stew-vegetable",
-    "name": "Stew, verdura",
+    "id": "fndds-04680-guiso-vegetable",
+    "name": "guiso, verdura",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79560,8 +79560,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04681-chow-mein-or-chop-suey-meatless-no-noodles",
-    "name": "Chow mein o chuleta suey, meatless, no fideos",
+    "id": "fndds-04681-chow-mein-or-chop-suey-sin carne de res-no-noodles",
+    "name": "Chow mein o chuleta suey, sin carne de res, no fideos",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79645,8 +79645,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04686-chow-mein-or-chop-suey-meatless-with-noodles",
-    "name": "Chow mein o chuleta suey, meatless, con fideos",
+    "id": "fndds-04686-chow-mein-or-chop-suey-sin carne de res-with-noodles",
+    "name": "Chow mein o chuleta suey, sin carne de res, con fideos",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79935,7 +79935,7 @@
   },
   {
     "id": "fndds-04703-honey-mustard-dip",
-    "name": "Miel mostaza dip",
+    "name": "Miel mostaza , salsa de",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -80512,8 +80512,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04737-baby-toddler-squash-stage-1",
-    "name": "Apto para Bebé o niño pequeño, squash, etapa 1",
+    "id": "fndds-04737-baby-toddler-zapallo-stage-1",
+    "name": "Apto para Bebé o niño pequeño, zapallo, etapa 1",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -80529,8 +80529,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04738-baby-toddler-squash-stage-2",
-    "name": "Apto para Bebé o niño pequeño, squash, etapa 2",
+    "id": "fndds-04738-baby-toddler-zapallo-stage-2",
+    "name": "Apto para Bebé o niño pequeño, zapallo, etapa 2",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -81464,8 +81464,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04793-fry-sauce",
-    "name": "Fry salsa",
+    "id": "fndds-04793-frito-sauce",
+    "name": "frito salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -81549,7 +81549,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04798-almond-oil",
+    "id": "fndds-04798-almendra-oil",
     "name": "Almendra aceite",
     "category": "general",
     "servingBase": 100,
@@ -81788,7 +81788,7 @@
   },
   {
     "id": "fndds-04812-salad-dressing-nfs-for-salads",
-    "name": "ensalada aderezo, no especificado, for ensaladas",
+    "name": "ensalada aderezo, no especificado, para ensaladas",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -81805,7 +81805,7 @@
   },
   {
     "id": "fndds-04813-salad-dressing-nfs-for-sandwiches",
-    "name": "ensalada aderezo, no especificado, for sandwiches",
+    "name": "ensalada aderezo, no especificado, para sandwiches",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -81873,7 +81873,7 @@
   },
   {
     "id": "fndds-04817-coleslaw-dressing",
-    "name": "Coleslaw aderezo",
+    "name": "ensalada de col aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82536,7 +82536,7 @@
   },
   {
     "id": "fndds-04856-bacon-for-use-with-vegetables",
-    "name": "Tocineta, for use con verduras",
+    "name": "Tocineta, para use con verduras",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82553,7 +82553,7 @@
   },
   {
     "id": "fndds-04857-ham-for-use-with-vegetables",
-    "name": "Jamón, for use con verduras",
+    "name": "Jamón, para use con verduras",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82570,7 +82570,7 @@
   },
   {
     "id": "fndds-04858-beef-for-use-with-vegetables",
-    "name": "Carne de res, for use con verduras",
+    "name": "Carne de res, para use con verduras",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82587,7 +82587,7 @@
   },
   {
     "id": "fndds-04859-chicken-for-use-with-vegetables",
-    "name": "Pollo, for use con verduras",
+    "name": "Pollo, para use con verduras",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82604,7 +82604,7 @@
   },
   {
     "id": "fndds-04860-cream-sauce-for-use-with-vegetables",
-    "name": "Salsa de crema, for use con verduras",
+    "name": "Salsa de crema, para use con verduras",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82621,7 +82621,7 @@
   },
   {
     "id": "fndds-04861-cheese-sauce-for-use-with-vegetables",
-    "name": "Queso salsa, for use con verduras",
+    "name": "Queso salsa, para use con verduras",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82638,7 +82638,7 @@
   },
   {
     "id": "fndds-04862-gravy-for-use-with-vegetables",
-    "name": "Salsa, for use con verduras",
+    "name": "Salsa, para use con verduras",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82655,7 +82655,7 @@
   },
   {
     "id": "fndds-04863-soy-based-sauce-for-use-with-vegetables",
-    "name": "Soja based salsa, for use con verduras",
+    "name": "Soja based salsa, para use con verduras",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82672,7 +82672,7 @@
   },
   {
     "id": "fndds-04864-tomato-sauce-for-use-with-vegetables",
-    "name": "Salsa de tomate, for use con verduras",
+    "name": "Salsa de tomate, para use con verduras",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82689,7 +82689,7 @@
   },
   {
     "id": "fndds-04865-avocado-for-use-on-a-sandwich",
-    "name": "Aguacate, for use on a sándwich",
+    "name": "Aguacate, para use on a sándwich",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -82706,7 +82706,7 @@
   },
   {
     "id": "fndds-04866-cucumber-for-use-on-a-sandwich",
-    "name": "Pepino, for use on a sándwich",
+    "name": "Pepino, para use on a sándwich",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82723,7 +82723,7 @@
   },
   {
     "id": "fndds-04867-lettuce-for-use-on-a-sandwich",
-    "name": "Lechuga, for use on a sándwich",
+    "name": "Lechuga, para use on a sándwich",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82740,7 +82740,7 @@
   },
   {
     "id": "fndds-04868-mushrooms-for-use-on-a-sandwich",
-    "name": "Hongos, for use on a sándwich",
+    "name": "Hongos, para use on a sándwich",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82757,7 +82757,7 @@
   },
   {
     "id": "fndds-04869-onions-for-use-on-a-sandwich",
-    "name": "Cebollas, for use on a sándwich",
+    "name": "Cebollas, para use on a sándwich",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82774,7 +82774,7 @@
   },
   {
     "id": "fndds-04870-pepper-for-use-on-a-sandwich",
-    "name": "Pimiento, for use on a sándwich",
+    "name": "Pimiento, para use on a sándwich",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82791,7 +82791,7 @@
   },
   {
     "id": "fndds-04871-spinach-for-use-on-a-sandwich",
-    "name": "Espinaca, for use on a sándwich",
+    "name": "Espinaca, para use on a sándwich",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82808,7 +82808,7 @@
   },
   {
     "id": "fndds-04872-tomatoes-for-use-on-a-sandwich",
-    "name": "Tomatoes, for use on a sándwich",
+    "name": "Tomatoes, para use on a sándwich",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82825,7 +82825,7 @@
   },
   {
     "id": "fndds-04873-bacon-for-use-on-a-sandwich",
-    "name": "Tocineta, for use on a sándwich",
+    "name": "Tocineta, para use on a sándwich",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -83368,8 +83368,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04905-topping-nuts-and-syrup",
-    "name": "Topping, nuts y syrup",
+    "id": "fndds-04905-topping-nueces-and-syrup",
+    "name": "Topping, nueces y syrup",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -83488,7 +83488,7 @@
   },
   {
     "id": "fndds-04912-dessert-dip",
-    "name": "Dessert dip",
+    "name": "Postre dip",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84014,8 +84014,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04943-almonds-chocolate-covered-candy",
-    "name": "Almonds, chocolate covered dulces",
+    "id": "fndds-04943-almendras-chocolate-covered-candy",
+    "name": "almendras, chocolate covered dulces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84065,8 +84065,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04946-chocolate-candy-with-nuts-other-nfs",
-    "name": "Chocolate dulces con nuts, otras, no especificado",
+    "id": "fndds-04946-chocolate-candy-with-nueces-other-nfs",
+    "name": "Chocolate dulces con nueces, otras, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84082,8 +84082,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04947-chocolate-candy-with-nuts",
-    "name": "Chocolate dulces con nuts",
+    "id": "fndds-04947-chocolate-candy-with-nueces",
+    "name": "Chocolate dulces con nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84201,8 +84201,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04954-dark-chocolate-candy-with-nuts-other-nfs",
-    "name": "Dark chocolate dulces con nuts, otras, no especificado",
+    "id": "fndds-04954-dark-chocolate-candy-with-nueces-other-nfs",
+    "name": "Dark chocolate dulces con nueces, otras, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84218,8 +84218,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04955-dark-chocolate-candy-with-nuts",
-    "name": "Dark chocolate dulces con nuts",
+    "id": "fndds-04955-dark-chocolate-candy-with-nueces",
+    "name": "Dark chocolate dulces con nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84286,8 +84286,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04959-chocolate-candy-caramel-filled-with-nuts",
-    "name": "Chocolate dulces, caramel filled con nuts",
+    "id": "fndds-04959-chocolate-candy-caramel-filled-with-nueces",
+    "name": "Chocolate dulces, caramel filled con nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84354,8 +84354,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04963-chocolate-candy-nougat-filled-with-nuts",
-    "name": "Chocolate dulces, nougat filled con nuts",
+    "id": "fndds-04963-chocolate-candy-nougat-filled-with-nueces",
+    "name": "Chocolate dulces, nougat filled con nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84507,8 +84507,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04972-candy-nougat-with-nuts",
-    "name": "Dulces, nougat con nuts",
+    "id": "fndds-04972-candy-nougat-with-nueces",
+    "name": "Dulces, nougat con nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84524,8 +84524,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04973-peanuts-chocolate-covered-candy",
-    "name": "Peanuts, chocolate covered dulces",
+    "id": "fndds-04973-peanueces-chocolate-covered-candy",
+    "name": "Peanueces, chocolate covered dulces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84694,8 +84694,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04983-chocolate-candy-candy-shell-with-nuts",
-    "name": "Chocolate dulces, dulces shell con nuts",
+    "id": "fndds-04983-chocolate-candy-candy-shell-with-nueces",
+    "name": "Chocolate dulces, dulces shell con nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90135,7 +90135,7 @@
   },
   {
     "id": "fndds-05303-rum-hot-buttered",
-    "name": "Rum, hot mantequillaed",
+    "name": "Rum, hot enmantequillado",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -90492,7 +90492,7 @@
   },
   {
     "id": "fndds-05324-water-tap",
-    "name": "Agua, tap",
+    "name": "Agua de grifo, de caño",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -91699,7 +91699,7 @@
   },
   {
     "id": "fndds-05395-cheese-as-ingredient-in-sandwiches",
-    "name": "Queso as ingredient in sandwiches",
+    "name": "Queso como ingrediente en sandwiches",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91716,7 +91716,7 @@
   },
   {
     "id": "fndds-05396-cheese-and-queso-as-ingredient",
-    "name": "Queso y Queso as ingredient",
+    "name": "Queso y Queso como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91733,7 +91733,7 @@
   },
   {
     "id": "fndds-05397-beef-as-ingredient-in-recipes",
-    "name": "Carne de res as ingredient in recipes",
+    "name": "Carne de res como ingrediente en recetas",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91750,7 +91750,7 @@
   },
   {
     "id": "fndds-05398-breakfast-meat-as-ingredient-in-omelet",
-    "name": "Breakfast carne as ingredient in omelet",
+    "name": "embutidos de carne como ingrediente en tortilla de huevo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91767,7 +91767,7 @@
   },
   {
     "id": "fndds-05399-chicken-as-ingredient-in-recipes",
-    "name": "Pollo as ingredient in recipes",
+    "name": "Pollo como ingrediente en recetas",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91784,7 +91784,7 @@
   },
   {
     "id": "fndds-05400-fish-cooked-as-ingredient",
-    "name": "Pescado, cocido, as ingredient",
+    "name": "Pescado, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91801,7 +91801,7 @@
   },
   {
     "id": "fndds-05401-fish-fillet-fried-as-ingredient-in-sandwiches",
-    "name": "Pescado filete, frito as ingredient in sandwiches",
+    "name": "Pescado filete, frito como ingrediente en sandwiches",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91818,7 +91818,7 @@
   },
   {
     "id": "fndds-05402-breading-or-batter-as-ingredient-in-food",
-    "name": "Breading o batter as ingredient in food",
+    "name": "Breading o batter como ingrediente en la comida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91835,7 +91835,7 @@
   },
   {
     "id": "fndds-05403-wheat-bread-as-ingredient-in-sandwiches",
-    "name": "Trigo pan as ingredient in sandwiches",
+    "name": "Trigo pan como ingrediente en sandwiches",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91852,7 +91852,7 @@
   },
   {
     "id": "fndds-05404-wheat-bun-as-ingredient-in-sandwiches",
-    "name": "Trigo panecillo as ingredient in sandwiches",
+    "name": "Trigo panecillo como ingrediente en sandwiches",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91869,7 +91869,7 @@
   },
   {
     "id": "fndds-05405-rice-white-cooked-as-ingredient",
-    "name": "Arroz, blanco, cocido, as ingredient",
+    "name": "Arroz, blanco, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91886,7 +91886,7 @@
   },
   {
     "id": "fndds-05406-rice-brown-cooked-as-ingredient",
-    "name": "Arroz, integral, cocido, as ingredient",
+    "name": "Arroz, integral, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91903,7 +91903,7 @@
   },
   {
     "id": "fndds-05407-potato-cooked-as-ingredient",
-    "name": "Papa, cocido, as ingredient",
+    "name": "Papa, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91920,7 +91920,7 @@
   },
   {
     "id": "fndds-05408-spinach-cooked-as-ingredient",
-    "name": "Espinaca, cocido, as ingredient",
+    "name": "Espinaca, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91937,7 +91937,7 @@
   },
   {
     "id": "fndds-05409-broccoli-cooked-as-ingredient",
-    "name": "Brócoli, cocido, as ingredient",
+    "name": "Brócoli, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91954,7 +91954,7 @@
   },
   {
     "id": "fndds-05410-zanahorias-cooked-as-ingredient",
-    "name": "zanahorias, cocido, as ingredient",
+    "name": "zanahorias, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91971,7 +91971,7 @@
   },
   {
     "id": "fndds-05411-dulce-potato-cooked-as-ingredient",
-    "name": "Batata, cocido, as ingredient",
+    "name": "Batata, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91988,7 +91988,7 @@
   },
   {
     "id": "fndds-05412-tomatoes-cooked-as-ingredient",
-    "name": "Tomatoes, cocido, as ingredient",
+    "name": "Tomatoes, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92005,7 +92005,7 @@
   },
   {
     "id": "fndds-05413-onions-cooked-as-ingredient",
-    "name": "Cebollas, cocido, as ingredient",
+    "name": "Cebollas, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92022,7 +92022,7 @@
   },
   {
     "id": "fndds-05414-mushrooms-cooked-as-ingredient",
-    "name": "Hongos, cocido, as ingredient",
+    "name": "Hongos, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92039,7 +92039,7 @@
   },
   {
     "id": "fndds-05415-green-pepper-cooked-as-ingredient",
-    "name": "Verde pimiento, cocido, as ingredient",
+    "name": "Verde pimiento, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92056,7 +92056,7 @@
   },
   {
     "id": "fndds-05416-red-pepper-cooked-as-ingredient",
-    "name": "Rojo pimiento, cocido, as ingredient",
+    "name": "Rojo pimiento, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92073,7 +92073,7 @@
   },
   {
     "id": "fndds-05417-cabbage-cooked-as-ingredient",
-    "name": "Repollo, cocido, as ingredient",
+    "name": "Repollo, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92090,7 +92090,7 @@
   },
   {
     "id": "fndds-05418-cauliflower-cooked-as-ingredient",
-    "name": "Coliflor, cocido, as ingredient",
+    "name": "Coliflor, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92107,7 +92107,7 @@
   },
   {
     "id": "fndds-05419-eggplant-cooked-as-ingredient",
-    "name": "Berenjena, cocido, as ingredient",
+    "name": "Berenjena, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92124,7 +92124,7 @@
   },
   {
     "id": "fndds-05420-green-beans-cooked-as-ingredient",
-    "name": "Judías verdes, cocido, as ingredient",
+    "name": "Judías verdes, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92140,8 +92140,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05421-summer-squash-cooked-as-ingredient",
-    "name": "Summer squash, cocido, as ingredient",
+    "id": "fndds-05421-summer-zapallo-cooked-as-ingredient",
+    "name": "zapallo, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92158,7 +92158,7 @@
   },
   {
     "id": "fndds-05422-celery-cooked-as-ingredient",
-    "name": "Apio, cocido, as ingredient",
+    "name": "Apio, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92175,7 +92175,7 @@
   },
   {
     "id": "fndds-05423-dark-green-vegetables-as-ingredient-in-omelet",
-    "name": "Dark verde verduras as ingredient in omelet",
+    "name": "Dark verde verduras como ingrediente en tortilla de huevo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92192,7 +92192,7 @@
   },
   {
     "id": "fndds-05424-tomatoes-as-ingredient-in-omelet",
-    "name": "Tomatoes as ingredient in omelet",
+    "name": "Tomatoes como ingrediente en tortilla de huevo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92209,7 +92209,7 @@
   },
   {
     "id": "fndds-05425-other-vegetables-as-ingredient-in-omelet",
-    "name": "Otras verduras as ingredient in omelet",
+    "name": "Otras verduras como ingrediente en tortilla de huevo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92226,7 +92226,7 @@
   },
   {
     "id": "fndds-05426-mirepoix-cooked-as-ingredient",
-    "name": "Mirepoix, cocido, as ingredient",
+    "name": "Mirepoix, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92243,7 +92243,7 @@
   },
   {
     "id": "fndds-05427-vegetables-as-ingredient-in-curry",
-    "name": "Verduras as ingredient in curry",
+    "name": "Verduras como ingrediente in curry",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92260,7 +92260,7 @@
   },
   {
     "id": "fndds-05428-vegetables-as-ingredient-in-soups",
-    "name": "Verduras as ingredient in soups",
+    "name": "Verduras como ingrediente in soups",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92276,8 +92276,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05429-vegetables-as-ingredient-in-stews",
-    "name": "Verduras as ingredient in stews",
+    "id": "fndds-05429-vegetables-as-ingredient-in-guisos",
+    "name": "Verduras como ingrediente in guisos",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92294,7 +92294,7 @@
   },
   {
     "id": "fndds-05430-sauce-as-ingredient-in-hamburgers",
-    "name": "Salsa as ingredient in hamburgers",
+    "name": "Salsa como ingrediente in hamburgers",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92311,7 +92311,7 @@
   },
   {
     "id": "fndds-05431-industrial-oil-as-ingredient-in-food",
-    "name": "Industrial aceite as ingredient in food",
+    "name": "Industrial aceite como ingrediente en la comida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -98516,7 +98516,7 @@
   },
   {
     "id": "latam-sara2-0365-polvo",
-    "name": "polvo",
+    "name": "leche en polvo",
     "category": "latam-leche-y-postres-de-leche",
     "servingBase": 100,
     "unit": "g",
@@ -98805,7 +98805,7 @@
   },
   {
     "id": "latam-sara2-0382-mir-tipo-danonino-postre-de-leche-listo-para-consu",
-    "name": "mir tipo Danonino Postre de leche listo para consu",
+    "name": "Postre de leche listo para consumir tipo Danonino",
     "category": "latam-leche-y-postres-de-leche",
     "servingBase": 100,
     "unit": "g",
@@ -98822,7 +98822,7 @@
   },
   {
     "id": "latam-sara2-0383-mir-tipo-serenito",
-    "name": "mir tipo Serenito",
+    "name": "Postre de leche listo para consumir tipo Serenito",
     "category": "latam-leche-y-postres-de-leche",
     "servingBase": 100,
     "unit": "g",
@@ -98941,7 +98941,7 @@
   },
   {
     "id": "latam-sara2-0390-yogur-descremado-con-frutas-yogur-descremado-con-f",
-    "name": "Yogur descremado con frutas Yogur descremado con frutas y ce",
+    "name": "Yogur descremado con frutas Yogur descremado con frutas y cereales",
     "category": "latam-latam",
     "servingBase": 100,
     "unit": "g",
@@ -98958,7 +98958,7 @@
   },
   {
     "id": "latam-sara2-0391-reales-yogur-descremado-fortificado-con",
-    "name": "reales Yogur descremado fortificado con",
+    "name": "Yogur descremado fortificado con cereales",
     "category": "latam-latam",
     "servingBase": 100,
     "unit": "g",
@@ -98975,7 +98975,7 @@
   },
   {
     "id": "latam-sara2-0392-calcio",
-    "name": "calcio",
+    "name": "yogur extra calcio",
     "category": "latam-latam",
     "servingBase": 100,
     "unit": "g",
@@ -99179,7 +99179,7 @@
   },
   {
     "id": "latam-sara2-0404-untable",
-    "name": "untable",
+    "name": "Queso untable",
     "category": "latam-quesos",
     "servingBase": 100,
     "unit": "g",
@@ -104839,8 +104839,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "latam-sara2-0737-mole-cryspi-onion-bbq-con-pollo-crispy-mcdonald-s-",
-    "name": "mole/ Cryspi Onion BBQ con pollo crispy McDonald's, Clubhouse/ Guacamo",
+    "id": "latam-sara2-0737-mole-cryspi-onion-bbq-con-pollo-crocante-mcdonald-s-",
+    "name": "mole/ Cryspi Onion BBQ con pollo crocante McDonald's, Clubhouse/ Guacamo",
     "category": "latam-alimentos-de-locales-de-comidas-rapidas",
     "servingBase": 100,
     "unit": "g",
@@ -105536,8 +105536,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "latam-sara2-0778-whey-pro-classic-line-gramo",
-    "name": "Whey Pro. Classic Line (gramo)",
+    "id": "latam-sara2-0778-whey-pro-Clasica-line-gramo",
+    "name": "Whey Pro. Clasica Line (gramo)",
     "category": "latam-suplementos-nutricionales",
     "servingBase": 100,
     "unit": "g",
