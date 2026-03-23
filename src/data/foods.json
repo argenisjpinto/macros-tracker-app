@@ -7837,8 +7837,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00462-beef-shortribs",
-    "name": "Carne de res, shortribs",
+    "id": "fndds-00462-beef-shortcostillas",
+    "name": "Carne de res, shortcostillas",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -8653,8 +8653,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00510-ribs-nfs",
-    "name": "Ribs, no especificado",
+    "id": "fndds-00510-costillas-nfs",
+    "name": "costillas, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -8670,8 +8670,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00511-pork-ribs",
-    "name": "Cerdo, ribs",
+    "id": "fndds-00511-pork-costillas",
+    "name": "Cerdo, costillas",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -11866,8 +11866,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00699-chicken-neck-or-ribs",
-    "name": "Pollo, neck o ribs",
+    "id": "fndds-00699-chicken-neck-or-costillas",
+    "name": "Pollo, neck o costillas",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -11884,7 +11884,7 @@
   },
   {
     "id": "fndds-00700-chicken-tail",
-    "name": "Pollo, tail",
+    "name": "Pollo, cola",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -12682,8 +12682,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00747-turkey-tail",
-    "name": "Pavo, tail",
+    "id": "fndds-00747-turkey-cola",
+    "name": "Pavo, cola",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -16763,7 +16763,7 @@
   },
   {
     "id": "fndds-00987-beef-with-tomato-based-sauce",
-    "name": "Carne de res con tomate-based salsa",
+    "name": "Carne de res con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -17341,7 +17341,7 @@
   },
   {
     "id": "fndds-01021-ham-or-pork-with-tomato-based-sauce",
-    "name": "Jamón o cerdo con tomate-based salsa",
+    "name": "Jamón o cerdo con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -17358,7 +17358,7 @@
   },
   {
     "id": "fndds-01022-sausage-with-tomato-based-sauce",
-    "name": "Salchicha con tomate-based salsa",
+    "name": "Salchicha con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -17443,7 +17443,7 @@
   },
   {
     "id": "fndds-01027-frankfurters-or-hot-dogs-with-tomato-based-sauce",
-    "name": "Frankfurters o hot dogs con tomate-based salsa",
+    "name": "Frankfurters o hot dogs con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -17459,8 +17459,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01028-pork-with-chili-and-tomatoes",
-    "name": "Cerdo con chili y tomatoes",
+    "id": "fndds-01028-pork-with-chili-and-tomates",
+    "name": "Cerdo con chili y tomates",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -17596,7 +17596,7 @@
   },
   {
     "id": "fndds-01036-venison-or-deer-with-tomato-based-sauce",
-    "name": "Venado o deer con tomate-based salsa",
+    "name": "Venado o deer con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -17681,7 +17681,7 @@
   },
   {
     "id": "fndds-01041-guisoed-chicken-with-tomato-based-sauce-mexican-style",
-    "name": "Guisado pollo con tomate-based salsa, mexicano style",
+    "name": "Guisado pollo con salsa a base de tomate, mexicano style",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -18276,7 +18276,7 @@
   },
   {
     "id": "fndds-01076-fish-with-tomato-based-sauce",
-    "name": "Pescado con tomate-based salsa",
+    "name": "Pescado con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -18361,7 +18361,7 @@
   },
   {
     "id": "fndds-01081-crabs-in-tomato-based-sauce-puerto-rican-style",
-    "name": "Crabs in tomate-based salsa, estilo puertorriqueño",
+    "name": "Crabs in salsa a base de tomate, estilo puertorriqueño",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -18446,7 +18446,7 @@
   },
   {
     "id": "fndds-01086-meat-with-tomato-based-sauce",
-    "name": "Carne con tomate-based salsa",
+    "name": "Carne con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -18667,7 +18667,7 @@
   },
   {
     "id": "fndds-01099-beef-and-noodles-with-tomato-based-sauce",
-    "name": "Carne de res y fideos con tomate-based salsa",
+    "name": "Carne de res y fideos con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -18820,7 +18820,7 @@
   },
   {
     "id": "fndds-01108-beef-and-rice-with-tomato-based-sauce",
-    "name": "Carne de res y arroz con tomate-based salsa",
+    "name": "Carne de res y arroz con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -18837,7 +18837,7 @@
   },
   {
     "id": "fndds-01109-porcupine-balls-with-tomato-based-sauce",
-    "name": "Porcupine balls con tomate-based salsa",
+    "name": "Porcupine balls con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -18973,7 +18973,7 @@
   },
   {
     "id": "fndds-01117-meat-loaf-made-with-beef-with-tomato-based-sauce",
-    "name": "Carne loaf hecho con carne de res, con tomate-based salsa",
+    "name": "Carne loaf hecho con carne de res, con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -19126,7 +19126,7 @@
   },
   {
     "id": "fndds-01126-pork-and-rice-with-tomato-based-sauce",
-    "name": "Cerdo y arroz con tomate-based salsa",
+    "name": "Cerdo y arroz con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -19143,7 +19143,7 @@
   },
   {
     "id": "fndds-01127-sausage-and-rice-with-tomato-based-sauce",
-    "name": "Salchicha y arroz con tomate-based salsa",
+    "name": "Salchicha y arroz con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -19364,7 +19364,7 @@
   },
   {
     "id": "fndds-01140-lamb-or-mutton-and-potatoes-with-tomato-based-sauce",
-    "name": "Cordero o mutton y papas con tomate-based salsa",
+    "name": "Cordero o mutton y papas con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -19568,7 +19568,7 @@
   },
   {
     "id": "fndds-01152-chicken-or-turkey-and-noodles-with-tomato-based-sauce",
-    "name": "Pollo o pavo y fideos con tomate-based salsa",
+    "name": "Pollo o pavo y fideos con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -19670,7 +19670,7 @@
   },
   {
     "id": "fndds-01158-chicken-or-turkey-and-rice-with-tomato-based-sauce",
-    "name": "Pollo o pavo y arroz con tomate-based salsa",
+    "name": "Pollo o pavo y arroz con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -19789,7 +19789,7 @@
   },
   {
     "id": "fndds-01165-meat-loaf-made-with-chicken-or-turkey-with-tomato-based-sauc",
-    "name": "Carne loaf hecho con pollo o pavo, con tomate-based salsa",
+    "name": "Carne loaf hecho con pollo o pavo, con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -20214,7 +20214,7 @@
   },
   {
     "id": "fndds-01190-fish-and-rice-with-tomato-based-sauce",
-    "name": "Pescado y arroz con tomate-based salsa",
+    "name": "Pescado y arroz con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -20282,7 +20282,7 @@
   },
   {
     "id": "fndds-01194-marisco-and-noodles-with-tomato-based-sauce",
-    "name": "marisco y fideos con tomate-based salsa",
+    "name": "marisco y fideos con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -20384,7 +20384,7 @@
   },
   {
     "id": "fndds-01200-meat-loaf-made-with-beef-and-pork-with-tomato-based-sauce",
-    "name": "Carne loaf hecho con carne de res y cerdo, con tomate-based salsa",
+    "name": "Carne loaf hecho con carne de res y cerdo, con salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -20656,7 +20656,7 @@
   },
   {
     "id": "fndds-01216-beef-potatoes-and-vegetables-incluyendo-zanahorias-broccoli-and-",
-    "name": "Carne de res, papas, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; tomate-based salsa",
+    "name": "Carne de res, papas, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -20673,7 +20673,7 @@
   },
   {
     "id": "fndds-01217-beef-potatoes-and-vegetables-excluyendo-zanahorias-broccoli-and-",
-    "name": "Carne de res, papas, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; tomate-based salsa",
+    "name": "Carne de res, papas, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -20843,7 +20843,7 @@
   },
   {
     "id": "fndds-01227-beef-noodles-and-vegetables-incluyendo-zanahorias-broccoli-and-o",
-    "name": "Carne de res, fideos, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; tomate-based salsa",
+    "name": "Carne de res, fideos, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -20860,7 +20860,7 @@
   },
   {
     "id": "fndds-01228-beef-noodles-and-vegetables-excluyendo-zanahorias-broccoli-and-d",
-    "name": "Carne de res, fideos, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; tomate-based salsa",
+    "name": "Carne de res, fideos, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -20979,7 +20979,7 @@
   },
   {
     "id": "fndds-01235-beef-rice-and-vegetables-incluyendo-zanahorias-broccoli-and-or-d",
-    "name": "Carne de res, arroz, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; tomate-based salsa",
+    "name": "Carne de res, arroz, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -20996,7 +20996,7 @@
   },
   {
     "id": "fndds-01236-beef-rice-and-vegetables-excluyendo-zanahorias-broccoli-and-or-d",
-    "name": "Carne de res, arroz, y verduras excluyendo zanahorias, brócoli, y/o vegetales de hoja verde; tomate-based salsa",
+    "name": "Carne de res, arroz, y verduras excluyendo zanahorias, brócoli, y/o vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -21319,7 +21319,7 @@
   },
   {
     "id": "fndds-01255-ham-or-pork-noodles-and-vegetables-incluyendo-zanahorias-broccol",
-    "name": "Jamón o cerdo, fideos, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; tomate-based salsa",
+    "name": "Jamón o cerdo, fideos, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -21336,7 +21336,7 @@
   },
   {
     "id": "fndds-01256-sausage-noodles-and-vegetables-excluyendo-zanahorias-broccoli-an",
-    "name": "Salchicha, fideos, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; tomate-based salsa",
+    "name": "Salchicha, fideos, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -21353,7 +21353,7 @@
   },
   {
     "id": "fndds-01257-sausage-noodles-and-vegetables-incluyendo-zanahorias-broccoli-an",
-    "name": "Salchicha, fideos, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; tomate-based salsa",
+    "name": "Salchicha, fideos, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -21370,7 +21370,7 @@
   },
   {
     "id": "fndds-01258-pork-potatoes-and-vegetables-incluyendo-zanahorias-broccoli-and-",
-    "name": "Cerdo, papas, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; tomate-based salsa",
+    "name": "Cerdo, papas, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -21387,7 +21387,7 @@
   },
   {
     "id": "fndds-01259-pork-potatoes-and-vegetables-excluyendo-zanahorias-broccoli-and-",
-    "name": "Cerdo, papas, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; tomate-based salsa",
+    "name": "Cerdo, papas, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -21540,7 +21540,7 @@
   },
   {
     "id": "fndds-01268-pork-rice-and-vegetables-incluyendo-zanahorias-broccoli-and-or-d",
-    "name": "Cerdo, arroz, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; tomate-based salsa",
+    "name": "Cerdo, arroz, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -21557,7 +21557,7 @@
   },
   {
     "id": "fndds-01269-pork-rice-and-vegetables-excluyendo-zanahorias-broccoli-and-dark",
-    "name": "Cerdo, arroz, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; tomate-based salsa",
+    "name": "Cerdo, arroz, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -21642,7 +21642,7 @@
   },
   {
     "id": "fndds-01274-lamb-or-mutton-rice-and-vegetables-incluyendo-zanahorias-broccol",
-    "name": "Cordero o mutton, arroz, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; tomate-based salsa",
+    "name": "Cordero o mutton, arroz, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -21761,7 +21761,7 @@
   },
   {
     "id": "fndds-01281-venison-or-deer-noodles-and-vegetables-incluyendo-zanahorias-bro",
-    "name": "Venado o deer, fideos, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; tomate-based salsa",
+    "name": "Venado o deer, fideos, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -21778,7 +21778,7 @@
   },
   {
     "id": "fndds-01282-venison-or-deer-noodles-and-vegetables-excluyendo-zanahorias-bro",
-    "name": "Venado o deer, fideos, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; tomate-based salsa",
+    "name": "Venado o deer, fideos, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -21948,7 +21948,7 @@
   },
   {
     "id": "fndds-01292-chicken-or-turkey-potatoes-and-vegetables-incluyendo-zanahorias-",
-    "name": "Pollo o pavo, papas, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; tomate-based salsa",
+    "name": "Pollo o pavo, papas, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -21965,7 +21965,7 @@
   },
   {
     "id": "fndds-01293-chicken-or-turkey-potatoes-and-vegetables-excluyendo-zanahorias-",
-    "name": "Pollo o pavo, papas, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; tomate-based salsa",
+    "name": "Pollo o pavo, papas, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -22118,7 +22118,7 @@
   },
   {
     "id": "fndds-01302-chicken-or-turkey-noodles-and-vegetables-incluyendo-zanahorias-b",
-    "name": "Pollo o pavo, fideos, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; tomate-based salsa",
+    "name": "Pollo o pavo, fideos, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -22135,7 +22135,7 @@
   },
   {
     "id": "fndds-01303-chicken-or-turkey-noodles-and-vegetables-excluyendo-zanahorias-b",
-    "name": "Pollo o pavo, fideos, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; tomate-based salsa",
+    "name": "Pollo o pavo, fideos, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -22390,7 +22390,7 @@
   },
   {
     "id": "fndds-01318-chicken-or-turkey-rice-and-vegetables-incluyendo-zanahorias-broc",
-    "name": "Pollo o pavo, arroz, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; tomate-based salsa",
+    "name": "Pollo o pavo, arroz, y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -22407,7 +22407,7 @@
   },
   {
     "id": "fndds-01319-chicken-or-turkey-rice-and-vegetables-excluyendo-zanahorias-broc",
-    "name": "Pollo o pavo, arroz, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; tomate-based salsa",
+    "name": "Pollo o pavo, arroz, y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -22900,7 +22900,7 @@
   },
   {
     "id": "fndds-01348-beef-with-vegetables-incluyendo-zanahorias-broccoli-and-or-dark-",
-    "name": "Carne de res con verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; no papas, tomate-based salsa",
+    "name": "Carne de res con verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; no papas, salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -22934,7 +22934,7 @@
   },
   {
     "id": "fndds-01350-beef-rolls-stuffed-with-vegetables-or-meat-mezcla-tomato-ba",
-    "name": "Carne de res rolls, relleno con verduras o carne mezcla, tomate-based salsa",
+    "name": "Carne de res rolls, relleno con verduras o carne mezcla, salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -22951,7 +22951,7 @@
   },
   {
     "id": "fndds-01351-beef-with-vegetables-excluyendo-zanahorias-broccoli-and-dark-gre",
-    "name": "Carne de res con verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; no papas, tomate-based salsa",
+    "name": "Carne de res con verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; no papas, salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -23222,8 +23222,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01367-beef-taco-filling-beef-cheese-tomato-taco-sauce",
-    "name": "Carne de res taco filling: carne de res, queso, tomate, taco salsa",
+    "id": "fndds-01367-beef-taco-relleno-beef-cheese-tomato-taco-sauce",
+    "name": "Carne de res taco relleno: carne de res, queso, tomate, taco salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -23597,7 +23597,7 @@
   },
   {
     "id": "fndds-01389-pork-and-vegetables-incluyendo-zanahorias-broccoli-and-or-dark-g",
-    "name": "Cerdo y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; no papas, tomate-based salsa",
+    "name": "Cerdo y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; no papas, salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -23614,7 +23614,7 @@
   },
   {
     "id": "fndds-01390-pork-and-vegetables-excluyendo-zanahorias-broccoli-and-dark-gree",
-    "name": "Cerdo y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; no papas, tomate-based salsa",
+    "name": "Cerdo y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; no papas, salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -23631,7 +23631,7 @@
   },
   {
     "id": "fndds-01391-sausage-and-vegetables-incluyendo-zanahorias-broccoli-and-or-dar",
-    "name": "Salchicha y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; no papas, tomate-based salsa",
+    "name": "Salchicha y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; no papas, salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -23648,7 +23648,7 @@
   },
   {
     "id": "fndds-01392-sausage-and-vegetables-excluyendo-zanahorias-broccoli-and-dark-g",
-    "name": "Salchicha y verduras, excluyendo zanahorias, brócoli, y vegetales de hoja verde; no papas, tomate-based salsa",
+    "name": "Salchicha y verduras, excluyendo zanahorias, brócoli, y vegetales de hoja verde; no papas, salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -23937,7 +23937,7 @@
   },
   {
     "id": "fndds-01409-chicken-or-turkey-and-vegetables-incluyendo-zanahorias-broccoli-",
-    "name": "Pollo o pavo y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; no papas, tomate-based salsa",
+    "name": "Pollo o pavo y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; no papas, salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -23954,7 +23954,7 @@
   },
   {
     "id": "fndds-01410-chicken-or-turkey-and-vegetables-excluyendo-zanahorias-broccoli-",
-    "name": "Pollo o pavo y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; no papas, tomate-based salsa",
+    "name": "Pollo o pavo y verduras excluyendo zanahorias, brócoli, y vegetales de hoja verde; no papas, salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24396,7 +24396,7 @@
   },
   {
     "id": "fndds-01436-chicken-or-turkey-breaded-fried-caesar-garden-salad-chicken-",
-    "name": "Pollo o pavo, empanado, frito, caesar ensalada, pollo y/o pavo, lechuga, tomatoes, queso, no aderezo",
+    "name": "Pollo o pavo, empanado, frito, caesar ensalada, pollo y/o pavo, lechuga, tomates, queso, no aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -25144,7 +25144,7 @@
   },
   {
     "id": "fndds-01480-fish-and-vegetables-incluyendo-zanahorias-broccoli-and-or-dark-g",
-    "name": "Pescado y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; no papas, tomate-based salsa",
+    "name": "Pescado y verduras incluyendo zanahorias, brócoli, y/o vegetales de hoja verde; no papas, salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -25161,7 +25161,7 @@
   },
   {
     "id": "fndds-01481-fish-and-vegetables-excluyendo-zanahorias-broccoli-and-dark-gree",
-    "name": "Pescado y verduras excluyendo zanahorias, brócoli, y dark- verde leafy; no papas, tomate-based salsa",
+    "name": "Pescado y verduras excluyendo zanahorias, brócoli, y dark- verde leafy; no papas, salsa a base de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -25857,8 +25857,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01522-double-cheeseburger-on-white-bun-2-small-patties",
-    "name": "Double cheeseburger, on blanco panecillo, 2 pequeño medallones",
+    "id": "fndds-01522-Doble-cheeseburger-on-white-bun-2-small-patties",
+    "name": "Doble cheeseburger, on blanco panecillo, 2 pequeño medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -25874,8 +25874,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01523-double-cheeseburger-on-wheat-bun-2-small-patties",
-    "name": "Double cheeseburger, on trigo panecillo, 2 pequeño medallones",
+    "id": "fndds-01523-Doble-cheeseburger-on-wheat-bun-2-small-patties",
+    "name": "Doble cheeseburger, on trigo panecillo, 2 pequeño medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -25891,8 +25891,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01524-double-cheeseburger-on-white-bun-2-medium-patties",
-    "name": "Double cheeseburger, on blanco panecillo, 2 mediano medallones",
+    "id": "fndds-01524-Doble-cheeseburger-on-white-bun-2-medium-patties",
+    "name": "Doble cheeseburger, on blanco panecillo, 2 mediano medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -25908,8 +25908,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01525-double-cheeseburger-on-wheat-bun-2-medium-patties",
-    "name": "Double cheeseburger, on trigo panecillo, 2 mediano medallones",
+    "id": "fndds-01525-Doble-cheeseburger-on-wheat-bun-2-medium-patties",
+    "name": "Doble cheeseburger, on trigo panecillo, 2 mediano medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -25942,8 +25942,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01527-double-cheeseburger-on-white-bun-2-large-patties",
-    "name": "Double cheeseburger, on blanco panecillo, 2 grande medallones",
+    "id": "fndds-01527-Doble-cheeseburger-on-white-bun-2-large-patties",
+    "name": "Doble cheeseburger, on blanco panecillo, 2 grande medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -25959,8 +25959,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01528-double-cheeseburger-on-wheat-bun-2-large-patties",
-    "name": "Double cheeseburger, on trigo panecillo, 2 grande medallones",
+    "id": "fndds-01528-Doble-cheeseburger-on-wheat-bun-2-large-patties",
+    "name": "Doble cheeseburger, on trigo panecillo, 2 grande medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -25976,8 +25976,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01529-double-cheeseburger-from-fast-food-2-small-patties",
-    "name": "Double cheeseburger, de comida rápida, 2 pequeño medallones",
+    "id": "fndds-01529-Doble-cheeseburger-from-fast-food-2-small-patties",
+    "name": "Doble cheeseburger, de comida rápida, 2 pequeño medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -25993,8 +25993,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01530-double-cheeseburger-burger-king",
-    "name": "Double cheeseburger (hamburguesa King)",
+    "id": "fndds-01530-Doble-cheeseburger-burger-king",
+    "name": "Doble cheeseburger (hamburguesa King)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26010,8 +26010,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01531-double-cheeseburger-mcdonalds",
-    "name": "Double cheeseburger (McDonalds)",
+    "id": "fndds-01531-Doble-cheeseburger-mcdonalds",
+    "name": "Doble cheeseburger (McDonalds)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26027,8 +26027,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01532-mcdouble-mcdonalds",
-    "name": "McDouble (McDonalds)",
+    "id": "fndds-01532-mcDoble-mcdonalds",
+    "name": "McDoble (McDonalds)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26061,8 +26061,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01534-double-cheeseburger-from-fast-food-2-medium-patties",
-    "name": "Double cheeseburger, de comida rápida, 2 mediano medallones",
+    "id": "fndds-01534-Doble-cheeseburger-from-fast-food-2-medium-patties",
+    "name": "Doble cheeseburger, de comida rápida, 2 mediano medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26078,8 +26078,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01535-double-cheeseburger-from-fast-food-2-large-patties",
-    "name": "Double cheeseburger, de comida rápida, 2 grande medallones",
+    "id": "fndds-01535-Doble-cheeseburger-from-fast-food-2-large-patties",
+    "name": "Doble cheeseburger, de comida rápida, 2 grande medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26384,8 +26384,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01553-double-hamburger-on-white-bun-2-small-patties",
-    "name": "Double hamburger, on blanco panecillo, 2 pequeño medallones",
+    "id": "fndds-01553-Doble-hamburger-on-white-bun-2-small-patties",
+    "name": "Doble hamburger, on blanco panecillo, 2 pequeño medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26401,8 +26401,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01554-double-hamburger-on-wheat-bun-2-small-patties",
-    "name": "Double hamburger, on trigo panecillo, 2 pequeño medallones",
+    "id": "fndds-01554-Doble-hamburger-on-wheat-bun-2-small-patties",
+    "name": "Doble hamburger, on trigo panecillo, 2 pequeño medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26418,8 +26418,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01555-double-hamburger-on-white-bun-2-medium-patties",
-    "name": "Double hamburger, on blanco panecillo, 2 mediano medallones",
+    "id": "fndds-01555-Doble-hamburger-on-white-bun-2-medium-patties",
+    "name": "Doble hamburger, on blanco panecillo, 2 mediano medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26435,8 +26435,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01556-double-hamburger-on-wheat-bun-2-medium-patties",
-    "name": "Double hamburger, on trigo panecillo, 2 mediano medallones",
+    "id": "fndds-01556-Doble-hamburger-on-wheat-bun-2-medium-patties",
+    "name": "Doble hamburger, on trigo panecillo, 2 mediano medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26452,8 +26452,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01557-double-hamburger-on-white-bun-2-large-patties",
-    "name": "Double hamburger, on blanco panecillo, 2 grande medallones",
+    "id": "fndds-01557-Doble-hamburger-on-white-bun-2-large-patties",
+    "name": "Doble hamburger, on blanco panecillo, 2 grande medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26469,8 +26469,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01558-double-hamburger-on-wheat-bun-2-large-patties",
-    "name": "Double hamburger, on trigo panecillo, 2 grande medallones",
+    "id": "fndds-01558-Doble-hamburger-on-wheat-bun-2-large-patties",
+    "name": "Doble hamburger, on trigo panecillo, 2 grande medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26486,8 +26486,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01559-double-hamburger-from-fast-food-2-small-patties",
-    "name": "Double hamburger, de comida rápida, 2 pequeño medallones",
+    "id": "fndds-01559-Doble-hamburger-from-fast-food-2-small-patties",
+    "name": "Doble hamburger, de comida rápida, 2 pequeño medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26503,8 +26503,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01560-double-hamburger-from-fast-food-2-medium-patties",
-    "name": "Double hamburger, de comida rápida, 2 mediano medallones",
+    "id": "fndds-01560-Doble-hamburger-from-fast-food-2-medium-patties",
+    "name": "Doble hamburger, de comida rápida, 2 mediano medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -26520,8 +26520,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01561-double-hamburger-from-fast-food-2-large-patties",
-    "name": "Double hamburger, de comida rápida, 2 grande medallones",
+    "id": "fndds-01561-Doble-hamburger-from-fast-food-2-large-patties",
+    "name": "Doble hamburger, de comida rápida, 2 grande medallones",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -30840,7 +30840,7 @@
   },
   {
     "id": "fndds-01815-egg-omelet-or-scrambled-egg-ns-as-to-fat",
-    "name": "Huevo omelet o scrambled huevo, sin especificar grasa",
+    "name": "Huevo omelet o huevos revueltos, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -30857,7 +30857,7 @@
   },
   {
     "id": "fndds-01816-egg-omelet-or-scrambled-egg-made-with-margarine",
-    "name": "Huevo omelet o scrambled huevo, hecho con margarina",
+    "name": "Huevo omelet o huevos revueltos, hecho con margarina",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -30874,7 +30874,7 @@
   },
   {
     "id": "fndds-01817-egg-omelet-or-scrambled-egg-made-with-oil",
-    "name": "Huevo omelet o scrambled huevo, hecho con aceite",
+    "name": "Huevo omelet o huevos revueltos, hecho con aceite",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -30891,7 +30891,7 @@
   },
   {
     "id": "fndds-01818-egg-omelet-or-scrambled-egg-made-with-butter",
-    "name": "Huevo omelet o scrambled huevo, hecho con mantequilla",
+    "name": "Huevo omelet o huevos revueltos, hecho con mantequilla",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -30908,7 +30908,7 @@
   },
   {
     "id": "fndds-01819-egg-omelet-or-scrambled-egg-made-with-animal-fat-or-meat-dri",
-    "name": "Huevo omelet o scrambled huevo, hecho con grasa animal o carne jugos de cocción",
+    "name": "Huevo omelet o huevos revueltos, hecho con grasa animal o carne jugos de cocción",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -30925,7 +30925,7 @@
   },
   {
     "id": "fndds-01820-egg-omelet-or-scrambled-egg-made-with-cooking-spray",
-    "name": "Huevo omelet o scrambled huevo, hecho con aerosol de cocina",
+    "name": "Huevo omelet o huevos revueltos, hecho con aerosol de cocina",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -30942,7 +30942,7 @@
   },
   {
     "id": "fndds-01821-egg-omelet-or-scrambled-egg-ns-as-to-fat-type",
-    "name": "Huevo omelet o scrambled huevo, sin especificar grasa tipo",
+    "name": "Huevo omelet o huevos revueltos, sin especificar grasa tipo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -30959,7 +30959,7 @@
   },
   {
     "id": "fndds-01822-egg-omelet-or-scrambled-egg-no-agregado-fat",
-    "name": "Huevo omelet o scrambled huevo, sin grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -30976,7 +30976,7 @@
   },
   {
     "id": "fndds-01823-egg-omelet-or-scrambled-egg-from-fast-food-restaurant",
-    "name": "Huevo omelet o scrambled huevo, de comida rápida/restaurante",
+    "name": "Huevo omelet o huevos revueltos, de comida rápida/restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -30993,7 +30993,7 @@
   },
   {
     "id": "fndds-01824-egg-omelet-or-scrambled-egg-with-cheese-made-with-margarine",
-    "name": "Huevo omelet o scrambled huevo, con queso, hecho con margarina",
+    "name": "Huevo omelet o huevos revueltos, con queso, hecho con margarina",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31010,7 +31010,7 @@
   },
   {
     "id": "fndds-01825-egg-omelet-or-scrambled-egg-with-cheese-made-with-oil",
-    "name": "Huevo omelet o scrambled huevo, con queso, hecho con aceite",
+    "name": "Huevo omelet o huevos revueltos, con queso, hecho con aceite",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31027,7 +31027,7 @@
   },
   {
     "id": "fndds-01826-egg-omelet-or-scrambled-egg-with-cheese-made-with-butter",
-    "name": "Huevo omelet o scrambled huevo, con queso, hecho con mantequilla",
+    "name": "Huevo omelet o huevos revueltos, con queso, hecho con mantequilla",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31044,7 +31044,7 @@
   },
   {
     "id": "fndds-01827-egg-omelet-or-scrambled-egg-with-cheese-made-with-animal-fat",
-    "name": "Huevo omelet o scrambled huevo, con queso, hecho con grasa animal o carne jugos de cocción",
+    "name": "Huevo omelet o huevos revueltos, con queso, hecho con grasa animal o carne jugos de cocción",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31061,7 +31061,7 @@
   },
   {
     "id": "fndds-01828-egg-omelet-or-scrambled-egg-with-cheese-made-with-cooking-sp",
-    "name": "Huevo omelet o scrambled huevo, con queso, hecho con aerosol de cocina",
+    "name": "Huevo omelet o huevos revueltos, con queso, hecho con aerosol de cocina",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31078,7 +31078,7 @@
   },
   {
     "id": "fndds-01829-egg-omelet-or-scrambled-egg-with-cheese-no-agregado-fat",
-    "name": "Huevo omelet o scrambled huevo, con queso, sin grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con queso, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31095,7 +31095,7 @@
   },
   {
     "id": "fndds-01830-egg-omelet-or-scrambled-egg-with-meat-ns-as-to-fat",
-    "name": "Huevo omelet o scrambled huevo, con carne, sin especificar grasa",
+    "name": "Huevo omelet o huevos revueltos, con carne, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31112,7 +31112,7 @@
   },
   {
     "id": "fndds-01831-egg-omelet-or-scrambled-egg-with-meat-made-with-margarine",
-    "name": "Huevo omelet o scrambled huevo, con carne, hecho con margarina",
+    "name": "Huevo omelet o huevos revueltos, con carne, hecho con margarina",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31129,7 +31129,7 @@
   },
   {
     "id": "fndds-01832-egg-omelet-or-scrambled-egg-with-meat-made-with-oil",
-    "name": "Huevo omelet o scrambled huevo, con carne, hecho con aceite",
+    "name": "Huevo omelet o huevos revueltos, con carne, hecho con aceite",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31146,7 +31146,7 @@
   },
   {
     "id": "fndds-01833-egg-omelet-or-scrambled-egg-with-meat-made-with-butter",
-    "name": "Huevo omelet o scrambled huevo, con carne, hecho con mantequilla",
+    "name": "Huevo omelet o huevos revueltos, con carne, hecho con mantequilla",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31163,7 +31163,7 @@
   },
   {
     "id": "fndds-01834-egg-omelet-or-scrambled-egg-with-meat-made-with-animal-fat-o",
-    "name": "Huevo omelet o scrambled huevo, con carne, hecho con grasa animal o carne jugos de cocción",
+    "name": "Huevo omelet o huevos revueltos, con carne, hecho con grasa animal o carne jugos de cocción",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31180,7 +31180,7 @@
   },
   {
     "id": "fndds-01835-egg-omelet-or-scrambled-egg-with-meat-made-with-cooking-spra",
-    "name": "Huevo omelet o scrambled huevo, con carne, hecho con aerosol de cocina",
+    "name": "Huevo omelet o huevos revueltos, con carne, hecho con aerosol de cocina",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31197,7 +31197,7 @@
   },
   {
     "id": "fndds-01836-egg-omelet-or-scrambled-egg-with-meat-ns-as-to-fat-type",
-    "name": "Huevo omelet o scrambled huevo, con carne, sin especificar grasa tipo",
+    "name": "Huevo omelet o huevos revueltos, con carne, sin especificar grasa tipo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31214,7 +31214,7 @@
   },
   {
     "id": "fndds-01837-egg-omelet-or-scrambled-egg-with-meat-no-agregado-fat",
-    "name": "Huevo omelet o scrambled huevo, con carne, sin grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con carne, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31231,7 +31231,7 @@
   },
   {
     "id": "fndds-01838-egg-omelet-or-scrambled-egg-with-cheese-and-meat-ns-as-to-fa",
-    "name": "Huevo omelet o scrambled huevo, con queso y carne, sin especificar grasa",
+    "name": "Huevo omelet o huevos revueltos, con queso y carne, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31248,7 +31248,7 @@
   },
   {
     "id": "fndds-01839-egg-omelet-or-scrambled-egg-with-cheese-and-meat-made-with-m",
-    "name": "Huevo omelet o scrambled huevo, con queso y carne, hecho con margarina",
+    "name": "Huevo omelet o huevos revueltos, con queso y carne, hecho con margarina",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31265,7 +31265,7 @@
   },
   {
     "id": "fndds-01840-egg-omelet-or-scrambled-egg-with-cheese-and-meat-made-with-o",
-    "name": "Huevo omelet o scrambled huevo, con queso y carne, hecho con aceite",
+    "name": "Huevo omelet o huevos revueltos, con queso y carne, hecho con aceite",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31282,7 +31282,7 @@
   },
   {
     "id": "fndds-01841-egg-omelet-or-scrambled-egg-with-cheese-and-meat-made-with-b",
-    "name": "Huevo omelet o scrambled huevo, con queso y carne, hecho con mantequilla",
+    "name": "Huevo omelet o huevos revueltos, con queso y carne, hecho con mantequilla",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31299,7 +31299,7 @@
   },
   {
     "id": "fndds-01842-egg-omelet-or-scrambled-egg-with-cheese-and-meat-made-with-a",
-    "name": "Huevo omelet o scrambled huevo, con queso y carne, hecho con grasa animal o carne jugos de cocción",
+    "name": "Huevo omelet o huevos revueltos, con queso y carne, hecho con grasa animal o carne jugos de cocción",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31316,7 +31316,7 @@
   },
   {
     "id": "fndds-01843-egg-omelet-or-scrambled-egg-with-cheese-and-meat-made-with-c",
-    "name": "Huevo omelet o scrambled huevo, con queso y carne, hecho con aerosol de cocina",
+    "name": "Huevo omelet o huevos revueltos, con queso y carne, hecho con aerosol de cocina",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31333,7 +31333,7 @@
   },
   {
     "id": "fndds-01844-egg-omelet-or-scrambled-egg-with-cheese-and-meat-ns-as-to-fa",
-    "name": "Huevo omelet o scrambled huevo, con queso y carne, sin especificar grasa tipo",
+    "name": "Huevo omelet o huevos revueltos, con queso y carne, sin especificar grasa tipo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31350,7 +31350,7 @@
   },
   {
     "id": "fndds-01845-egg-omelet-or-scrambled-egg-with-cheese-and-meat-no-agregado-fa",
-    "name": "Huevo omelet o scrambled huevo, con queso y carne, sin grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con queso y carne, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31366,8 +31366,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01846-egg-omelet-or-scrambled-egg-with-tomatoes-fat-agregado",
-    "name": "Huevo omelet o scrambled huevo, con tomatoes, con grasa añadida",
+    "id": "fndds-01846-egg-omelet-or-scrambled-egg-with-tomates-fat-agregado",
+    "name": "Huevo omelet o huevos revueltos, con tomates, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31383,8 +31383,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01847-egg-omelet-or-scrambled-egg-with-tomatoes-no-agregado-fat",
-    "name": "Huevo omelet o scrambled huevo, con tomatoes, sin grasa añadida",
+    "id": "fndds-01847-egg-omelet-or-scrambled-egg-with-tomates-no-agregado-fat",
+    "name": "Huevo omelet o huevos revueltos, con tomates, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31400,8 +31400,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01848-egg-omelet-or-scrambled-egg-with-tomatoes-ns-as-to-fat",
-    "name": "Huevo omelet o scrambled huevo, con tomatoes, sin especificar grasa",
+    "id": "fndds-01848-egg-omelet-or-scrambled-egg-with-tomates-ns-as-to-fat",
+    "name": "Huevo omelet o huevos revueltos, con tomates, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31418,7 +31418,7 @@
   },
   {
     "id": "fndds-01849-egg-omelet-or-scrambled-egg-with-dark-green-vegetables-fat-a",
-    "name": "Huevo omelet o scrambled huevo, con dark-verde verduras, con grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con verduras de hoja verde, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31435,7 +31435,7 @@
   },
   {
     "id": "fndds-01850-egg-omelet-or-scrambled-egg-with-dark-green-vegetables-no-ad",
-    "name": "Huevo omelet o scrambled huevo, con dark-verde verduras, sin grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con verduras de hoja verde, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31452,7 +31452,7 @@
   },
   {
     "id": "fndds-01851-egg-omelet-or-scrambled-egg-with-dark-green-vegetables-ns-as",
-    "name": "Huevo omelet o scrambled huevo, con dark-verde verduras, sin especificar grasa",
+    "name": "Huevo omelet o huevos revueltos, con verduras de hoja verde, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31468,8 +31468,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01852-egg-omelet-or-scrambled-egg-with-tomatoes-and-dark-green-veg",
-    "name": "Huevo omelet o scrambled huevo, con tomatoes y dark-verde verduras, con grasa añadida",
+    "id": "fndds-01852-egg-omelet-or-scrambled-egg-with-tomates-and-dark-green-veg",
+    "name": "Huevo omelet o huevos revueltos, con tomates y verduras de hoja verde, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31485,8 +31485,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01853-egg-omelet-or-scrambled-egg-with-tomatoes-and-dark-green-veg",
-    "name": "Huevo omelet o scrambled huevo, con tomatoes y dark-verde verduras, no con grasa añadida",
+    "id": "fndds-01853-egg-omelet-or-scrambled-egg-with-tomates-and-dark-green-veg",
+    "name": "Huevo omelet o huevos revueltos, con tomates y verduras de hoja verde, no con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31502,8 +31502,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01854-egg-omelet-or-scrambled-egg-with-tomatoes-and-dark-green-veg",
-    "name": "Huevo omelet o scrambled huevo, con tomatoes y dark-verde verduras, sin especificar grasa",
+    "id": "fndds-01854-egg-omelet-or-scrambled-egg-with-tomates-and-dark-green-veg",
+    "name": "Huevo omelet o huevos revueltos, con tomates y verduras de hoja verde, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31520,7 +31520,7 @@
   },
   {
     "id": "fndds-01855-egg-omelet-or-scrambled-egg-with-vegetables-other-than-dark-",
-    "name": "Huevo omelet o scrambled huevo, con verduras distintos de dark verde y/o tomatoes, con grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con verduras distintos de dark verde y/o tomates, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31537,7 +31537,7 @@
   },
   {
     "id": "fndds-01856-egg-omelet-or-scrambled-egg-with-vegetables-other-than-dark-",
-    "name": "Huevo omelet o scrambled huevo, con verduras distintos de dark verde y/o tomatoes, sin grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con verduras distintos de dark verde y/o tomates, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31554,7 +31554,7 @@
   },
   {
     "id": "fndds-01857-egg-omelet-or-scrambled-egg-with-vegetables-other-than-dark-",
-    "name": "Huevo omelet o scrambled huevo, con verduras distintos de dark verde y/o tomatoes, sin especificar grasa",
+    "name": "Huevo omelet o huevos revueltos, con verduras distintos de dark verde y/o tomates, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31570,8 +31570,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01858-egg-omelet-or-scrambled-egg-with-cheese-and-tomatoes-fat-add",
-    "name": "Huevo omelet o scrambled huevo, con queso y tomatoes, con grasa añadida",
+    "id": "fndds-01858-egg-omelet-or-scrambled-egg-with-cheese-and-tomates-fat-add",
+    "name": "Huevo omelet o huevos revueltos, con queso y tomates, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31587,8 +31587,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01859-egg-omelet-or-scrambled-egg-with-cheese-and-tomatoes-no-adde",
-    "name": "Huevo omelet o scrambled huevo, con queso y tomatoes, sin grasa añadida",
+    "id": "fndds-01859-egg-omelet-or-scrambled-egg-with-cheese-and-tomates-no-adde",
+    "name": "Huevo omelet o huevos revueltos, con queso y tomates, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31604,8 +31604,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01860-egg-omelet-or-scrambled-egg-with-cheese-and-tomatoes-ns-as-t",
-    "name": "Huevo omelet o scrambled huevo, con queso y tomatoes, sin especificar grasa",
+    "id": "fndds-01860-egg-omelet-or-scrambled-egg-with-cheese-and-tomates-ns-as-t",
+    "name": "Huevo omelet o huevos revueltos, con queso y tomates, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31622,7 +31622,7 @@
   },
   {
     "id": "fndds-01861-egg-omelet-or-scrambled-egg-with-cheese-and-dark-green-veget",
-    "name": "Huevo omelet o scrambled huevo, con queso y dark-verde verduras, con grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con queso y verduras de hoja verde, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31639,7 +31639,7 @@
   },
   {
     "id": "fndds-01862-egg-omelet-or-scrambled-egg-with-cheese-and-dark-green-veget",
-    "name": "Huevo omelet o scrambled huevo, con queso y dark-verde verduras, sin grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con queso y verduras de hoja verde, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31656,7 +31656,7 @@
   },
   {
     "id": "fndds-01863-egg-omelet-or-scrambled-egg-with-cheese-and-dark-green-veget",
-    "name": "Huevo omelet o scrambled huevo, con queso y dark-verde verduras, sin especificar grasa",
+    "name": "Huevo omelet o huevos revueltos, con queso y verduras de hoja verde, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31672,8 +31672,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01864-egg-omelet-or-scrambled-egg-with-cheese-tomatoes-and-dark-gr",
-    "name": "Huevo omelet o scrambled huevo, con queso, tomatoes, y dark-verde verduras, con grasa añadida",
+    "id": "fndds-01864-egg-omelet-or-scrambled-egg-with-cheese-tomates-and-dark-gr",
+    "name": "Huevo omelet o huevos revueltos, con queso, tomates, y verduras de hoja verde, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31689,8 +31689,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01865-egg-omelet-or-scrambled-egg-with-cheese-tomatoes-and-dark-gr",
-    "name": "Huevo omelet o scrambled huevo, con queso, tomatoes, y dark-verde verduras, sin grasa añadida",
+    "id": "fndds-01865-egg-omelet-or-scrambled-egg-with-cheese-tomates-and-dark-gr",
+    "name": "Huevo omelet o huevos revueltos, con queso, tomates, y verduras de hoja verde, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31706,8 +31706,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01866-egg-omelet-or-scrambled-egg-with-cheese-tomatoes-and-dark-gr",
-    "name": "Huevo omelet o scrambled huevo, con queso, tomatoes, y dark-verde verduras, sin especificar grasa",
+    "id": "fndds-01866-egg-omelet-or-scrambled-egg-with-cheese-tomates-and-dark-gr",
+    "name": "Huevo omelet o huevos revueltos, con queso, tomates, y verduras de hoja verde, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31724,7 +31724,7 @@
   },
   {
     "id": "fndds-01867-egg-omelet-or-scrambled-egg-with-cheese-and-vegetables-other",
-    "name": "Huevo omelet o scrambled huevo, con queso y verduras distintos de dark verde y/o tomatoes, con grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con queso y verduras distintos de dark verde y/o tomates, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31741,7 +31741,7 @@
   },
   {
     "id": "fndds-01868-egg-omelet-or-scrambled-egg-with-cheese-and-vegetables-other",
-    "name": "Huevo omelet o scrambled huevo, con queso y verduras distintos de dark verde y/o tomatoes, sin grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con queso y verduras distintos de dark verde y/o tomates, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31758,7 +31758,7 @@
   },
   {
     "id": "fndds-01869-egg-omelet-or-scrambled-egg-with-cheese-and-vegetables-other",
-    "name": "Huevo omelet o scrambled huevo, con queso y verduras distintos de dark verde y/o tomatoes, sin especificar grasa",
+    "name": "Huevo omelet o huevos revueltos, con queso y verduras distintos de dark verde y/o tomates, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31774,8 +31774,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01870-egg-omelet-or-scrambled-egg-with-meat-and-tomatoes-fat-agregado",
-    "name": "Huevo omelet o scrambled huevo, con carne y tomatoes, con grasa añadida",
+    "id": "fndds-01870-egg-omelet-or-scrambled-egg-with-meat-and-tomates-fat-agregado",
+    "name": "Huevo omelet o huevos revueltos, con carne y tomates, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31791,8 +31791,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01871-egg-omelet-or-scrambled-egg-with-meat-and-tomatoes-no-agregado-",
-    "name": "Huevo omelet o scrambled huevo, con carne y tomatoes, sin grasa añadida",
+    "id": "fndds-01871-egg-omelet-or-scrambled-egg-with-meat-and-tomates-no-agregado-",
+    "name": "Huevo omelet o huevos revueltos, con carne y tomates, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31808,8 +31808,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01872-egg-omelet-or-scrambled-egg-with-meat-and-tomatoes-ns-as-to-",
-    "name": "Huevo omelet o scrambled huevo, con carne y tomatoes, sin especificar grasa",
+    "id": "fndds-01872-egg-omelet-or-scrambled-egg-with-meat-and-tomates-ns-as-to-",
+    "name": "Huevo omelet o huevos revueltos, con carne y tomates, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31826,7 +31826,7 @@
   },
   {
     "id": "fndds-01873-egg-omelet-or-scrambled-egg-with-meat-and-dark-green-vegetab",
-    "name": "Huevo omelet o scrambled huevo, con carne y dark-verde verduras, con grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con carne y verduras de hoja verde, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31843,7 +31843,7 @@
   },
   {
     "id": "fndds-01874-egg-omelet-or-scrambled-egg-with-meat-and-dark-green-vegetab",
-    "name": "Huevo omelet o scrambled huevo, con carne y dark-verde verduras, sin grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con carne y verduras de hoja verde, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31860,7 +31860,7 @@
   },
   {
     "id": "fndds-01875-egg-omelet-or-scrambled-egg-with-meat-and-dark-green-vegetab",
-    "name": "Huevo omelet o scrambled huevo, con carne y dark-verde verduras, sin especificar grasa",
+    "name": "Huevo omelet o huevos revueltos, con carne y verduras de hoja verde, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31876,8 +31876,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01876-egg-omelet-or-scrambled-egg-with-meat-tomatoes-and-dark-gree",
-    "name": "Huevo omelet o scrambled huevo, con carne, tomatoes, y dark-verde verduras, con grasa añadida",
+    "id": "fndds-01876-egg-omelet-or-scrambled-egg-with-meat-tomates-and-dark-gree",
+    "name": "Huevo omelet o huevos revueltos, con carne, tomates, y verduras de hoja verde, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31893,8 +31893,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01877-egg-omelet-or-scrambled-egg-with-meat-tomatoes-and-dark-gree",
-    "name": "Huevo omelet o scrambled huevo, con carne, tomatoes, y dark-verde verduras, sin grasa añadida",
+    "id": "fndds-01877-egg-omelet-or-scrambled-egg-with-meat-tomates-and-dark-gree",
+    "name": "Huevo omelet o huevos revueltos, con carne, tomates, y verduras de hoja verde, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31910,8 +31910,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01878-egg-omelet-or-scrambled-egg-with-meat-tomatoes-and-dark-gree",
-    "name": "Huevo omelet o scrambled huevo, con carne, tomatoes, y dark-verde verduras, sin especificar grasa",
+    "id": "fndds-01878-egg-omelet-or-scrambled-egg-with-meat-tomates-and-dark-gree",
+    "name": "Huevo omelet o huevos revueltos, con carne, tomates, y verduras de hoja verde, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31928,7 +31928,7 @@
   },
   {
     "id": "fndds-01879-egg-omelet-or-scrambled-egg-with-meat-and-vegetables-other-t",
-    "name": "Huevo omelet o scrambled huevo, con carne y verduras distintos de dark-verde y/o tomatoes, con grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con carne y verduras distintos de hoja verde y/o tomates, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31945,7 +31945,7 @@
   },
   {
     "id": "fndds-01880-egg-omelet-or-scrambled-egg-with-meat-and-vegetables-other-t",
-    "name": "Huevo omelet o scrambled huevo, con carne y verduras distintos de dark-verde y/o tomatoes, sin grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con carne y verduras distintos de hoja verde y/o tomates, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31962,7 +31962,7 @@
   },
   {
     "id": "fndds-01881-egg-omelet-or-scrambled-egg-with-meat-and-vegetables-other-t",
-    "name": "Huevo omelet o scrambled huevo, con carne y verduras distintos de dark-verde y/o tomatoes, sin especificar grasa",
+    "name": "Huevo omelet o huevos revueltos, con carne y verduras distintos de hoja verde y/o tomates, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31978,8 +31978,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01882-egg-omelet-or-scrambled-egg-with-cheese-meat-and-tomatoes-fa",
-    "name": "Huevo omelet o scrambled huevo, con queso, carne, y tomatoes, con grasa añadida",
+    "id": "fndds-01882-egg-omelet-or-scrambled-egg-with-cheese-meat-and-tomates-fa",
+    "name": "Huevo omelet o huevos revueltos, con queso, carne, y tomates, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -31995,8 +31995,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01883-egg-omelet-or-scrambled-egg-with-cheese-meat-and-tomatoes-no",
-    "name": "Huevo omelet o scrambled huevo, con queso, carne, y tomatoes, sin grasa añadida",
+    "id": "fndds-01883-egg-omelet-or-scrambled-egg-with-cheese-meat-and-tomates-no",
+    "name": "Huevo omelet o huevos revueltos, con queso, carne, y tomates, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -32012,8 +32012,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01884-egg-omelet-or-scrambled-egg-with-cheese-meat-and-tomatoes-ns",
-    "name": "Huevo omelet o scrambled huevo, con queso, carne, y tomatoes, sin especificar grasa",
+    "id": "fndds-01884-egg-omelet-or-scrambled-egg-with-cheese-meat-and-tomates-ns",
+    "name": "Huevo omelet o huevos revueltos, con queso, carne, y tomates, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -32030,7 +32030,7 @@
   },
   {
     "id": "fndds-01885-egg-omelet-or-scrambled-egg-with-cheese-meat-and-dark-green-",
-    "name": "Huevo omelet o scrambled huevo, con queso, carne, y dark-verde verduras, con grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con queso, carne, y verduras de hoja verde, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -32047,7 +32047,7 @@
   },
   {
     "id": "fndds-01886-egg-omelet-or-scrambled-egg-with-cheese-meat-and-dark-green-",
-    "name": "Huevo omelet o scrambled huevo, con queso, carne, y dark-verde verduras, sin grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con queso, carne, y verduras de hoja verde, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -32064,7 +32064,7 @@
   },
   {
     "id": "fndds-01887-egg-omelet-or-scrambled-egg-with-cheese-meat-and-dark-green-",
-    "name": "Huevo omelet o scrambled huevo, con queso, carne, y dark-verde verduras, sin especificar grasa",
+    "name": "Huevo omelet o huevos revueltos, con queso, carne, y verduras de hoja verde, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -32080,8 +32080,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01888-egg-omelet-or-scrambled-egg-with-cheese-meat-tomatoes-and-da",
-    "name": "Huevo omelet o scrambled huevo, con queso, carne, tomatoes, y dark-verde verduras, con grasa añadida",
+    "id": "fndds-01888-egg-omelet-or-scrambled-egg-with-cheese-meat-tomates-and-da",
+    "name": "Huevo omelet o huevos revueltos, con queso, carne, tomates, y verduras de hoja verde, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -32097,8 +32097,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01889-egg-omelet-or-scrambled-egg-with-cheese-meat-tomatoes-and-da",
-    "name": "Huevo omelet o scrambled huevo, con queso, carne, tomatoes, y dark-verde verduras, sin grasa añadida",
+    "id": "fndds-01889-egg-omelet-or-scrambled-egg-with-cheese-meat-tomates-and-da",
+    "name": "Huevo omelet o huevos revueltos, con queso, carne, tomates, y verduras de hoja verde, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -32114,8 +32114,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01890-egg-omelet-or-scrambled-egg-with-cheese-meat-tomatoes-and-da",
-    "name": "Huevo omelet o scrambled huevo, con queso, carne, tomatoes, y dark-verde verduras, sin especificar grasa",
+    "id": "fndds-01890-egg-omelet-or-scrambled-egg-with-cheese-meat-tomates-and-da",
+    "name": "Huevo omelet o huevos revueltos, con queso, carne, tomates, y verduras de hoja verde, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -32132,7 +32132,7 @@
   },
   {
     "id": "fndds-01891-egg-omelet-or-scrambled-egg-with-cheese-meat-and-vegetables-",
-    "name": "Huevo omelet o scrambled huevo, con queso, carne, y verduras distintos de dark-verde y/o tomatoes, con grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con queso, carne, y verduras distintos de hoja verde y/o tomates, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -32149,7 +32149,7 @@
   },
   {
     "id": "fndds-01892-egg-omelet-or-scrambled-egg-with-cheese-meat-and-vegetables-",
-    "name": "Huevo omelet o scrambled huevo, con queso, carne, y verduras distintos de dark-verde y/o tomatoes, sin grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con queso, carne, y verduras distintos de hoja verde y/o tomates, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -32166,7 +32166,7 @@
   },
   {
     "id": "fndds-01893-egg-omelet-or-scrambled-egg-with-cheese-meat-and-vegetables-",
-    "name": "Huevo omelet o scrambled huevo, con queso, carne, y verduras distintos de dark-verde y/o tomatoes, sin especificar grasa",
+    "name": "Huevo omelet o huevos revueltos, con queso, carne, y verduras distintos de hoja verde y/o tomates, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -32183,7 +32183,7 @@
   },
   {
     "id": "fndds-01894-egg-omelet-or-scrambled-egg-with-potatoes-and-or-onions-fat-",
-    "name": "Huevo omelet o scrambled huevo, con papas y/o cebollas, con grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con papas y/o cebollas, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -32200,7 +32200,7 @@
   },
   {
     "id": "fndds-01895-egg-omelet-or-scrambled-egg-with-potatoes-and-or-onions-no-a",
-    "name": "Huevo omelet o scrambled huevo, con papas y/o cebollas, sin grasa añadida",
+    "name": "Huevo omelet o huevos revueltos, con papas y/o cebollas, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -32217,7 +32217,7 @@
   },
   {
     "id": "fndds-01896-egg-omelet-or-scrambled-egg-with-potatoes-and-or-onions-ns-a",
-    "name": "Huevo omelet o scrambled huevo, con papas y/o cebollas, sin especificar grasa",
+    "name": "Huevo omelet o huevos revueltos, con papas y/o cebollas, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -34154,8 +34154,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02010-beans-and-tomatoes-no-agregado-fat",
-    "name": "Frijoles y tomatoes, sin grasa añadida",
+    "id": "fndds-02010-beans-and-tomates-no-agregado-fat",
+    "name": "Frijoles y tomates, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -34171,8 +34171,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02011-beans-and-tomatoes-fat-agregado",
-    "name": "Frijoles y tomatoes, con grasa añadida",
+    "id": "fndds-02011-beans-and-tomates-fat-agregado",
+    "name": "Frijoles y tomates, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -38795,8 +38795,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02283-roll-dulce-no-frosting",
-    "name": "Panecillo, dulce, no frosting",
+    "id": "fndds-02283-roll-dulce-no-cubierto",
+    "name": "Panecillo, dulce, no cubierto",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -38812,8 +38812,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02284-roll-dulce-cinnamon-bun-no-frosting",
-    "name": "Panecillo, dulce, cinnamon panecillo, no frosting",
+    "id": "fndds-02284-roll-dulce-cinnamon-bun-no-cubierto",
+    "name": "Panecillo, dulce, cinnamon panecillo, no cubierto",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -38863,8 +38863,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02287-pan-dulce-with-fruit-no-frosting",
-    "name": "Pan Dulce, con fruta, no frosting",
+    "id": "fndds-02287-pan-dulce-with-fruit-no-cubierto",
+    "name": "Pan Dulce, con fruta, no cubierto",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -41379,8 +41379,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02435-gordita-sope-shell-plain-no-filling",
-    "name": "Gordita/sope shell, natural, no filling",
+    "id": "fndds-02435-gordita-sope-shell-plain-no-relleno",
+    "name": "Gordita/sope shell, natural, sin relleno",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -41822,7 +41822,7 @@
   },
   {
     "id": "fndds-02461-muffin-zucchini",
-    "name": "Muffin, calabacín",
+    "name": "Muffin, calabacín / Zuchinni",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -41941,7 +41941,7 @@
   },
   {
     "id": "fndds-02468-bread-zucchini",
-    "name": "Pan, calabacín",
+    "name": "Pan, calabacín / Zuchinni",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -42043,7 +42043,7 @@
   },
   {
     "id": "fndds-02474-cake-or-cupcake-black-forest",
-    "name": "Pastel o cupcake, Black Forest",
+    "name": "Pastel o cupcake, selva Negra",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -42723,7 +42723,7 @@
   },
   {
     "id": "fndds-02514-cake-or-cupcake-zucchini",
-    "name": "Pastel o cupcake, calabacín",
+    "name": "Pastel o cupcake, calabacín / Zuchinni",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -42858,8 +42858,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02522-cookie-brownie-with-con azucar-or-filling",
-    "name": "Galleta, brownie, con con azucar o filling",
+    "id": "fndds-02522-cookie-brownie-with-con azucar-or-relleno",
+    "name": "Galleta, brownie, con con azucar o relleno",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43012,7 +43012,7 @@
   },
   {
     "id": "fndds-02531-cookie-chocolate-made-with-oatmeal-and-coconut-no-bake",
-    "name": "Galleta, chocolate, hecho con avena y coco, no bake",
+    "name": "Galleta, chocolate, hecho con avena y coco, sin hornear",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43045,8 +43045,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02533-cookie-marshmallow-chocolate-covered",
-    "name": "Galleta, marshmallow, chocolate-covered",
+    "id": "fndds-02533-cookie-malvavisco-cubierto de chocolate",
+    "name": "Galleta, malvavisco, cubierto de chocolate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43062,8 +43062,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02534-cookie-marshmallow-pie-chocolate-covered",
-    "name": "Galleta, marshmallow tarta, chocolate covered",
+    "id": "fndds-02534-cookie-malvavisco-pie-cubierto de chocolate",
+    "name": "Galleta, malvavisco tarta, chocolate covered",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43096,8 +43096,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02536-cookie-sugar-wafer-chocolate-covered",
-    "name": "Galleta, azúcar wafer, chocolate-covered",
+    "id": "fndds-02536-cookie-sugar-wafer-cubierto de chocolate",
+    "name": "Galleta, azúcar wafer, cubierto de chocolate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43147,8 +43147,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02539-cookie-chocolate-sandwich-with-extra-filling",
-    "name": "Galleta, chocolate, sándwich, con extra filling",
+    "id": "fndds-02539-cookie-chocolate-sandwich-with-extra-relleno",
+    "name": "Galleta, chocolate, sándwich, con relleno extra",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43198,8 +43198,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02542-cookie-graham-cracker-with-chocolate-and-marshmallow",
-    "name": "Galleta, graham cracker con chocolate y marshmallow",
+    "id": "fndds-02542-cookie-graham-cracker-with-chocolate-and-malvavisco",
+    "name": "Galleta, graham cracker con chocolate y malvavisco",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43402,8 +43402,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02554-cookie-marshmallow-with-coconut",
-    "name": "Galleta, marshmallow, con coco",
+    "id": "fndds-02554-cookie-malvavisco-with-coconut",
+    "name": "Galleta, malvavisco, con coco",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43419,8 +43419,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02555-cookie-marshmallow-with-rice-cereal-no-bake",
-    "name": "Galleta, marshmallow, con arroz cereal, no bake",
+    "id": "fndds-02555-cookie-malvavisco-with-rice-cereal-no-bake",
+    "name": "Galleta, malvavisco, con arroz cereal, sin hornear",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43436,8 +43436,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02556-cookie-marshmallow-with-rice-cereal-and-chocolate-chips",
-    "name": "Galleta, marshmallow, con arroz cereal y chocolate chips",
+    "id": "fndds-02556-cookie-malvavisco-with-rice-cereal-and-chocolate-chips",
+    "name": "Galleta, malvavisco, con arroz cereal y chocolate chips",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43453,8 +43453,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02557-cookie-marshmallow-and-peanut-butter-with-oat-cereal-no-bake",
-    "name": "Galleta, marshmallow y maní mantequilla, con oat cereal, no bake",
+    "id": "fndds-02557-cookie-malvavisco-and-peanut-butter-with-oat-cereal-no-bake",
+    "name": "Galleta, malvavisco y maní mantequilla, con oat cereal, sin hornear",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43589,8 +43589,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02565-cookie-oatmeal-sandwich-with-creme-filling",
-    "name": "Galleta, avena sándwich, con creme filling",
+    "id": "fndds-02565-cookie-oatmeal-sandwich-with-creme-relleno",
+    "name": "Galleta, avena sándwich, con relleno de crema",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43623,8 +43623,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02567-cookie-oatmeal-sandwich-with-peanut-butter-and-jelly-filling",
-    "name": "Galleta, avena sándwich, con maní mantequilla y jelly filling",
+    "id": "fndds-02567-cookie-oatmeal-sandwich-with-peanut-butter-and-jelly-relleno",
+    "name": "Galleta, avena sándwich, con maní mantequilla y relleno de mermelada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43641,7 +43641,7 @@
   },
   {
     "id": "fndds-02568-cookie-oatmeal-with-chocolate-and-peanut-butter-no-bake",
-    "name": "Galleta, avena, con chocolate y maní mantequilla, no bake",
+    "name": "Galleta, avena, con chocolate y maní mantequilla, sin hornear",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43692,7 +43692,7 @@
   },
   {
     "id": "fndds-02571-cookie-peanut-butter-with-rice-cereal-no-bake",
-    "name": "Galleta, maní mantequilla con arroz cereal, no bake",
+    "name": "Galleta, maní mantequilla con arroz cereal, sin hornear",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43725,8 +43725,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02573-cookie-with-peanut-butter-filling-chocolate-coated",
-    "name": "Galleta, con maní mantequilla filling, chocolate-rebozado",
+    "id": "fndds-02573-cookie-with-peanut-butter-relleno-chocolate-coated",
+    "name": "Galleta, relleno con maní mantequilla, chocolate-rebozado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43828,7 +43828,7 @@
   },
   {
     "id": "fndds-02579-cookie-rum-ball-no-bake",
-    "name": "Galleta, rum ball, no bake",
+    "name": "Galleta, rum ball, sin hornear",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -43895,8 +43895,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02583-cookie-shortbread-with-con azucar-or-filling",
-    "name": "Galleta, shortbread, con con azucar o filling",
+    "id": "fndds-02583-cookie-shortbread-with-con azucar-or-relleno",
+    "name": "Galleta, shortbread, con con azucar o relleno",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43946,8 +43946,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02586-cookie-animal-with-frosting-or-con azucar",
-    "name": "Galleta, animal, con frosting o con azucar",
+    "id": "fndds-02586-cookie-animal-with-cubierto-or-con azucar",
+    "name": "Galleta, animal, con cubierto o con azucar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43981,7 +43981,7 @@
   },
   {
     "id": "fndds-02588-marie-galleta",
-    "name": "Marie galleta",
+    "name": "Maria galleta",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -44065,8 +44065,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02593-cookie-vanilla-sandwich-extra-filling",
-    "name": "Galleta, vainilla sándwich, extra filling",
+    "id": "fndds-02593-cookie-vanilla-sandwich-extra-relleno",
+    "name": "Galleta, vainilla sándwich, relleno extra",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -44099,8 +44099,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02595-cookie-butter-or-sugar-with-chocolate-con azucar-or-filling",
-    "name": "Galleta, mantequilla o azúcar, con chocolate con azucar o filling",
+    "id": "fndds-02595-cookie-butter-or-sugar-with-chocolate-con azucar-or-relleno",
+    "name": "Galleta, mantequilla o azúcar, con chocolate con azucar o relleno",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -44116,8 +44116,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02596-cookie-butter-or-sugar-with-con azucar-or-filling-other-than-choc",
-    "name": "Galleta, mantequilla o azúcar, con con azucar o filling distintos de chocolate",
+    "id": "fndds-02596-cookie-butter-or-sugar-with-con azucar-or-relleno-other-than-choc",
+    "name": "Galleta, mantequilla o azúcar, con con azucar o relleno distintos de chocolate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45034,8 +45034,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02650-cream-puff-no-filling-or-con azucar",
-    "name": "Crema puff, no filling o con azucar",
+    "id": "fndds-02650-cream-puff-no-relleno-or-con azucar",
+    "name": "Crema puff, sin relleno o con azucar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45289,8 +45289,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02665-pastry-made-with-bean-or-lotus-seed-paste-filling-baked",
-    "name": "Pastry, hecho con frijol o lotus seed paste filling, horneado",
+    "id": "fndds-02665-pastry-made-with-bean-or-lotus-seed-paste-relleno-baked",
+    "name": "Pastry, hecho con frijol o lotus relleno con pasta de semillas, horneado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45306,8 +45306,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02666-pastry-made-with-bean-paste-and-salted-egg-yolk-filling-bake",
-    "name": "Pastry, hecho con frijol paste y ensalada yema de huevo filling, horneado",
+    "id": "fndds-02666-pastry-made-with-bean-paste-and-salted-egg-yolk-relleno-bake",
+    "name": "Pastry, hecho con frijol paste y ensalada yema de huevo relleno, horneado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46445,8 +46445,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02733-breakfast-bar-cereal-crust-with-fruit-filling-lowfat",
-    "name": "Breakfast barra, cereal crust con fruta filling, lowfat",
+    "id": "fndds-02733-breakfast-bar-cereal-crust-with-fruit-relleno-lowfat",
+    "name": "Breakfast barra, cereal crust con fruta relleno, lowfat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46768,7 +46768,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02752-graham-crackers-chocolate-covered",
+    "id": "fndds-02752-graham-crackers-cubierto de chocolate",
     "name": "Graham crackers, chocolate covered",
     "category": "general",
     "servingBase": 100,
@@ -46836,8 +46836,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02756-graham-crackers-sandwich-with-filling",
-    "name": "Graham crackers, sándwich, con filling",
+    "id": "fndds-02756-graham-crackers-sandwich-with-relleno",
+    "name": "Graham crackers, sándwich, con relleno",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -52412,8 +52412,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03084-cereal-frosted-oats-with-marshmallows",
-    "name": "Cereal, frosted avena con marshmallows",
+    "id": "fndds-03084-cereal-frosted-oats-with-malvaviscos",
+    "name": "Cereal, frosted avena con malvaviscos",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57393,8 +57393,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03377-ravioli-ns-as-to-filling-no-sauce",
-    "name": "Ravioli, sin especificar filling, no salsa",
+    "id": "fndds-03377-ravioli-ns-as-to-relleno-no-sauce",
+    "name": "Ravioli, sin especificar relleno, no salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57410,8 +57410,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03378-ravioli-ns-as-to-filling-with-tomato-sauce",
-    "name": "Ravioli, sin especificar filling, con salsa de tomate",
+    "id": "fndds-03378-ravioli-ns-as-to-relleno-with-tomato-sauce",
+    "name": "Ravioli, sin especificar relleno, con salsa de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57427,8 +57427,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03379-ravioli-ns-as-to-filling-with-cream-sauce",
-    "name": "Ravioli, sin especificar filling, con salsa de crema",
+    "id": "fndds-03379-ravioli-ns-as-to-relleno-with-cream-sauce",
+    "name": "Ravioli, sin especificar relleno, con salsa de crema",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58499,7 +58499,7 @@
   },
   {
     "id": "fndds-03442-pasta-with-tomato-based-sauce-cheese-and-meat",
-    "name": "Pasta con tomate-based salsa, queso y carne",
+    "name": "Pasta con salsa a base de tomate, queso y carne",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58516,7 +58516,7 @@
   },
   {
     "id": "fndds-03443-pasta-with-tomato-based-sauce-and-cheese",
-    "name": "Pasta con tomate-based salsa y queso",
+    "name": "Pasta con salsa a base de tomate y queso",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58584,7 +58584,7 @@
   },
   {
     "id": "fndds-03447-pasta-with-tomato-based-sauce-restaurant",
-    "name": "Pasta con tomate-based salsa, restaurante",
+    "name": "Pasta con salsa a base de tomate, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58601,7 +58601,7 @@
   },
   {
     "id": "fndds-03448-pasta-with-tomato-based-sauce-home-recipe",
-    "name": "Pasta con tomate-based salsa, receta casera",
+    "name": "Pasta con salsa a base de tomate, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58618,7 +58618,7 @@
   },
   {
     "id": "fndds-03449-pasta-with-tomato-based-sauce-ready-to-heat",
-    "name": "Pasta con tomate-based salsa, ready-to-heat",
+    "name": "Pasta con salsa a base de tomate, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58635,7 +58635,7 @@
   },
   {
     "id": "fndds-03450-pasta-with-tomato-based-sauce-and-agregado-vegetables-restauran",
-    "name": "Pasta con tomate-based salsa, y verduras añadidas, restaurante",
+    "name": "Pasta con salsa a base de tomate, y verduras añadidas, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58652,7 +58652,7 @@
   },
   {
     "id": "fndds-03451-pasta-with-tomato-based-sauce-and-agregado-vegetables-home-reci",
-    "name": "Pasta con tomate-based salsa, y verduras añadidas, receta casera",
+    "name": "Pasta con salsa a base de tomate, y verduras añadidas, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58669,7 +58669,7 @@
   },
   {
     "id": "fndds-03452-pasta-with-tomato-based-sauce-and-agregado-vegetables-ready-to-",
-    "name": "Pasta con tomate-based salsa, y verduras añadidas, ready-to-heat",
+    "name": "Pasta con salsa a base de tomate, y verduras añadidas, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58703,7 +58703,7 @@
   },
   {
     "id": "fndds-03454-pasta-with-tomato-based-sauce-and-meat-restaurant",
-    "name": "Pasta con tomate-based salsa y carne, restaurante",
+    "name": "Pasta con salsa a base de tomate y carne, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58720,7 +58720,7 @@
   },
   {
     "id": "fndds-03455-pasta-with-tomato-based-sauce-and-meat-home-recipe",
-    "name": "Pasta con tomate-based salsa y carne, receta casera",
+    "name": "Pasta con salsa a base de tomate y carne, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58737,7 +58737,7 @@
   },
   {
     "id": "fndds-03456-pasta-with-tomato-based-sauce-and-meat-ready-to-heat",
-    "name": "Pasta con tomate-based salsa y carne, ready-to-heat",
+    "name": "Pasta con salsa a base de tomate y carne, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58754,7 +58754,7 @@
   },
   {
     "id": "fndds-03457-pasta-with-tomato-based-sauce-meat-and-agregado-vegetables-rest",
-    "name": "Pasta con tomate-based salsa, carne, y verduras añadidas, restaurante",
+    "name": "Pasta con salsa a base de tomate, carne, y verduras añadidas, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58771,7 +58771,7 @@
   },
   {
     "id": "fndds-03458-pasta-with-tomato-based-sauce-meat-and-agregado-vegetables-home",
-    "name": "Pasta con tomate-based salsa, carne, y verduras añadidas, receta casera",
+    "name": "Pasta con salsa a base de tomate, carne, y verduras añadidas, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58788,7 +58788,7 @@
   },
   {
     "id": "fndds-03459-pasta-with-tomato-based-sauce-meat-and-agregado-vegetables-read",
-    "name": "Pasta con tomate-based salsa, carne, y verduras añadidas, ready-to-heat",
+    "name": "Pasta con salsa a base de tomate, carne, y verduras añadidas, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58805,7 +58805,7 @@
   },
   {
     "id": "fndds-03460-pasta-with-tomato-based-sauce-and-poultry-restaurant",
-    "name": "Pasta con tomate-based salsa y poultry, restaurante",
+    "name": "Pasta con salsa a base de tomate y poultry, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58822,7 +58822,7 @@
   },
   {
     "id": "fndds-03461-pasta-with-tomato-based-sauce-and-poultry-home-recipe",
-    "name": "Pasta con tomate-based salsa y poultry, receta casera",
+    "name": "Pasta con salsa a base de tomate y poultry, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58839,7 +58839,7 @@
   },
   {
     "id": "fndds-03462-pasta-with-tomato-based-sauce-and-poultry-ready-to-heat",
-    "name": "Pasta con tomate-based salsa y poultry, ready-to-heat",
+    "name": "Pasta con salsa a base de tomate y poultry, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58856,7 +58856,7 @@
   },
   {
     "id": "fndds-03463-pasta-with-tomato-based-sauce-poultry-and-agregado-vegetables-r",
-    "name": "Pasta con tomate-based salsa, poultry, y verduras añadidas, restaurante",
+    "name": "Pasta con salsa a base de tomate, poultry, y verduras añadidas, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58873,7 +58873,7 @@
   },
   {
     "id": "fndds-03464-pasta-with-tomato-based-sauce-poultry-and-agregado-vegetables-h",
-    "name": "Pasta con tomate-based salsa, poultry, y verduras añadidas, receta casera",
+    "name": "Pasta con salsa a base de tomate, poultry, y verduras añadidas, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58890,7 +58890,7 @@
   },
   {
     "id": "fndds-03465-pasta-with-tomato-based-sauce-poultry-and-agregado-vegetables-r",
-    "name": "Pasta con tomate-based salsa, poultry, y verduras añadidas, ready-to-heat",
+    "name": "Pasta con salsa a base de tomate, poultry, y verduras añadidas, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58907,7 +58907,7 @@
   },
   {
     "id": "fndds-03466-pasta-with-tomato-based-sauce-and-mariscos-restaurant",
-    "name": "Pasta con tomate-based salsa y mariscos, restaurante",
+    "name": "Pasta con salsa a base de tomate y mariscos, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58924,7 +58924,7 @@
   },
   {
     "id": "fndds-03467-pasta-with-tomato-based-sauce-and-mariscos-home-recipe",
-    "name": "Pasta con tomate-based salsa y mariscos, receta casera",
+    "name": "Pasta con salsa a base de tomate y mariscos, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58941,7 +58941,7 @@
   },
   {
     "id": "fndds-03468-pasta-with-tomato-based-sauce-and-mariscos-ready-to-heat",
-    "name": "Pasta con tomate-based salsa y mariscos, ready-to-heat",
+    "name": "Pasta con salsa a base de tomate y mariscos, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58958,7 +58958,7 @@
   },
   {
     "id": "fndds-03469-pasta-with-tomato-based-sauce-mariscos-and-agregado-vegetables-r",
-    "name": "Pasta con tomate-based salsa, mariscos, y verduras añadidas, restaurante",
+    "name": "Pasta con salsa a base de tomate, mariscos, y verduras añadidas, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58975,7 +58975,7 @@
   },
   {
     "id": "fndds-03470-pasta-with-tomato-based-sauce-mariscos-and-agregado-vegetables-h",
-    "name": "Pasta con tomate-based salsa, mariscos, y verduras añadidas, receta casera",
+    "name": "Pasta con salsa a base de tomate, mariscos, y verduras añadidas, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -58992,7 +58992,7 @@
   },
   {
     "id": "fndds-03471-pasta-with-tomato-based-sauce-mariscos-and-agregado-vegetables-r",
-    "name": "Pasta con tomate-based salsa, mariscos, y verduras añadidas, ready-to-heat",
+    "name": "Pasta con salsa a base de tomate, mariscos, y verduras añadidas, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59417,7 +59417,7 @@
   },
   {
     "id": "fndds-03496-pasta-whole-grain-with-tomato-based-sauce-restaurant",
-    "name": "Pasta, grano entero, con tomate-based salsa, restaurante",
+    "name": "Pasta, grano entero, con salsa a base de tomate, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59434,7 +59434,7 @@
   },
   {
     "id": "fndds-03497-pasta-whole-grain-with-tomato-based-sauce-home-recipe",
-    "name": "Pasta, grano entero, con tomate-based salsa, receta casera",
+    "name": "Pasta, grano entero, con salsa a base de tomate, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59451,7 +59451,7 @@
   },
   {
     "id": "fndds-03498-pasta-whole-grain-with-tomato-based-sauce-ready-to-heat",
-    "name": "Pasta, grano entero, con tomate-based salsa, ready-to-heat",
+    "name": "Pasta, grano entero, con salsa a base de tomate, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59468,7 +59468,7 @@
   },
   {
     "id": "fndds-03499-pasta-whole-grain-with-tomato-based-sauce-and-agregado-vegetabl",
-    "name": "Pasta, grano entero, con tomate-based salsa y verduras añadidas, restaurante",
+    "name": "Pasta, grano entero, con salsa a base de tomate y verduras añadidas, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59485,7 +59485,7 @@
   },
   {
     "id": "fndds-03500-pasta-whole-grain-with-tomato-based-sauce-and-agregado-vegetabl",
-    "name": "Pasta, grano entero, con tomate-based salsa y verduras añadidas, receta casera",
+    "name": "Pasta, grano entero, con salsa a base de tomate y verduras añadidas, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59502,7 +59502,7 @@
   },
   {
     "id": "fndds-03501-pasta-whole-grain-with-tomato-based-sauce-and-agregado-vegetabl",
-    "name": "Pasta, grano entero, con tomate-based salsa y verduras añadidas, ready-to-heat",
+    "name": "Pasta, grano entero, con salsa a base de tomate y verduras añadidas, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59519,7 +59519,7 @@
   },
   {
     "id": "fndds-03502-pasta-whole-grain-with-tomato-based-sauce-and-meat-restauran",
-    "name": "Pasta, grano entero, con tomate-based salsa y carne, restaurante",
+    "name": "Pasta, grano entero, con salsa a base de tomate y carne, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59536,7 +59536,7 @@
   },
   {
     "id": "fndds-03503-pasta-whole-grain-with-tomato-based-sauce-and-meat-home-reci",
-    "name": "Pasta, grano entero, con tomate-based salsa y carne, receta casera",
+    "name": "Pasta, grano entero, con salsa a base de tomate y carne, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59553,7 +59553,7 @@
   },
   {
     "id": "fndds-03504-pasta-whole-grain-with-tomato-based-sauce-and-meat-ready-to-",
-    "name": "Pasta, grano entero, con tomate-based salsa y carne, ready-to-heat",
+    "name": "Pasta, grano entero, con salsa a base de tomate y carne, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59570,7 +59570,7 @@
   },
   {
     "id": "fndds-03505-pasta-whole-grain-with-tomato-based-sauce-meat-and-agregado-veg",
-    "name": "Pasta, grano entero, con tomate-based salsa, carne, y verduras añadidas, restaurante",
+    "name": "Pasta, grano entero, con salsa a base de tomate, carne, y verduras añadidas, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59587,7 +59587,7 @@
   },
   {
     "id": "fndds-03506-pasta-whole-grain-with-tomato-based-sauce-meat-and-agregado-veg",
-    "name": "Pasta, grano entero, con tomate-based salsa, carne, y verduras añadidas, receta casera",
+    "name": "Pasta, grano entero, con salsa a base de tomate, carne, y verduras añadidas, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59604,7 +59604,7 @@
   },
   {
     "id": "fndds-03507-pasta-whole-grain-with-tomato-based-sauce-meat-and-agregado-veg",
-    "name": "Pasta, grano entero, con tomate-based salsa, carne, y verduras añadidas, ready-to-heat",
+    "name": "Pasta, grano entero, con salsa a base de tomate, carne, y verduras añadidas, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59621,7 +59621,7 @@
   },
   {
     "id": "fndds-03508-pasta-whole-grain-with-tomato-based-sauce-and-poultry-restau",
-    "name": "Pasta, grano entero, con tomate-based salsa y poultry, restaurante",
+    "name": "Pasta, grano entero, con salsa a base de tomate y poultry, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59638,7 +59638,7 @@
   },
   {
     "id": "fndds-03509-pasta-whole-grain-with-tomato-based-sauce-and-poultry-home-r",
-    "name": "Pasta, grano entero, con tomate-based salsa y poultry, receta casera",
+    "name": "Pasta, grano entero, con salsa a base de tomate y poultry, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59655,7 +59655,7 @@
   },
   {
     "id": "fndds-03510-pasta-whole-grain-with-tomato-based-sauce-and-poultry-ready-",
-    "name": "Pasta, grano entero, con tomate-based salsa y poultry, ready-to-heat",
+    "name": "Pasta, grano entero, con salsa a base de tomate y poultry, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59672,7 +59672,7 @@
   },
   {
     "id": "fndds-03511-pasta-whole-grain-with-tomato-based-sauce-poultry-and-agregado-",
-    "name": "Pasta, grano entero, con tomate-based salsa, poultry, y verduras añadidas, restaurante",
+    "name": "Pasta, grano entero, con salsa a base de tomate, poultry, y verduras añadidas, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59689,7 +59689,7 @@
   },
   {
     "id": "fndds-03512-pasta-whole-grain-with-tomato-based-sauce-poultry-and-agregado-",
-    "name": "Pasta, grano entero, con tomate-based salsa, poultry, y verduras añadidas, receta casera",
+    "name": "Pasta, grano entero, con salsa a base de tomate, poultry, y verduras añadidas, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59706,7 +59706,7 @@
   },
   {
     "id": "fndds-03513-pasta-whole-grain-with-tomato-based-sauce-poultry-and-agregado-",
-    "name": "Pasta, grano entero, con tomate-based salsa, poultry, y verduras añadidas, ready-to-heat",
+    "name": "Pasta, grano entero, con salsa a base de tomate, poultry, y verduras añadidas, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59723,7 +59723,7 @@
   },
   {
     "id": "fndds-03514-pasta-whole-grain-with-tomato-based-sauce-and-mariscos-restau",
-    "name": "Pasta, grano entero, con tomate-based salsa y mariscos, restaurante",
+    "name": "Pasta, grano entero, con salsa a base de tomate y mariscos, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59740,7 +59740,7 @@
   },
   {
     "id": "fndds-03515-pasta-whole-grain-with-tomato-based-sauce-and-mariscos-home-r",
-    "name": "Pasta, grano entero, con tomate-based salsa y mariscos, receta casera",
+    "name": "Pasta, grano entero, con salsa a base de tomate y mariscos, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59757,7 +59757,7 @@
   },
   {
     "id": "fndds-03516-pasta-whole-grain-with-tomato-based-sauce-and-mariscos-ready-",
-    "name": "Pasta, grano entero, con tomate-based salsa y mariscos, ready-to-heat",
+    "name": "Pasta, grano entero, con salsa a base de tomate y mariscos, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59774,7 +59774,7 @@
   },
   {
     "id": "fndds-03517-pasta-whole-grain-with-tomato-based-sauce-mariscos-and-agregado-",
-    "name": "Pasta, grano entero, con tomate-based salsa, mariscos, y verduras añadidas, restaurante",
+    "name": "Pasta, grano entero, con salsa a base de tomate, mariscos, y verduras añadidas, restaurante",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59791,7 +59791,7 @@
   },
   {
     "id": "fndds-03518-pasta-whole-grain-with-tomato-based-sauce-mariscos-and-agregado-",
-    "name": "Pasta, grano entero, con tomate-based salsa, mariscos, y verduras añadidas, receta casera",
+    "name": "Pasta, grano entero, con salsa a base de tomate, mariscos, y verduras añadidas, receta casera",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -59808,7 +59808,7 @@
   },
   {
     "id": "fndds-03519-pasta-whole-grain-with-tomato-based-sauce-mariscos-and-agregado-",
-    "name": "Pasta, grano entero, con tomate-based salsa, mariscos, y verduras añadidas, ready-to-heat",
+    "name": "Pasta, grano entero, con salsa a base de tomate, mariscos, y verduras añadidas, ready-to-heat",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -60233,7 +60233,7 @@
   },
   {
     "id": "fndds-03544-pasta-with-tomato-based-sauce-and-beans-or-lentils",
-    "name": "Pasta con tomate-based salsa y frijoles o lentejas",
+    "name": "Pasta con salsa a base de tomate y frijoles o lentejas",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61320,8 +61320,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03608-beans-and-rice-with-tomatoes",
-    "name": "Frijoles y arroz, con tomatoes",
+    "id": "fndds-03608-beans-and-rice-with-tomates",
+    "name": "Frijoles y arroz, con tomates",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61609,8 +61609,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03625-rice-white-with-tomatoes-and-or-tomato-based-sauce-ns-as-to-",
-    "name": "Arroz, blanco, con tomatoes y/o tomate-based salsa, sin especificar grasa",
+    "id": "fndds-03625-rice-white-with-tomates-and-or-tomato-based-sauce-ns-as-to-",
+    "name": "Arroz, blanco, con tomates y/o salsa a base de tomate, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61626,8 +61626,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03626-rice-white-with-tomatoes-and-or-tomato-based-sauce-no-agregado-",
-    "name": "Arroz, blanco, con tomatoes y/o tomate-based salsa, sin grasa añadida",
+    "id": "fndds-03626-rice-white-with-tomates-and-or-tomato-based-sauce-no-agregado-",
+    "name": "Arroz, blanco, con tomates y/o salsa a base de tomate, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61643,8 +61643,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03627-rice-white-with-tomatoes-and-or-tomato-based-sauce-fat-agregado",
-    "name": "Arroz, blanco, con tomatoes y/o tomate-based salsa, con grasa añadida",
+    "id": "fndds-03627-rice-white-with-tomates-and-or-tomato-based-sauce-fat-agregado",
+    "name": "Arroz, blanco, con tomates y/o salsa a base de tomate, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61661,7 +61661,7 @@
   },
   {
     "id": "fndds-03628-rice-white-with-dark-green-vegetables-ns-as-to-fat",
-    "name": "Arroz, blanco, con dark verde verduras, sin especificar grasa",
+    "name": "Arroz, blanco, con verduras de hoja verde, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61678,7 +61678,7 @@
   },
   {
     "id": "fndds-03629-rice-white-with-dark-green-vegetables-no-agregado-fat",
-    "name": "Arroz, blanco, con dark verde verduras, sin grasa añadida",
+    "name": "Arroz, blanco, con verduras de hoja verde, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61695,7 +61695,7 @@
   },
   {
     "id": "fndds-03630-rice-white-with-dark-green-vegetables-fat-agregado",
-    "name": "Arroz, blanco, con dark verde verduras, con grasa añadida",
+    "name": "Arroz, blanco, con verduras de hoja verde, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61711,8 +61711,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03631-rice-white-with-zanahorias-and-tomatoes-and-or-tomato-based-sau",
-    "name": "Arroz, blanco, con zanahorias y tomatoes y/o tomate-based salsa, sin especificar grasa",
+    "id": "fndds-03631-rice-white-with-zanahorias-and-tomates-and-or-tomato-based-sau",
+    "name": "Arroz, blanco, con zanahorias y tomates y/o salsa a base de tomate, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61728,8 +61728,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03632-rice-white-with-zanahorias-and-tomatoes-and-or-tomato-based-sau",
-    "name": "Arroz, blanco, con zanahorias y tomatoes y/o tomate-based salsa, sin grasa añadida",
+    "id": "fndds-03632-rice-white-with-zanahorias-and-tomates-and-or-tomato-based-sau",
+    "name": "Arroz, blanco, con zanahorias y tomates y/o salsa a base de tomate, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61745,8 +61745,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03633-rice-white-with-zanahorias-and-tomatoes-and-or-tomato-based-sau",
-    "name": "Arroz, blanco, con zanahorias y tomatoes y/o tomate-based salsa, con grasa añadida",
+    "id": "fndds-03633-rice-white-with-zanahorias-and-tomates-and-or-tomato-based-sau",
+    "name": "Arroz, blanco, con zanahorias y tomates y/o salsa a base de tomate, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61762,8 +61762,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03634-rice-white-with-dark-green-vegetables-and-tomatoes-and-or-to",
-    "name": "Arroz, blanco, con dark verde verduras y tomatoes y/o tomate-based salsa, sin especificar grasa",
+    "id": "fndds-03634-rice-white-with-dark-green-vegetables-and-tomates-and-or-to",
+    "name": "Arroz, blanco, con verduras de hoja verde y tomates y/o salsa a base de tomate, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61779,8 +61779,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03635-rice-white-with-dark-green-vegetables-and-tomatoes-and-or-to",
-    "name": "Arroz, blanco, con dark verde verduras y tomatoes y/o tomate-based salsa, sin grasa añadida",
+    "id": "fndds-03635-rice-white-with-dark-green-vegetables-and-tomates-and-or-to",
+    "name": "Arroz, blanco, con verduras de hoja verde y tomates y/o salsa a base de tomate, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61796,8 +61796,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03636-rice-white-with-dark-green-vegetables-and-tomatoes-and-or-to",
-    "name": "Arroz, blanco, con dark verde verduras y tomatoes y/o tomate-based salsa, con grasa añadida",
+    "id": "fndds-03636-rice-white-with-dark-green-vegetables-and-tomates-and-or-to",
+    "name": "Arroz, blanco, con verduras de hoja verde y tomates y/o salsa a base de tomate, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61814,7 +61814,7 @@
   },
   {
     "id": "fndds-03637-rice-white-with-zanahorias-and-dark-green-vegetables-ns-as-to-f",
-    "name": "Arroz, blanco, con zanahorias y dark verde verduras, sin especificar grasa",
+    "name": "Arroz, blanco, con zanahorias y verduras de hoja verde, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61831,7 +61831,7 @@
   },
   {
     "id": "fndds-03638-rice-white-with-zanahorias-and-dark-green-vegetables-no-agregado-f",
-    "name": "Arroz, blanco, con zanahorias y dark verde verduras, sin grasa añadida",
+    "name": "Arroz, blanco, con zanahorias y verduras de hoja verde, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61848,7 +61848,7 @@
   },
   {
     "id": "fndds-03639-rice-white-with-zanahorias-and-dark-green-vegetables-fat-agregado",
-    "name": "Arroz, blanco, con zanahorias y dark verde verduras, con grasa añadida",
+    "name": "Arroz, blanco, con zanahorias y verduras de hoja verde, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61864,8 +61864,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03640-rice-white-with-zanahorias-dark-green-vegetables-and-tomatoes-a",
-    "name": "Arroz, blanco, con zanahorias, dark verde verduras, y tomatoes y/o tomate-based salsa, sin especificar grasa",
+    "id": "fndds-03640-rice-white-with-zanahorias-dark-green-vegetables-and-tomates-a",
+    "name": "Arroz, blanco, con zanahorias, verduras de hoja verde, y tomates y/o salsa a base de tomate, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61881,8 +61881,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03641-rice-white-with-zanahorias-dark-green-vegetables-and-tomatoes-a",
-    "name": "Arroz, blanco, con zanahorias, dark verde verduras, y tomatoes y/o tomate-based salsa, sin grasa añadida",
+    "id": "fndds-03641-rice-white-with-zanahorias-dark-green-vegetables-and-tomates-a",
+    "name": "Arroz, blanco, con zanahorias, verduras de hoja verde, y tomates y/o salsa a base de tomate, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -61898,8 +61898,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03642-rice-white-with-zanahorias-dark-green-vegetables-and-tomatoes-a",
-    "name": "Arroz, blanco, con zanahorias, dark verde verduras, y tomatoes y/o tomate-based salsa, con grasa añadida",
+    "id": "fndds-03642-rice-white-with-zanahorias-dark-green-vegetables-and-tomates-a",
+    "name": "Arroz, blanco, con zanahorias, verduras de hoja verde, y tomates y/o salsa a base de tomate, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62306,8 +62306,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03666-rice-brown-with-tomatoes-and-or-tomato-based-sauce-ns-as-to-",
-    "name": "Arroz, integral, con tomatoes y/o tomate based salsa, sin especificar grasa",
+    "id": "fndds-03666-rice-brown-with-tomates-and-or-tomato-based-sauce-ns-as-to-",
+    "name": "Arroz, integral, con tomates y/o tomate based salsa, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62323,8 +62323,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03667-rice-brown-with-tomatoes-and-or-tomato-based-sauce-no-agregado-",
-    "name": "Arroz, integral, con tomatoes y/o tomate based salsa, sin grasa añadida",
+    "id": "fndds-03667-rice-brown-with-tomates-and-or-tomato-based-sauce-no-agregado-",
+    "name": "Arroz, integral, con tomates y/o tomate based salsa, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62340,8 +62340,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03668-rice-brown-with-tomatoes-and-or-tomato-based-sauce-fat-agregado",
-    "name": "Arroz, integral, con tomatoes y/o tomate based salsa, con grasa añadida",
+    "id": "fndds-03668-rice-brown-with-tomates-and-or-tomato-based-sauce-fat-agregado",
+    "name": "Arroz, integral, con tomates y/o tomate based salsa, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62358,7 +62358,7 @@
   },
   {
     "id": "fndds-03669-rice-brown-with-dark-green-vegetables-ns-as-to-fat",
-    "name": "Arroz, integral, con dark verde verduras, sin especificar grasa",
+    "name": "Arroz, integral, con verduras de hoja verde, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62375,7 +62375,7 @@
   },
   {
     "id": "fndds-03670-rice-brown-with-dark-green-vegetables-no-agregado-fat",
-    "name": "Arroz, integral, con dark verde verduras, sin grasa añadida",
+    "name": "Arroz, integral, con verduras de hoja verde, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62392,7 +62392,7 @@
   },
   {
     "id": "fndds-03671-rice-brown-with-dark-green-vegetables-fat-agregado",
-    "name": "Arroz, integral, con dark verde verduras, con grasa añadida",
+    "name": "Arroz, integral, con verduras de hoja verde, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62408,8 +62408,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03672-rice-brown-with-zanahorias-and-tomatoes-and-or-tomato-based-sau",
-    "name": "Arroz, integral, con zanahorias y tomatoes y/o tomate-based salsa, sin especificar grasa",
+    "id": "fndds-03672-rice-brown-with-zanahorias-and-tomates-and-or-tomato-based-sau",
+    "name": "Arroz, integral, con zanahorias y tomates y/o salsa a base de tomate, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62425,8 +62425,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03673-rice-brown-with-zanahorias-and-tomatoes-and-or-tomato-based-sau",
-    "name": "Arroz, integral, con zanahorias y tomatoes y/o tomate-based salsa, sin grasa añadida",
+    "id": "fndds-03673-rice-brown-with-zanahorias-and-tomates-and-or-tomato-based-sau",
+    "name": "Arroz, integral, con zanahorias y tomates y/o salsa a base de tomate, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62442,8 +62442,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03674-rice-brown-with-zanahorias-and-tomatoes-and-or-tomato-based-sau",
-    "name": "Arroz, integral, con zanahorias y tomatoes y/o tomate-based salsa, con grasa añadida",
+    "id": "fndds-03674-rice-brown-with-zanahorias-and-tomates-and-or-tomato-based-sau",
+    "name": "Arroz, integral, con zanahorias y tomates y/o salsa a base de tomate, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62459,8 +62459,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03675-rice-brown-with-dark-green-vegetables-and-tomatoes-and-or-to",
-    "name": "Arroz, integral, con dark verde verduras y tomatoes y/o tomate-based salsa, sin especificar grasa",
+    "id": "fndds-03675-rice-brown-with-dark-green-vegetables-and-tomates-and-or-to",
+    "name": "Arroz, integral, con verduras de hoja verde y tomates y/o salsa a base de tomate, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62476,8 +62476,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03676-rice-brown-with-dark-green-vegetables-and-tomatoes-and-or-to",
-    "name": "Arroz, integral, con dark verde verduras y tomatoes y/o tomate-based salsa, sin grasa añadida",
+    "id": "fndds-03676-rice-brown-with-dark-green-vegetables-and-tomates-and-or-to",
+    "name": "Arroz, integral, con verduras de hoja verde y tomates y/o salsa a base de tomate, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62493,8 +62493,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03677-rice-brown-with-dark-green-vegetables-and-tomatoes-and-or-to",
-    "name": "Arroz, integral, con dark verde verduras y tomatoes y/o tomate-based salsa, con grasa añadida",
+    "id": "fndds-03677-rice-brown-with-dark-green-vegetables-and-tomates-and-or-to",
+    "name": "Arroz, integral, con verduras de hoja verde y tomates y/o salsa a base de tomate, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62511,7 +62511,7 @@
   },
   {
     "id": "fndds-03678-rice-brown-with-zanahorias-and-dark-green-vegetables-ns-as-to-f",
-    "name": "Arroz, integral, con zanahorias y dark verde verduras, sin especificar grasa",
+    "name": "Arroz, integral, con zanahorias y verduras de hoja verde, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62528,7 +62528,7 @@
   },
   {
     "id": "fndds-03679-rice-brown-with-zanahorias-and-dark-green-vegetables-no-agregado-f",
-    "name": "Arroz, integral, con zanahorias y dark verde verduras, sin grasa añadida",
+    "name": "Arroz, integral, con zanahorias y verduras de hoja verde, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62545,7 +62545,7 @@
   },
   {
     "id": "fndds-03680-rice-brown-with-zanahorias-and-dark-green-vegetables-fat-agregado",
-    "name": "Arroz, integral, con zanahorias y dark verde verduras, con grasa añadida",
+    "name": "Arroz, integral, con zanahorias y verduras de hoja verde, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62578,8 +62578,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03682-rice-brown-with-zanahorias-dark-green-vegetables-and-tomatoes-a",
-    "name": "Arroz, integral, con zanahorias, dark verde verduras, y tomatoes y/o tomate-based salsa, sin especificar grasa",
+    "id": "fndds-03682-rice-brown-with-zanahorias-dark-green-vegetables-and-tomates-a",
+    "name": "Arroz, integral, con zanahorias, verduras de hoja verde, y tomates y/o salsa a base de tomate, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62595,8 +62595,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03683-rice-brown-with-zanahorias-dark-green-vegetables-and-tomatoes-a",
-    "name": "Arroz, integral, con zanahorias, dark verde verduras, y tomatoes y/o tomate-based salsa, sin grasa añadida",
+    "id": "fndds-03683-rice-brown-with-zanahorias-dark-green-vegetables-and-tomates-a",
+    "name": "Arroz, integral, con zanahorias, verduras de hoja verde, y tomates y/o salsa a base de tomate, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -62612,8 +62612,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03684-rice-brown-with-zanahorias-dark-green-vegetables-and-tomatoes-a",
-    "name": "Arroz, integral, con zanahorias, dark verde verduras, y tomatoes y/o tomate-based salsa, con grasa añadida",
+    "id": "fndds-03684-rice-brown-with-zanahorias-dark-green-vegetables-and-tomates-a",
+    "name": "Arroz, integral, con zanahorias, verduras de hoja verde, y tomates y/o salsa a base de tomate, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -63666,8 +63666,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03746-dosa-with-filling",
-    "name": "Dosa, con filling",
+    "id": "fndds-03746-dosa-with-relleno",
+    "name": "Dosa, con relleno",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -63854,7 +63854,7 @@
   },
   {
     "id": "fndds-03757-noodles-with-vegetables-in-tomato-based-sauce-diet-frozen-me",
-    "name": "Fideos con verduras in tomate-based salsa, dietetico comida congelada",
+    "name": "Fideos con verduras in salsa a base de tomate, dietetico comida congelada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -64346,8 +64346,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03786-lemon-pie-filling",
-    "name": "Limón tarta filling",
+    "id": "fndds-03786-lemon-pie-relleno",
+    "name": "Limón tarta relleno",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -65196,8 +65196,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03836-apple-pie-filling",
-    "name": "Manzana tarta filling",
+    "id": "fndds-03836-apple-pie-relleno",
+    "name": "Manzana tarta relleno",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -65383,8 +65383,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03847-cereza-pie-filling",
-    "name": "cereza tarta filling",
+    "id": "fndds-03847-cereza-pie-relleno",
+    "name": "cereza tarta relleno",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -66199,8 +66199,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03895-arandanos-pie-filling",
-    "name": "Arándano tarta filling",
+    "id": "fndds-03895-arandanos-pie-relleno",
+    "name": "Arándano tarta relleno",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -66488,7 +66488,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03912-fruit-chocolate-covered",
+    "id": "fndds-03912-fruit-cubierto de chocolate",
     "name": "Fruta, chocolate covered",
     "category": "general",
     "servingBase": 100,
@@ -66556,8 +66556,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03916-fruit-salad-excluyendo-citrus-fruits-with-marshmallows",
-    "name": "Fruta ensalada, excluyendo frutas cítricas, con marshmallows",
+    "id": "fndds-03916-fruit-salad-excluyendo-citrus-fruits-with-malvaviscos",
+    "name": "Fruta ensalada, excluyendo frutas cítricas, con malvaviscos",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -66658,8 +66658,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03922-fruit-salad-incluyendo-citrus-fruits-with-marshmallows",
-    "name": "Fruta ensalada, incluyendo frutas cítricas, con marshmallows",
+    "id": "fndds-03922-fruit-salad-incluyendo-citrus-fruits-with-malvaviscos",
+    "name": "Fruta ensalada, incluyendo frutas cítricas, con malvaviscos",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -66709,8 +66709,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03925-guacamole-with-tomatoes",
-    "name": "Guacamole con tomatoes",
+    "id": "fndds-03925-guacamole-with-tomates",
+    "name": "Guacamole con tomates",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -70908,8 +70908,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04172-guisoed-potatoes-with-tomatoes",
-    "name": "Guisado papas con tomatoes",
+    "id": "fndds-04172-guisoed-potatoes-with-tomates",
+    "name": "Guisado papas con tomates",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -73696,8 +73696,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04336-tomatoes-raw",
-    "name": "Tomatoes, sin cocinar",
+    "id": "fndds-04336-tomates-raw",
+    "name": "tomates, sin cocinar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -73713,8 +73713,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04337-tomatoes-ns-as-to-form-cooked",
-    "name": "Tomatoes, sin especificar presentación, cocido",
+    "id": "fndds-04337-tomates-ns-as-to-form-cooked",
+    "name": "tomates, sin especificar presentación, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -73730,8 +73730,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04338-tomatoes-fresh-cooked",
-    "name": "Tomatoes, fresco, cocido",
+    "id": "fndds-04338-tomates-fresh-cooked",
+    "name": "tomates, fresco, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -73747,8 +73747,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04339-tomatoes-canned-cooked",
-    "name": "Tomatoes, enlatado, cocido",
+    "id": "fndds-04339-tomates-canned-cooked",
+    "name": "tomates, enlatado, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -73764,8 +73764,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04340-tomatoes-scalloped",
-    "name": "Tomatoes, gratinada",
+    "id": "fndds-04340-tomates-scalloped",
+    "name": "tomates, gratinada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -73781,8 +73781,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04341-tomatoes-canned-reduced-sodium-cooked",
-    "name": "Tomatoes, enlatado, reducido en sodio, cocido",
+    "id": "fndds-04341-tomates-canned-reduced-sodium-cooked",
+    "name": "tomates, enlatado, reducido en sodio, cocido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -73798,8 +73798,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04342-fried-green-tomatoes",
-    "name": "Frito verde tomatoes",
+    "id": "fndds-04342-fried-green-tomates",
+    "name": "Frito verde tomates",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -73832,8 +73832,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04344-sun-dried-tomatoes",
-    "name": "Sun-seco tomatoes",
+    "id": "fndds-04344-sun-dried-tomates",
+    "name": "Sun-seco tomates",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -74206,8 +74206,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04366-vodka-sauce-with-tomatoes-and-cream",
-    "name": "Vodka salsa con tomatoes y crema",
+    "id": "fndds-04366-vodka-sauce-with-tomates-and-cream",
+    "name": "Vodka salsa con tomates y crema",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -75447,8 +75447,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04439-lettuce-salad-with-assorted-vegetables-incluyendo-tomatoes-an",
-    "name": "Lechuga, ensalada con assorted verduras incluyendo tomatoes y/o zanahorias, no aderezo",
+    "id": "fndds-04439-lettuce-salad-with-assorted-vegetables-incluyendo-tomates-an",
+    "name": "Lechuga, ensalada con assorted verduras incluyendo tomates y/o zanahorias, no aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -75464,8 +75464,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04440-lettuce-salad-with-assorted-vegetables-excluyendo-tomatoes-an",
-    "name": "Lechuga, ensalada con assorted verduras excluyendo tomatoes y zanahorias, no aderezo",
+    "id": "fndds-04440-lettuce-salad-with-assorted-vegetables-excluyendo-tomates-an",
+    "name": "Lechuga, ensalada con assorted verduras excluyendo tomates y zanahorias, no aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -80242,7 +80242,7 @@
   },
   {
     "id": "fndds-04721-zucchini-pepinillod",
-    "name": "Calabacín, encurtido",
+    "name": "calabacín / Zuchinni, encurtido",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -82808,8 +82808,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04872-tomatoes-for-use-on-a-sandwich",
-    "name": "Tomatoes, para use on a sándwich",
+    "id": "fndds-04872-tomates-for-use-on-a-sandwich",
+    "name": "tomates, para use on a sándwich",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -83352,8 +83352,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04904-topping-marshmallow",
-    "name": "Topping, marshmallow",
+    "id": "fndds-04904-topping-malvavisco",
+    "name": "Topping, malvavisco",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84015,8 +84015,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04943-almendras-chocolate-covered-candy",
-    "name": "almendras, chocolate covered dulces",
+    "id": "fndds-04943-almendras-cubierto de chocolate-candy",
+    "name": "almendras, dulces cubiertos de chocolate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84169,7 +84169,7 @@
   },
   {
     "id": "fndds-04952-dark-chocolate-candy-other-nfs",
-    "name": "Dark chocolate dulces, otras, no especificado",
+    "name": "Chocolate oscuro dulces, otras, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84186,7 +84186,7 @@
   },
   {
     "id": "fndds-04953-dark-chocolate-candy",
-    "name": "Dark chocolate dulces",
+    "name": "Chocolate oscuro dulces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84203,7 +84203,7 @@
   },
   {
     "id": "fndds-04954-dark-chocolate-candy-with-nueces-other-nfs",
-    "name": "Dark chocolate dulces con nueces, otras, no especificado",
+    "name": "Chocolate oscuro dulces con nueces, otras, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84220,7 +84220,7 @@
   },
   {
     "id": "fndds-04955-dark-chocolate-candy-with-nueces",
-    "name": "Dark chocolate dulces con nueces",
+    "name": "Chocolate oscuro dulces con nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84441,7 +84441,7 @@
   },
   {
     "id": "fndds-04968-ladoo-round-ball",
-    "name": "Ladoo, round ball",
+    "name": "Ladoo, bolitas",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84474,8 +84474,8 @@
     "servingWeightGrams": 95
   },
   {
-    "id": "fndds-04970-candy-marshmallow",
-    "name": "Dulces, marshmallow",
+    "id": "fndds-04970-candy-malvavisco",
+    "name": "Dulces, malvavisco",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84525,8 +84525,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04973-peanueces-chocolate-covered-candy",
-    "name": "Peanueces, chocolate covered dulces",
+    "id": "fndds-04973-peanueces-cubierto de chocolate-candy",
+    "name": "Peanueces, dulces cubiertos de chocolate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91988,8 +91988,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05412-tomatoes-cooked-as-ingredient",
-    "name": "Tomatoes, cocido, como ingrediente",
+    "id": "fndds-05412-tomates-cooked-as-ingredient",
+    "name": "tomates, cocido, como ingrediente",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92176,7 +92176,7 @@
   },
   {
     "id": "fndds-05423-dark-green-vegetables-as-ingredient-in-omelet",
-    "name": "Dark verde verduras como ingrediente en tortilla de huevo",
+    "name": "verduras de hoja verde como ingrediente en tortilla de huevo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92192,8 +92192,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05424-tomatoes-as-ingredient-in-omelet",
-    "name": "Tomatoes como ingrediente en tortilla de huevo",
+    "id": "fndds-05424-tomates-as-ingredient-in-omelet",
+    "name": "tomates como ingrediente en tortilla de huevo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -93485,7 +93485,7 @@
   },
   {
     "id": "latam-sara2-0069-coco-rallado-coctail-de-frutas-enlatado-fruta-y",
-    "name": "Coco rallado Coctail de frutas, enlatado (fruta y",
+    "name": "Coco rallado Cocktail de frutas, enlatado (fruta y",
     "category": "latam-frutas",
     "servingBase": 100,
     "unit": "g",
