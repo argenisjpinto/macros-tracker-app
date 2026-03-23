@@ -3860,7 +3860,7 @@
   },
   {
     "id": "fndds-00228-whipped-topping",
-    "name": "Whipped topping",
+    "name": "Crema batida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -3877,7 +3877,7 @@
   },
   {
     "id": "fndds-00229-whipped-topping-fat-free",
-    "name": "Whipped topping, sin grasa",
+    "name": "Crema batida, sin grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -3894,7 +3894,7 @@
   },
   {
     "id": "fndds-00230-whipped-topping-sugar-free",
-    "name": "Whipped topping, sin azúcar",
+    "name": "Crema batida, sin azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -3911,7 +3911,7 @@
   },
   {
     "id": "fndds-00231-sour-cream-regular",
-    "name": "Sour crema, regular",
+    "name": "Crema agría, regular",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -3928,7 +3928,7 @@
   },
   {
     "id": "fndds-00232-sour-cream-light",
-    "name": "Sour crema, liviano",
+    "name": "Crema agría, liviano",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -3945,7 +3945,7 @@
   },
   {
     "id": "fndds-00233-sour-cream-fat-free",
-    "name": "Sour crema, sin grasa",
+    "name": "Crema agría, sin grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -3961,8 +3961,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00234-sour-cream-imitation",
-    "name": "Sour crema, imitation",
+    "id": "fndds-00234-sour-cream-imitación",
+    "name": "Crema agría, imitación",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -5372,8 +5372,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00317-barfi-or-burfi-indian-dessert",
-    "name": "barrafi o Burfi, Indian dessert",
+    "id": "fndds-00317-barfi-or-burfi-indian-postre",
+    "name": "barrafi o Burfi, Indian postre",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -6681,8 +6681,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00394-imitation-cheese",
-    "name": "Imitation queso",
+    "id": "fndds-00394-imitación-cheese",
+    "name": "imitación queso",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -6698,8 +6698,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00395-cheese-cottage-cheese-with-gelatin-dessert",
-    "name": "Queso, cottage queso, con gelatina dessert",
+    "id": "fndds-00395-cheese-cottage-cheese-with-gelatin-postre",
+    "name": "Queso, cottage queso, con gelatina postre",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -6715,8 +6715,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00396-cheese-cottage-cheese-with-gelatin-dessert-and-fruit",
-    "name": "Queso, cottage queso, con gelatina dessert y fruta",
+    "id": "fndds-00396-cheese-cottage-cheese-with-gelatin-postre-and-fruit",
+    "name": "Queso, cottage queso, con gelatina postre y fruta",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -6732,8 +6732,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00397-cheese-cottage-cheese-with-gelatin-dessert-and-vegetables",
-    "name": "Queso, cottage queso, con gelatina dessert y verduras",
+    "id": "fndds-00397-cheese-cottage-cheese-with-gelatin-postre-and-vegetables",
+    "name": "Queso, cottage queso, con gelatina postre y verduras",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -8755,7 +8755,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00516-pork-pig-s-feet-pickled",
+    "id": "fndds-00516-pork-pig-s-feet-pepinillod",
     "name": "Cerdo, patas de cerdo, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -10166,7 +10166,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00599-chicken-leg-drumstick-and-thigh-ns-as-to-cooking-method-skin",
+    "id": "fndds-00599-chicken-leg-drumstick-and-talto-ns-as-to-cooking-method-skin",
     "name": "Pollo leg, pata y muslo, sin especificar método de cocción, con piel",
     "category": "general",
     "servingBase": 100,
@@ -10183,7 +10183,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00600-chicken-leg-drumstick-and-thigh-ns-as-to-cooking-method-skin",
+    "id": "fndds-00600-chicken-leg-drumstick-and-talto-ns-as-to-cooking-method-skin",
     "name": "Pollo leg, pata y muslo, sin especificar método de cocción, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -10200,7 +10200,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00601-chicken-leg-drumstick-and-thigh-baked-or-broiled-skin-eaten",
+    "id": "fndds-00601-chicken-leg-drumstick-and-talto-baked-or-broiled-skin-eaten",
     "name": "Pollo leg, pata y muslo, horneado o a la parrilla, con piel",
     "category": "general",
     "servingBase": 100,
@@ -10217,7 +10217,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00602-chicken-leg-drumstick-and-thigh-baked-or-broiled-skin-not-ea",
+    "id": "fndds-00602-chicken-leg-drumstick-and-talto-baked-or-broiled-skin-not-ea",
     "name": "Pollo leg, pata y muslo, horneado o a la parrilla, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -10234,7 +10234,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00603-chicken-leg-drumstick-and-thigh-rotisserie-skin-eaten",
+    "id": "fndds-00603-chicken-leg-drumstick-and-talto-rotisserie-skin-eaten",
     "name": "Pollo leg, pata y muslo, al rotisor, con piel",
     "category": "general",
     "servingBase": 100,
@@ -10251,7 +10251,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00604-chicken-leg-drumstick-and-thigh-rotisserie-skin-not-eaten",
+    "id": "fndds-00604-chicken-leg-drumstick-and-talto-rotisserie-skin-not-eaten",
     "name": "Pollo leg, pata y muslo, al rotisor, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -10268,7 +10268,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00605-chicken-leg-drumstick-and-thigh-guisoed-skin-eaten",
+    "id": "fndds-00605-chicken-leg-drumstick-and-talto-guisoed-skin-eaten",
     "name": "Pollo leg, pata y muslo, guisado, con piel",
     "category": "general",
     "servingBase": 100,
@@ -10285,7 +10285,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00606-chicken-leg-drumstick-and-thigh-guisoed-skin-not-eaten",
+    "id": "fndds-00606-chicken-leg-drumstick-and-talto-guisoed-skin-not-eaten",
     "name": "Pollo leg, pata y muslo, guisado, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -10302,7 +10302,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00607-chicken-leg-drumstick-and-thigh-grilled-without-sauce-skin-e",
+    "id": "fndds-00607-chicken-leg-drumstick-and-talto-grilled-without-sauce-skin-e",
     "name": "Pollo leg, pata y muslo, a la parrilla sin salsa, con piel",
     "category": "general",
     "servingBase": 100,
@@ -10319,7 +10319,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00608-chicken-leg-drumstick-and-thigh-grilled-without-sauce-skin-n",
+    "id": "fndds-00608-chicken-leg-drumstick-and-talto-grilled-without-sauce-skin-n",
     "name": "Pollo leg, pata y muslo, a la parrilla sin salsa, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -10336,7 +10336,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00609-chicken-leg-drumstick-and-thigh-grilled-with-sauce-skin-eate",
+    "id": "fndds-00609-chicken-leg-drumstick-and-talto-grilled-with-sauce-skin-eate",
     "name": "Pollo leg, pata y muslo, a la parrilla con salsa, con piel",
     "category": "general",
     "servingBase": 100,
@@ -10353,7 +10353,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00610-chicken-leg-drumstick-and-thigh-grilled-with-sauce-skin-not-",
+    "id": "fndds-00610-chicken-leg-drumstick-and-talto-grilled-with-sauce-skin-not-",
     "name": "Pollo leg, pata y muslo, a la parrilla con salsa, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -10370,7 +10370,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00611-chicken-leg-drumstick-and-thigh-sauteed-skin-eaten",
+    "id": "fndds-00611-chicken-leg-drumstick-and-talto-sauteed-skin-eaten",
     "name": "Pollo leg, pata y muslo, salteado, con piel",
     "category": "general",
     "servingBase": 100,
@@ -10387,7 +10387,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00612-chicken-leg-drumstick-and-thigh-sauteed-skin-not-eaten",
+    "id": "fndds-00612-chicken-leg-drumstick-and-talto-sauteed-skin-not-eaten",
     "name": "Pollo leg, pata y muslo, salteado, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -10404,7 +10404,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00613-chicken-leg-drumstick-and-thigh-fried-coated-skin-coating-ea",
+    "id": "fndds-00613-chicken-leg-drumstick-and-talto-fried-coated-skin-coating-ea",
     "name": "Pollo leg, pata y muslo, frito, rebozado, con piel y rebozado consumidos",
     "category": "general",
     "servingBase": 100,
@@ -10421,7 +10421,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00614-chicken-leg-drumstick-and-thigh-fried-coated-skin-coating-no",
+    "id": "fndds-00614-chicken-leg-drumstick-and-talto-fried-coated-skin-coating-no",
     "name": "Pollo leg, pata y muslo, frito, rebozado, sin consumir la piel ni el rebozado",
     "category": "general",
     "servingBase": 100,
@@ -10438,7 +10438,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00615-chicken-leg-drumstick-and-thigh-baked-coated-skin-coating-ea",
+    "id": "fndds-00615-chicken-leg-drumstick-and-talto-baked-coated-skin-coating-ea",
     "name": "Pollo leg, pata y muslo, horneado, rebozado, con piel y rebozado consumidos",
     "category": "general",
     "servingBase": 100,
@@ -10455,7 +10455,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00616-chicken-leg-drumstick-and-thigh-baked-coated-skin-coating-no",
+    "id": "fndds-00616-chicken-leg-drumstick-and-talto-baked-coated-skin-coating-no",
     "name": "Pollo leg, pata y muslo, horneado, rebozado, sin consumir la piel ni el rebozado",
     "category": "general",
     "servingBase": 100,
@@ -10931,7 +10931,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00644-chicken-thigh-ns-as-to-cooking-method-skin-eaten",
+    "id": "fndds-00644-chicken-talto-ns-as-to-cooking-method-skin-eaten",
     "name": "Pollo muslo, sin especificar método de cocción, con piel",
     "category": "general",
     "servingBase": 100,
@@ -10948,7 +10948,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00645-chicken-thigh-ns-as-to-cooking-method-skin-not-eaten",
+    "id": "fndds-00645-chicken-talto-ns-as-to-cooking-method-skin-not-eaten",
     "name": "Pollo muslo, sin especificar método de cocción, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -10965,7 +10965,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00646-chicken-thigh-baked-broiled-or-roasted-skin-eaten-from-raw",
+    "id": "fndds-00646-chicken-talto-baked-broiled-or-roasted-skin-eaten-from-raw",
     "name": "Pollo muslo, horneado, a la parrilla, o asado, con piel, a partir de crudo",
     "category": "general",
     "servingBase": 100,
@@ -10982,7 +10982,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00647-chicken-thigh-baked-broiled-or-roasted-skin-not-eaten-from-r",
+    "id": "fndds-00647-chicken-talto-baked-broiled-or-roasted-skin-not-eaten-from-r",
     "name": "Pollo muslo, horneado, a la parrilla, o asado, sin piel, a partir de crudo",
     "category": "general",
     "servingBase": 100,
@@ -10999,7 +10999,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00648-chicken-thigh-baked-or-broiled-skin-eaten-from-pre-cooked",
+    "id": "fndds-00648-chicken-talto-baked-or-broiled-skin-eaten-from-pre-cooked",
     "name": "Pollo muslo, horneado o a la parrilla, con piel, a partir de precocido",
     "category": "general",
     "servingBase": 100,
@@ -11016,7 +11016,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00649-chicken-thigh-baked-or-broiled-skin-not-eaten-from-pre-cooke",
+    "id": "fndds-00649-chicken-talto-baked-or-broiled-skin-not-eaten-from-pre-cooke",
     "name": "Pollo muslo, horneado o a la parrilla, sin piel, a partir de precocido",
     "category": "general",
     "servingBase": 100,
@@ -11033,7 +11033,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00650-chicken-thigh-baked-or-broiled-skin-eaten-from-fast-food-res",
+    "id": "fndds-00650-chicken-talto-baked-or-broiled-skin-eaten-from-fast-food-res",
     "name": "Pollo muslo, horneado o a la parrilla, con piel, de comida rápida/restaurante",
     "category": "general",
     "servingBase": 100,
@@ -11050,7 +11050,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00651-chicken-thigh-baked-or-broiled-skin-not-eaten-from-fast-food",
+    "id": "fndds-00651-chicken-talto-baked-or-broiled-skin-not-eaten-from-fast-food",
     "name": "Pollo muslo, horneado o a la parrilla, sin piel, de comida rápida/restaurante",
     "category": "general",
     "servingBase": 100,
@@ -11067,7 +11067,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00652-chicken-thigh-rotisserie-skin-eaten",
+    "id": "fndds-00652-chicken-talto-rotisserie-skin-eaten",
     "name": "Pollo muslo, al rotisor, con piel",
     "category": "general",
     "servingBase": 100,
@@ -11084,7 +11084,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00653-chicken-thigh-rotisserie-skin-not-eaten",
+    "id": "fndds-00653-chicken-talto-rotisserie-skin-not-eaten",
     "name": "Pollo muslo, al rotisor, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -11101,7 +11101,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00654-chicken-thigh-guisoed-skin-eaten",
+    "id": "fndds-00654-chicken-talto-guisoed-skin-eaten",
     "name": "Pollo muslo, guisado, con piel",
     "category": "general",
     "servingBase": 100,
@@ -11118,7 +11118,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00655-chicken-thigh-guisoed-skin-not-eaten",
+    "id": "fndds-00655-chicken-talto-guisoed-skin-not-eaten",
     "name": "Pollo muslo, guisado, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -11135,7 +11135,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00656-chicken-thigh-grilled-without-sauce-skin-eaten",
+    "id": "fndds-00656-chicken-talto-grilled-without-sauce-skin-eaten",
     "name": "Pollo muslo, a la parrilla sin salsa, con piel",
     "category": "general",
     "servingBase": 100,
@@ -11152,7 +11152,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00657-chicken-thigh-grilled-without-sauce-skin-not-eaten",
+    "id": "fndds-00657-chicken-talto-grilled-without-sauce-skin-not-eaten",
     "name": "Pollo muslo, a la parrilla sin salsa, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -11169,7 +11169,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00658-chicken-thigh-grilled-with-sauce-skin-eaten",
+    "id": "fndds-00658-chicken-talto-grilled-with-sauce-skin-eaten",
     "name": "Pollo muslo, a la parrilla con salsa, con piel",
     "category": "general",
     "servingBase": 100,
@@ -11186,7 +11186,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00659-chicken-thigh-grilled-with-sauce-skin-not-eaten",
+    "id": "fndds-00659-chicken-talto-grilled-with-sauce-skin-not-eaten",
     "name": "Pollo muslo, a la parrilla con salsa, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -11203,7 +11203,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00660-chicken-thigh-sauteed-skin-eaten",
+    "id": "fndds-00660-chicken-talto-sauteed-skin-eaten",
     "name": "Pollo muslo, salteado, con piel",
     "category": "general",
     "servingBase": 100,
@@ -11220,7 +11220,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00661-chicken-thigh-sauteed-skin-not-eaten",
+    "id": "fndds-00661-chicken-talto-sauteed-skin-not-eaten",
     "name": "Pollo muslo, salteado, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -11237,7 +11237,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00662-chicken-thigh-fried-coated-skin-coating-eaten-from-raw",
+    "id": "fndds-00662-chicken-talto-fried-coated-skin-coating-eaten-from-raw",
     "name": "Pollo muslo, frito, rebozado, con piel y rebozado consumidos, a partir de crudo",
     "category": "general",
     "servingBase": 100,
@@ -11254,7 +11254,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00663-chicken-thigh-fried-coated-skin-coating-not-eaten-from-raw",
+    "id": "fndds-00663-chicken-talto-fried-coated-skin-coating-not-eaten-from-raw",
     "name": "Pollo muslo, frito, rebozado, sin consumir la piel ni el rebozado, a partir de crudo",
     "category": "general",
     "servingBase": 100,
@@ -11271,7 +11271,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00664-chicken-thigh-fried-coated-prepared-skinless-coating-eaten-f",
+    "id": "fndds-00664-chicken-talto-fried-coated-prepared-skinless-coating-eaten-f",
     "name": "Pollo muslo, frito, rebozado, preparado sin piel, rebozado consumido, a partir de crudo",
     "category": "general",
     "servingBase": 100,
@@ -11288,7 +11288,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00665-chicken-thigh-fried-coated-skin-coating-eaten-from-pre-cooke",
+    "id": "fndds-00665-chicken-talto-fried-coated-skin-coating-eaten-from-pre-cooke",
     "name": "Pollo muslo, frito, rebozado, con piel y rebozado consumidos, a partir de precocido",
     "category": "general",
     "servingBase": 100,
@@ -11305,7 +11305,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00666-chicken-thigh-fried-coated-skin-coating-not-eaten-from-pre-c",
+    "id": "fndds-00666-chicken-talto-fried-coated-skin-coating-not-eaten-from-pre-c",
     "name": "Pollo muslo, frito, rebozado, sin consumir la piel ni el rebozado, a partir de precocido",
     "category": "general",
     "servingBase": 100,
@@ -11322,7 +11322,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00667-chicken-thigh-fried-coated-skin-coating-eaten-from-fast-food",
+    "id": "fndds-00667-chicken-talto-fried-coated-skin-coating-eaten-from-fast-food",
     "name": "Pollo muslo, frito, rebozado, con piel y rebozado consumidos, de comida rápida",
     "category": "general",
     "servingBase": 100,
@@ -11339,7 +11339,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00668-chicken-thigh-fried-coated-skin-coating-not-eaten-from-fast-",
+    "id": "fndds-00668-chicken-talto-fried-coated-skin-coating-not-eaten-from-fast-",
     "name": "Pollo muslo, frito, rebozado, sin consumir la piel ni el rebozado, de comida rápida",
     "category": "general",
     "servingBase": 100,
@@ -11356,7 +11356,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00669-chicken-thigh-fried-coated-skin-coating-eaten-from-restauran",
+    "id": "fndds-00669-chicken-talto-fried-coated-skin-coating-eaten-from-restauran",
     "name": "Pollo muslo, frito, rebozado, con piel y rebozado consumidos, de restaurante",
     "category": "general",
     "servingBase": 100,
@@ -11373,7 +11373,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00670-chicken-thigh-fried-coated-skin-coating-not-eaten-from-resta",
+    "id": "fndds-00670-chicken-talto-fried-coated-skin-coating-not-eaten-from-resta",
     "name": "Pollo muslo, frito, rebozado, sin consumir la piel ni el rebozado, de restaurante",
     "category": "general",
     "servingBase": 100,
@@ -11390,7 +11390,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00671-chicken-thigh-baked-coated-skin-coating-eaten",
+    "id": "fndds-00671-chicken-talto-baked-coated-skin-coating-eaten",
     "name": "Pollo muslo, horneado, rebozado, con piel y rebozado consumidos",
     "category": "general",
     "servingBase": 100,
@@ -11407,7 +11407,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00672-chicken-thigh-baked-coated-skin-coating-not-eaten",
+    "id": "fndds-00672-chicken-talto-baked-coated-skin-coating-not-eaten",
     "name": "Pollo muslo, horneado, rebozado, sin consumir la piel ni el rebozado",
     "category": "general",
     "servingBase": 100,
@@ -12597,7 +12597,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00742-turkey-thigh-cooked-skin-eaten",
+    "id": "fndds-00742-turkey-talto-cooked-skin-eaten",
     "name": "Pavo, muslo, cocido, con piel",
     "category": "general",
     "servingBase": 100,
@@ -12614,7 +12614,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00743-turkey-thigh-cooked-skin-not-eaten",
+    "id": "fndds-00743-turkey-talto-cooked-skin-not-eaten",
     "name": "Pavo, muslo, cocido, sin piel",
     "category": "general",
     "servingBase": 100,
@@ -13940,7 +13940,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00821-pickled-sausage",
+    "id": "fndds-00821-pepinillod-sausage",
     "name": "Salchicha encurtida",
     "category": "general",
     "servingBase": 100,
@@ -14926,7 +14926,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-00879-fish-pickled",
+    "id": "fndds-00879-fish-pepinillod",
     "name": "Pescado, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -20128,8 +20128,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01185-imitation-crab-meat",
-    "name": "Imitation cangrejo carne",
+    "id": "fndds-01185-imitación-crab-meat",
+    "name": "imitación cangrejo carne",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -24803,8 +24803,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01460-crab-salad-made-with-imitation-crab",
-    "name": "Cangrejo ensalada hecho con imitation cangrejo",
+    "id": "fndds-01460-crab-salad-made-with-imitación-crab",
+    "name": "Cangrejo ensalada hecho con imitación cangrejo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -29122,7 +29122,7 @@
   },
   {
     "id": "fndds-01714-beef-with-vegetable-diet-frozen-meal",
-    "name": "Carne de res con verdura, diet comida congelada",
+    "name": "Carne de res con verdura, dietetico comida congelada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -29173,7 +29173,7 @@
   },
   {
     "id": "fndds-01717-salisbury-steak-with-gravy-whipped-potatoes-vegetable-desser",
-    "name": "Salisbury bistec con salsa, puré de papas, verdura, dessert, comida congelada",
+    "name": "Salisbury bistec con salsa, puré de papas, verdura, postre, comida congelada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -29224,7 +29224,7 @@
   },
   {
     "id": "fndds-01720-meatballs-swedish-in-gravy-with-noodles-diet-frozen-meal",
-    "name": "Albóndigas, sueco, in salsa, con fideos, diet comida congelada",
+    "name": "Albóndigas, sueco, in salsa, con fideos, dietetico comida congelada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -29308,8 +29308,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01725-chicken-fried-with-potatoes-vegetable-dessert-frozen-meal-la",
-    "name": "Pollo, frito, con papas, verdura, dessert, comida congelada, grande carne portion",
+    "id": "fndds-01725-chicken-fried-with-potatoes-vegetable-postre-frozen-meal-la",
+    "name": "Pollo, frito, con papas, verdura, postre, comida congelada, grande carne portion",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -29323,10 +29323,11 @@
     "cholesterol": 49,
     "water": 59.03,
     "servingWeightGrams": 100
+
   },
   {
     "id": "fndds-01726-teriyaki-chicken-with-rice-and-vegetable-diet-frozen-meal",
-    "name": "Teriyaki pollo con arroz y verdura, diet comida congelada",
+    "name": "Teriyaki pollo con arroz y verdura, dietetico comida congelada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -29343,7 +29344,7 @@
   },
   {
     "id": "fndds-01727-chicken-with-rice-and-vegetable-diet-frozen-meal",
-    "name": "Pollo con arroz y verdura, diet comida congelada",
+    "name": "Pollo con arroz y verdura, dietetico comida congelada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -29360,7 +29361,7 @@
   },
   {
     "id": "fndds-01728-chicken-and-vegetables-au-gratin-with-rice-diet-frozen-entre",
-    "name": "Pollo y verduras au gratin con arroz, diet congelado entree",
+    "name": "Pollo y verduras au gratin con arroz, dietetico congelado entrada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -29376,8 +29377,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01729-chicken-and-vegetable-entree-with-rice-diet-frozen-meal",
-    "name": "Pollo y verdura entree con arroz, diet comida congelada",
+    "id": "fndds-01729-chicken-and-vegetable-entrada-with-rice-diet-frozen-meal",
+    "name": "Pollo y verdura entrada con arroz, dietetico comida congelada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -29394,7 +29395,7 @@
   },
   {
     "id": "fndds-01730-chicken-with-noodles-and-cheese-sauce-diet-frozen-meal",
-    "name": "Pollo con fideos y queso salsa, diet comida congelada",
+    "name": "Pollo con fideos y queso salsa, dietetico comida congelada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -29410,8 +29411,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01731-chicken-and-vegetable-entree-with-noodles-diet-frozen-meal",
-    "name": "Pollo y verdura entree con fideos, diet comida congelada",
+    "id": "fndds-01731-chicken-and-vegetable-entrada-with-noodles-diet-frozen-meal",
+    "name": "Pollo y verdura entrada con fideos, dietetico comida congelada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -29444,8 +29445,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-01733-chicken-and-vegetable-entree-with-noodles-and-cream-sauce-fr",
-    "name": "Pollo y verdura entree con fideos y salsa de crema, comida congelada",
+    "id": "fndds-01733-chicken-and-vegetable-entrada-with-noodles-and-cream-sauce-fr",
+    "name": "Pollo y verdura entrada con fideos y salsa de crema, comida congelada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -29462,7 +29463,7 @@
   },
   {
     "id": "fndds-01734-turkey-with-vegetable-relleno-diet-frozen-meal",
-    "name": "Pavo con verdura, relleno, diet comida congelada",
+    "name": "Pavo con verdura, relleno, dietetico comida congelada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -29513,7 +29514,7 @@
   },
   {
     "id": "fndds-01737-shrimp-and-vegetables-in-sauce-with-noodles-diet-frozen-meal",
-    "name": "Camarón y verduras in salsa con fideos, diet comida congelada",
+    "name": "Camarón y verduras in salsa con fideos, dietetico comida congelada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -30311,7 +30312,7 @@
     "servingWeightGrams": 50
   },
   {
-    "id": "fndds-01784-egg-whole-pickled",
+    "id": "fndds-01784-egg-whole-pepinillod",
     "name": "Huevo, entero, encurtido",
     "category": "general",
     "servingBase": 1,
@@ -35156,8 +35157,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02069-frozen-dessert-non-dairy",
-    "name": "Congelado dessert, non-lácteos",
+    "id": "fndds-02069-frozen-postre-non-dairy",
+    "name": "Congelado postre, non-lácteos",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -38267,8 +38268,8 @@
     "servingWeightGrams": 28
   },
   {
-    "id": "fndds-02252-bread-reduced-calorie-and-or-high-fiber-white-or-nfs",
-    "name": "Pan, reduced calorie y/o high fiber, blanco o no especificado",
+    "id": "fndds-02252-bread-reduced-calorie-and-or-alto-fiber-white-or-nfs",
+    "name": "Pan, reduced calorie y/o alto fiber, blanco o no especificado",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -38284,8 +38285,8 @@
     "servingWeightGrams": 28
   },
   {
-    "id": "fndds-02253-bread-reduced-calorie-and-or-high-fiber-white-or-nfs-toasted",
-    "name": "Pan, reduced calorie y/o high fiber, blanco o no especificado, toasted",
+    "id": "fndds-02253-bread-reduced-calorie-and-or-alto-fiber-white-or-nfs-toasted",
+    "name": "Pan, reduced calorie y/o alto fiber, blanco o no especificado, toasted",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -38301,8 +38302,8 @@
     "servingWeightGrams": 28
   },
   {
-    "id": "fndds-02254-bread-reduced-calorie-and-or-high-fiber-white-or-nfs-with-fr",
-    "name": "Pan, reduced calorie y/o high fiber, blanco o no especificado, con fruta y/o nueces",
+    "id": "fndds-02254-bread-reduced-calorie-and-or-alto-fiber-white-or-nfs-with-fr",
+    "name": "Pan, reduced calorie y/o alto fiber, blanco o no especificado, con fruta y/o nueces",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -38318,8 +38319,8 @@
     "servingWeightGrams": 28
   },
   {
-    "id": "fndds-02255-bread-reduced-calorie-and-or-high-fiber-white-or-nfs-with-fr",
-    "name": "Pan, reduced calorie y/o high fiber, blanco o no especificado, con fruta y/o nueces, toasted",
+    "id": "fndds-02255-bread-reduced-calorie-and-or-alto-fiber-white-or-nfs-with-fr",
+    "name": "Pan, reduced calorie y/o alto fiber, blanco o no especificado, con fruta y/o nueces, toasted",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -38369,8 +38370,8 @@
     "servingWeightGrams": 28
   },
   {
-    "id": "fndds-02258-bread-high-protein-toasted",
-    "name": "Pan, high proteína, toasted",
+    "id": "fndds-02258-bread-alto-protein-toasted",
+    "name": "Pan, alto proteína, toasted",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -39814,8 +39815,8 @@
     "servingWeightGrams": 28
   },
   {
-    "id": "fndds-02343-bread-wheat-or-cracked-wheat-reduced-calorie-and-or-high-fib",
-    "name": "Pan, trigo o cracked trigo, reduced calorie y/o high fiber",
+    "id": "fndds-02343-bread-wheat-or-cracked-wheat-reduced-calorie-and-or-alto-fib",
+    "name": "Pan, trigo o cracked trigo, reduced calorie y/o alto fiber",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -39831,8 +39832,8 @@
     "servingWeightGrams": 28
   },
   {
-    "id": "fndds-02344-bread-wheat-or-cracked-wheat-reduced-calorie-and-or-high-fib",
-    "name": "Pan, trigo o cracked trigo, reduced calorie y/o high fiber, toasted",
+    "id": "fndds-02344-bread-wheat-or-cracked-wheat-reduced-calorie-and-or-alto-fib",
+    "name": "Pan, trigo o cracked trigo, reduced calorie y/o alto fiber, toasted",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -40732,8 +40733,8 @@
     "servingWeightGrams": 28
   },
   {
-    "id": "fndds-02397-bread-multigrain-reduced-calorie-and-or-high-fiber",
-    "name": "Pan, multicereal, reduced calorie y/o high fiber",
+    "id": "fndds-02397-bread-multigrain-reduced-calorie-and-or-alto-fiber",
+    "name": "Pan, multicereal, reduced calorie y/o alto fiber",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -40749,8 +40750,8 @@
     "servingWeightGrams": 28
   },
   {
-    "id": "fndds-02398-bread-multigrain-reduced-calorie-and-or-high-fiber-toasted",
-    "name": "Pan, multicereal, reduced calorie y/o high fiber, toasted",
+    "id": "fndds-02398-bread-multigrain-reduced-calorie-and-or-alto-fiber-toasted",
+    "name": "Pan, multicereal, reduced calorie y/o alto fiber, toasted",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -41022,7 +41023,7 @@
   },
   {
     "id": "fndds-02414-bread-gluten-free",
-    "name": "Pan, gluten free",
+    "name": "Pan, libre de gluten",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -41039,7 +41040,7 @@
   },
   {
     "id": "fndds-02415-bread-gluten-free-toasted",
-    "name": "Pan, gluten free, toasted",
+    "name": "Pan, libre de gluten, toasted",
     "category": "general",
     "servingBase": 1,
     "unit": "rebanada",
@@ -41056,7 +41057,7 @@
   },
   {
     "id": "fndds-02416-breadsticks-hard-gluten-free",
-    "name": "Breadsticks, hard, gluten free",
+    "name": "Breadsticks, hard, libre de gluten",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -41073,7 +41074,7 @@
   },
   {
     "id": "fndds-02417-roll-gluten-free",
-    "name": "Panecillo, gluten free",
+    "name": "Panecillo, libre de gluten",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -42263,7 +42264,7 @@
   },
   {
     "id": "fndds-02487-cake-or-cupcake-gluten-free",
-    "name": "Pastel o cupcake, gluten free",
+    "name": "Pastel o cupcake, libre de gluten",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43248,8 +43249,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02545-cookie-fruit-filled-bar",
-    "name": "Galleta, fruta-filled barra",
+    "id": "fndds-02545-cookie-fruit-relleno -bar",
+    "name": "Galleta, fruta-relleno  barra",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43520,8 +43521,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02561-cookie-multigrain-high-fiber",
-    "name": "Galleta, multicereal, high fiber",
+    "id": "fndds-02561-cookie-multigrain-alto-fiber",
+    "name": "Galleta, multicereal, alto fiber",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -43809,8 +43810,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02578-cookie-pasas-sandwich-cream-filled",
-    "name": "Galleta, pasas sándwich, crema-filled",
+    "id": "fndds-02578-cookie-pasas-sandwich-cream-relleno ",
+    "name": "Galleta, pasas sándwich, crema-relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -44320,7 +44321,7 @@
   },
   {
     "id": "fndds-02608-cookie-gluten-free",
-    "name": "Galleta, gluten free",
+    "name": "Galleta, libre de gluten",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -44608,8 +44609,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02625-dessert-pizza",
-    "name": "Dessert pizza",
+    "id": "fndds-02625-postre-pizza",
+    "name": "postre pizza",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -44965,8 +44966,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02646-cream-puff-eclair-custard-or-cream-filled-ns-as-to-con azucar",
-    "name": "Crema puff, eclair, custard o crema filled, sin especificar con azucar",
+    "id": "fndds-02646-cream-puff-eclair-custard-or-cream-relleno -ns-as-to-con azucar",
+    "name": "Crema puff, eclair, custard o crema relleno , sin especificar con azucar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -44982,8 +44983,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02647-cream-puff-eclair-custard-or-cream-filled-not-iced",
-    "name": "Crema puff, eclair, custard o crema filled, not iced",
+    "id": "fndds-02647-cream-puff-eclair-custard-or-cream-relleno -not-iced",
+    "name": "Crema puff, eclair, custard o crema relleno , not iced",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -44999,8 +45000,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02648-cream-puff-eclair-custard-or-cream-filled-iced",
-    "name": "Crema puff, eclair, custard o crema filled, iced",
+    "id": "fndds-02648-cream-puff-eclair-custard-or-cream-relleno -iced",
+    "name": "Crema puff, eclair, custard o crema relleno , iced",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45016,8 +45017,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02649-cream-puff-eclair-custard-or-cream-filled-iced-reduced-fat",
-    "name": "Crema puff, eclair, custard o crema filled, iced, reducida en grasa",
+    "id": "fndds-02649-cream-puff-eclair-custard-or-cream-relleno -iced-reduced-fat",
+    "name": "Crema puff, eclair, custard o crema relleno , iced, reducida en grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45084,8 +45085,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02653-crepe-chocolate-filled",
-    "name": "Crepe, chocolate filled",
+    "id": "fndds-02653-crepe-chocolate-relleno ",
+    "name": "Crepe, chocolate relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45101,8 +45102,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02654-crepe-fruit-filled",
-    "name": "Crepe, fruta filled",
+    "id": "fndds-02654-crepe-fruit-relleno ",
+    "name": "Crepe, fruta relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45271,8 +45272,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02664-pastry-fruit-filled",
-    "name": "Pastry, fruta-filled",
+    "id": "fndds-02664-pastry-fruit-relleno ",
+    "name": "Pastry, fruta-relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45390,8 +45391,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02671-pastry-puff-custard-or-cream-filled-iced-or-not-iced",
-    "name": "Pastry, puff, custard o crema filled, iced o not iced",
+    "id": "fndds-02671-pastry-puff-custard-or-cream-relleno -iced-or-not-iced",
+    "name": "Pastry, puff, custard o crema relleno , iced o not iced",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45747,8 +45748,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02692-doughnut-custard-filled",
-    "name": "Doughnut, custard-filled",
+    "id": "fndds-02692-doughnut-custard-relleno ",
+    "name": "Doughnut, custard-relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45764,8 +45765,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02693-doughnut-custard-filled-with-con azucar",
-    "name": "Doughnut, custard-filled, con con azucar",
+    "id": "fndds-02693-doughnut-custard-relleno -with-con azucar",
+    "name": "Doughnut, custard-relleno , con con azucar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -45849,8 +45850,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02698-coffee-cake-crumb-or-quick-bread-type-cheese-filled",
-    "name": "Café pastel, crumb o quick-pan tipo, queso-filled",
+    "id": "fndds-02698-coffee-cake-crumb-or-quick-bread-type-cheese-relleno ",
+    "name": "Café pastel, crumb o quick-pan tipo, relleno de queso",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46376,8 +46377,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02729-cereal-or-granola-bar-high-fiber-coated-with-non-chocolate-y",
-    "name": "Cereal o granola barra, high fiber, rebozado con non-chocolate yogur rebozado",
+    "id": "fndds-02729-cereal-or-granola-bar-alto-fiber-coated-with-non-chocolate-y",
+    "name": "Cereal o granola barra, alto fiber, rebozado con non-chocolate yogur rebozado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46530,7 +46531,7 @@
   },
   {
     "id": "fndds-02738-nutrition-bar-slim-fast-original-meal-bar",
-    "name": "Nutrition barra (Slim Fast Original Meal barra)",
+    "name": "Nutrition barra (adelgazante, light Original Meal barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -46580,8 +46581,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02741-nutrition-bar-south-beach-living-high-protein-bar",
-    "name": "Nutrition barra (South Beach Living High proteína barra)",
+    "id": "fndds-02741-nutrition-bar-south-beach-living-alto-protein-bar",
+    "name": "Nutrition barra (South Beach Living alto proteína barra)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -47396,8 +47397,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02789-crackers-sandwich-peanut-butter-filled",
-    "name": "Crackers, sándwich, maní mantequilla filled",
+    "id": "fndds-02789-crackers-sandwich-peanut-butter-relleno ",
+    "name": "Crackers, sándwich, maní mantequilla relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -47413,8 +47414,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02790-crackers-sandwich-peanut-butter-filled-ritz",
-    "name": "Crackers, sándwich, maní mantequilla filled (Ritz)",
+    "id": "fndds-02790-crackers-sandwich-peanut-butter-relleno -ritz",
+    "name": "Crackers, sándwich, maní mantequilla relleno  (Ritz)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -47430,8 +47431,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02791-crackers-sandwich-reduced-fat-peanut-butter-filled",
-    "name": "Crackers, sándwich, reducida en grasa, maní mantequilla filled",
+    "id": "fndds-02791-crackers-sandwich-reduced-fat-peanut-butter-relleno ",
+    "name": "Crackers, sándwich, reducida en grasa, maní mantequilla relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -47447,8 +47448,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02792-crackers-whole-grain-sandwich-peanut-butter-filled",
-    "name": "Crackers, grano entero, sándwich, maní mantequilla filled",
+    "id": "fndds-02792-crackers-whole-grain-sandwich-peanut-butter-relleno ",
+    "name": "Crackers, grano entero, sándwich, maní mantequilla relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -47464,8 +47465,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02793-crackers-sandwich-cheese-filled",
-    "name": "Crackers, sándwich, queso filled",
+    "id": "fndds-02793-crackers-sandwich-cheese-relleno ",
+    "name": "Crackers, sándwich, queso relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -47481,8 +47482,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02794-crackers-sandwich-cheese-filled-ritz",
-    "name": "Crackers, sándwich, queso filled (Ritz)",
+    "id": "fndds-02794-crackers-sandwich-cheese-relleno -ritz",
+    "name": "Crackers, sándwich, queso relleno  (Ritz)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -47669,7 +47670,7 @@
   },
   {
     "id": "fndds-02805-crackers-gluten-free-plain",
-    "name": "Crackers, gluten free, natural",
+    "name": "Crackers, libre de gluten, natural",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -47686,7 +47687,7 @@
   },
   {
     "id": "fndds-02806-crackers-gluten-free-flavored",
-    "name": "Crackers, gluten free, saborizado",
+    "name": "Crackers, libre de gluten, saborizado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -48637,8 +48638,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02862-onion-flavored-rings",
-    "name": "Cebolla saborizado rings",
+    "id": "fndds-02862-onion-flavored-aros",
+    "name": "Cebolla saborizado aros",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -48791,7 +48792,7 @@
   },
   {
     "id": "fndds-02871-pretzels-hard-plain-gluten-free",
-    "name": "Pretzels, hard, natural, gluten free",
+    "name": "Pretzels, hard, natural, libre de gluten",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -48808,7 +48809,7 @@
   },
   {
     "id": "fndds-02872-pretzels-hard-flavored-gluten-free",
-    "name": "Pretzels, hard, saborizado, gluten free",
+    "name": "Pretzels, hard, saborizado, libre de gluten",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -48859,7 +48860,7 @@
   },
   {
     "id": "fndds-02875-pretzel-chips-hard-gluten-free",
-    "name": "Pretzel chips, hard, gluten free",
+    "name": "Pretzel chips, hard, libre de gluten",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -48944,7 +48945,7 @@
   },
   {
     "id": "fndds-02880-pretzels-hard-coated-gluten-free",
-    "name": "Pretzels, hard, rebozado, gluten free",
+    "name": "Pretzels, hard, rebozado, libre de gluten",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -48960,8 +48961,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02881-pretzels-hard-filled-nfs",
-    "name": "Pretzels, hard, filled, no especificado",
+    "id": "fndds-02881-pretzels-hard-relleno -nfs",
+    "name": "Pretzels, hard, relleno , no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -48977,8 +48978,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02882-pretzels-hard-cheese-filled",
-    "name": "Pretzels, hard, queso filled",
+    "id": "fndds-02882-pretzels-hard-cheese-relleno ",
+    "name": "Pretzels, hard, queso relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -48994,8 +48995,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02883-pretzels-hard-peanut-butter-filled",
-    "name": "Pretzels, hard, maní mantequilla filled",
+    "id": "fndds-02883-pretzels-hard-peanut-butter-relleno ",
+    "name": "Pretzels, hard, maní mantequilla relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -49300,8 +49301,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02901-pretzels-soft-filled-with-cheese",
-    "name": "Pretzels, soft, filled con queso",
+    "id": "fndds-02901-pretzels-soft-relleno -with-cheese",
+    "name": "Pretzels, soft, relleno  con queso",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -49352,7 +49353,7 @@
   },
   {
     "id": "fndds-02904-pretzels-soft-gluten-free",
-    "name": "Pretzels, soft, gluten free",
+    "name": "Pretzels, soft, libre de gluten",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -49369,7 +49370,7 @@
   },
   {
     "id": "fndds-02905-pretzels-soft-gluten-free-cinnamon-sugar-coated",
-    "name": "Pretzels, soft, gluten free, cinnamon azúcar rebozado",
+    "name": "Pretzels, soft, libre de gluten, cinnamon azúcar rebozado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -49386,7 +49387,7 @@
   },
   {
     "id": "fndds-02906-pretzels-soft-gluten-free-coated-or-flavored",
-    "name": "Pretzels, soft, gluten free, rebozado o saborizado",
+    "name": "Pretzels, soft, libre de gluten, rebozado o saborizado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -49760,7 +49761,7 @@
   },
   {
     "id": "fndds-02928-pancakes-gluten-free",
-    "name": "Pancakes, gluten free",
+    "name": "Pancakes, libre de gluten",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -50083,7 +50084,7 @@
   },
   {
     "id": "fndds-02947-waffle-gluten-free",
-    "name": "Waffle, gluten free",
+    "name": "Waffle, libre de gluten",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -50202,7 +50203,7 @@
   },
   {
     "id": "fndds-02954-french-toast-gluten-free",
-    "name": "Francés toast, gluten free",
+    "name": "Francés toast, libre de gluten",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -50576,7 +50577,7 @@
   },
   {
     "id": "fndds-02976-pasta-gluten-free",
-    "name": "Pasta, gluten free",
+    "name": "Pasta, libre de gluten",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -50762,8 +50763,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02987-grits-instant-made-with-water-no-agregado-fat",
-    "name": "Grits, instant, hecho con agua, sin grasa añadida",
+    "id": "fndds-02987-grits-instantaneo-made-with-water-no-agregado-fat",
+    "name": "Grits, instantaneo, hecho con agua, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -50779,8 +50780,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02988-grits-instant-made-with-water-fat-agregado",
-    "name": "Grits, instant, hecho con agua, con grasa añadida",
+    "id": "fndds-02988-grits-instantaneo-made-with-water-fat-agregado",
+    "name": "Grits, instantaneo, hecho con agua, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -50796,8 +50797,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-02989-grits-instant-made-with-water-ns-as-to-fat",
-    "name": "Grits, instant, hecho con agua, sin especificar grasa",
+    "id": "fndds-02989-grits-instantaneo-made-with-water-ns-as-to-fat",
+    "name": "Grits, instantaneo, hecho con agua, sin especificar grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -51051,8 +51052,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03004-oatmeal-instant-plain-made-with-water-no-agregado-fat",
-    "name": "Avena, instant, natural, hecho con agua, sin grasa añadida",
+    "id": "fndds-03004-oatmeal-instantaneo-plain-made-with-water-no-agregado-fat",
+    "name": "Avena, instantaneo, natural, hecho con agua, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -51068,8 +51069,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03005-oatmeal-instant-plain-made-with-water-fat-agregado",
-    "name": "Avena, instant, natural, hecho con agua, con grasa añadida",
+    "id": "fndds-03005-oatmeal-instantaneo-plain-made-with-water-fat-agregado",
+    "name": "Avena, instantaneo, natural, hecho con agua, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -51085,8 +51086,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03006-oatmeal-instant-plain-made-with-milk-no-agregado-fat",
-    "name": "Avena, instant, natural, hecho con leche, sin grasa añadida",
+    "id": "fndds-03006-oatmeal-instantaneo-plain-made-with-milk-no-agregado-fat",
+    "name": "Avena, instantaneo, natural, hecho con leche, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -51102,8 +51103,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03007-oatmeal-instant-plain-made-with-milk-fat-agregado",
-    "name": "Avena, instant, natural, hecho con leche, con grasa añadida",
+    "id": "fndds-03007-oatmeal-instantaneo-plain-made-with-milk-fat-agregado",
+    "name": "Avena, instantaneo, natural, hecho con leche, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -51119,8 +51120,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03008-oatmeal-instant-plain-made-with-non-dairy-milk-no-agregado-fat",
-    "name": "Avena, instant, natural, hecho con bebida vegetal, sin grasa añadida",
+    "id": "fndds-03008-oatmeal-instantaneo-plain-made-with-non-dairy-milk-no-agregado-fat",
+    "name": "Avena, instantaneo, natural, hecho con bebida vegetal, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -51136,8 +51137,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03009-oatmeal-instant-plain-made-with-non-dairy-milk-fat-agregado",
-    "name": "Avena, instant, natural, hecho con bebida vegetal, con grasa añadida",
+    "id": "fndds-03009-oatmeal-instantaneo-plain-made-with-non-dairy-milk-fat-agregado",
+    "name": "Avena, instantaneo, natural, hecho con bebida vegetal, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -51153,8 +51154,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03010-oatmeal-instant-maple-flavored-no-agregado-fat",
-    "name": "Avena, instant, maple saborizado, sin grasa añadida",
+    "id": "fndds-03010-oatmeal-instantaneo-maple-flavored-no-agregado-fat",
+    "name": "Avena, instantaneo, maple saborizado, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -51170,8 +51171,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03011-oatmeal-instant-maple-flavored-fat-agregado",
-    "name": "Avena, instant, maple saborizado, con grasa añadida",
+    "id": "fndds-03011-oatmeal-instantaneo-maple-flavored-fat-agregado",
+    "name": "Avena, instantaneo, maple saborizado, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -51187,8 +51188,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03012-oatmeal-instant-fruit-flavored-no-agregado-fat",
-    "name": "Avena, instant, fruta saborizado, sin grasa añadida",
+    "id": "fndds-03012-oatmeal-instantaneo-fruit-flavored-no-agregado-fat",
+    "name": "Avena, instantaneo, fruta saborizado, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -51204,8 +51205,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03013-oatmeal-instant-fruit-flavored-fat-agregado",
-    "name": "Avena, instant, fruta saborizado, con grasa añadida",
+    "id": "fndds-03013-oatmeal-instantaneo-fruit-flavored-fat-agregado",
+    "name": "Avena, instantaneo, fruta saborizado, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -51884,8 +51885,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03053-cream-of-wheat-instant-made-with-water-no-agregado-fat",
-    "name": "Crema de trigo, instant, hecho con agua, sin grasa añadida",
+    "id": "fndds-03053-cream-of-wheat-instantaneo-made-with-water-no-agregado-fat",
+    "name": "Crema de trigo, instantaneo, hecho con agua, sin grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -51901,8 +51902,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03054-cream-of-wheat-instant-made-with-water-fat-agregado",
-    "name": "Crema de trigo, instant, hecho con agua, con grasa añadida",
+    "id": "fndds-03054-cream-of-wheat-instantaneo-made-with-water-fat-agregado",
+    "name": "Crema de trigo, instantaneo, hecho con agua, con grasa añadida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -52275,8 +52276,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03076-cereal-fruit-rings",
-    "name": "Cereal, fruta rings",
+    "id": "fndds-03076-cereal-fruit-aros",
+    "name": "Cereal, fruta aros",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -53160,7 +53161,7 @@
   },
   {
     "id": "fndds-03128-taco-or-tostada-salad-with-meat-and-sour-cream",
-    "name": "Taco o tostada ensalada con carne y sour crema",
+    "name": "Taco o tostada ensalada con carne y Crema agría",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -53177,7 +53178,7 @@
   },
   {
     "id": "fndds-03129-taco-or-tostada-salad-with-chicken-and-sour-cream",
-    "name": "Taco o tostada ensalada con pollo y sour crema",
+    "name": "Taco o tostada ensalada con pollo y Crema agría",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -53194,7 +53195,7 @@
   },
   {
     "id": "fndds-03130-taco-or-tostada-salad-sin carne de res-with-sour-cream",
-    "name": "Taco o tostada ensalada, sin carne de res con sour crema",
+    "name": "Taco o tostada ensalada, sin carne de res con Crema agría",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -56491,8 +56492,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03324-puffs-fried-crab-meat-and-cream-cheese-filled",
-    "name": "Bocaditos inflados, frito, cangrejo carne y queso crema filled",
+    "id": "fndds-03324-puffs-fried-crab-meat-and-cream-cheese-relleno ",
+    "name": "Bocaditos inflados, frito, cangrejo carne y queso crema relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -56814,8 +56815,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03343-pastry-cheese-filled",
-    "name": "Pastry, queso-filled",
+    "id": "fndds-03343-pastry-cheese-relleno ",
+    "name": "Pastry, relleno de queso",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -56831,8 +56832,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03344-pastry-egg-and-cheese-filled",
-    "name": "Pastry, huevo y queso filled",
+    "id": "fndds-03344-pastry-egg-and-cheese-relleno ",
+    "name": "Pastry, huevo y queso relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -56848,8 +56849,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03345-pastry-meat-poultry-filled",
-    "name": "Pastry, carne/poultry-filled",
+    "id": "fndds-03345-pastry-meat-poultry-relleno ",
+    "name": "Pastry, carne/poultry-relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57443,8 +57444,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03380-ravioli-meat-filled-no-sauce",
-    "name": "Ravioli, carne-filled, no salsa",
+    "id": "fndds-03380-ravioli-meat-relleno -no-sauce",
+    "name": "Ravioli, relleno de carne, no salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57460,8 +57461,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03381-ravioli-meat-filled-with-tomato-sauce-or-meat-sauce",
-    "name": "Ravioli, carne-filled, con salsa de tomate o carne salsa",
+    "id": "fndds-03381-ravioli-meat-relleno -with-tomato-sauce-or-meat-sauce",
+    "name": "Ravioli, relleno de carne, con salsa de tomate o carne salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57477,8 +57478,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03382-ravioli-meat-filled-with-tomato-sauce-or-meat-sauce-canned",
-    "name": "Ravioli, carne-filled, con salsa de tomate o carne salsa, enlatado",
+    "id": "fndds-03382-ravioli-meat-relleno -with-tomato-sauce-or-meat-sauce-canned",
+    "name": "Ravioli, relleno de carne, con salsa de tomate o carne salsa, enlatado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57494,8 +57495,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03383-ravioli-meat-filled-with-cream-sauce",
-    "name": "Ravioli, carne-filled, con salsa de crema",
+    "id": "fndds-03383-ravioli-meat-relleno -with-cream-sauce",
+    "name": "Ravioli, relleno de carne, con salsa de crema",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57511,8 +57512,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03384-ravioli-cheese-filled-no-sauce",
-    "name": "Ravioli, queso-filled, no salsa",
+    "id": "fndds-03384-ravioli-cheese-relleno -no-sauce",
+    "name": "Ravioli, relleno de queso, no salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57528,8 +57529,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03385-ravioli-cheese-filled-with-tomato-sauce",
-    "name": "Ravioli, queso-filled, con salsa de tomate",
+    "id": "fndds-03385-ravioli-cheese-relleno -with-tomato-sauce",
+    "name": "Ravioli, relleno de queso, con salsa de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57545,8 +57546,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03386-ravioli-cheese-filled-with-tomato-sauce-canned",
-    "name": "Ravioli, queso-filled, con salsa de tomate, enlatado",
+    "id": "fndds-03386-ravioli-cheese-relleno -with-tomato-sauce-canned",
+    "name": "Ravioli, relleno de queso, con salsa de tomate, enlatado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57562,8 +57563,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03387-ravioli-cheese-filled-with-meat-sauce",
-    "name": "Ravioli, queso-filled, con carne salsa",
+    "id": "fndds-03387-ravioli-cheese-relleno -with-meat-sauce",
+    "name": "Ravioli, relleno de queso, con carne salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57579,8 +57580,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03388-ravioli-cheese-filled-with-cream-sauce",
-    "name": "Ravioli, queso-filled, con salsa de crema",
+    "id": "fndds-03388-ravioli-cheese-relleno -with-cream-sauce",
+    "name": "Ravioli, relleno de queso, con salsa de crema",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57596,8 +57597,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03389-ravioli-cheese-and-spinach-filled-no-sauce",
-    "name": "Ravioli, queso y espinaca-filled, no salsa",
+    "id": "fndds-03389-ravioli-cheese-and-spinach-relleno -no-sauce",
+    "name": "Ravioli, queso y relleno de espinaca, no salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57613,8 +57614,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03390-ravioli-cheese-and-spinach-filled-with-cream-sauce",
-    "name": "Ravioli, queso y espinaca-filled, con salsa de crema",
+    "id": "fndds-03390-ravioli-cheese-and-spinach-relleno -with-cream-sauce",
+    "name": "Ravioli, queso y relleno de espinaca, con salsa de crema",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57630,8 +57631,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03391-ravioli-cheese-and-spinach-filled-with-tomato-sauce",
-    "name": "Ravioli, queso y espinaca filled, con salsa de tomate",
+    "id": "fndds-03391-ravioli-cheese-and-spinach-relleno -with-tomato-sauce",
+    "name": "Ravioli, queso y espinaca relleno , con salsa de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57647,8 +57648,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03392-manicotti-cheese-filled-no-sauce",
-    "name": "Manicotti, queso-filled, no salsa",
+    "id": "fndds-03392-manicotti-cheese-relleno -no-sauce",
+    "name": "Manicotti, relleno de queso, no salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57664,8 +57665,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03393-manicotti-cheese-filled-with-tomato-sauce-sin carne de res",
-    "name": "Manicotti, queso-filled, con salsa de tomate, sin carne de res",
+    "id": "fndds-03393-manicotti-cheese-relleno -with-tomato-sauce-sin carne de res",
+    "name": "Manicotti, relleno de queso, con salsa de tomate, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57681,8 +57682,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03394-manicotti-cheese-filled-with-meat-sauce",
-    "name": "Manicotti, queso-filled, con carne salsa",
+    "id": "fndds-03394-manicotti-cheese-relleno -with-meat-sauce",
+    "name": "Manicotti, relleno de queso, con carne salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57698,8 +57699,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03395-manicotti-vegetable-and-cheese-filled-with-tomato-sauce-meat",
-    "name": "Manicotti, verdura- y queso-filled, con salsa de tomate, sin carne de res",
+    "id": "fndds-03395-manicotti-vegetable-and-cheese-relleno -with-tomato-sauce-meat",
+    "name": "Manicotti, verdura- y relleno de queso, con salsa de tomate, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57715,8 +57716,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03396-stuffed-shells-cheese-filled-no-sauce",
-    "name": "Relleno shells, queso-filled, no salsa",
+    "id": "fndds-03396-stuffed-shells-cheese-relleno -no-sauce",
+    "name": "Relleno shells, relleno de queso, no salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57732,8 +57733,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03397-stuffed-shells-cheese-filled-with-tomato-sauce-sin carne de res",
-    "name": "Relleno shells, queso-filled, con salsa de tomate, sin carne de res",
+    "id": "fndds-03397-stuffed-shells-cheese-relleno -with-tomato-sauce-sin carne de res",
+    "name": "Relleno shells, relleno de queso, con salsa de tomate, sin carne de res",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57749,8 +57750,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03398-stuffed-shells-cheese-filled-with-meat-sauce",
-    "name": "Relleno shells, queso-filled, con carne salsa",
+    "id": "fndds-03398-stuffed-shells-cheese-relleno -with-meat-sauce",
+    "name": "Relleno shells, relleno de queso, con carne salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57766,8 +57767,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03399-stuffed-shells-cheese-and-spinach-filled-no-sauce",
-    "name": "Relleno shells, queso- y espinaca- filled, no salsa",
+    "id": "fndds-03399-stuffed-shells-cheese-and-spinach-relleno -no-sauce",
+    "name": "Relleno shells, queso- y espinaca- relleno , no salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57817,8 +57818,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03402-tortellini-meat-filled-with-tomato-sauce",
-    "name": "Tortellini, carne-filled, con salsa de tomate",
+    "id": "fndds-03402-tortellini-meat-relleno -with-tomato-sauce",
+    "name": "Tortellini, relleno de carne, con salsa de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57834,8 +57835,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03403-tortellini-meat-filled-with-tomato-sauce-canned",
-    "name": "Tortellini, carne-filled, con salsa de tomate, enlatado",
+    "id": "fndds-03403-tortellini-meat-relleno -with-tomato-sauce-canned",
+    "name": "Tortellini, relleno de carne, con salsa de tomate, enlatado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57851,8 +57852,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03404-tortellini-cheese-filled-sin carne de res-with-tomato-sauce",
-    "name": "Tortellini, queso-filled, sin carne de res, con salsa de tomate",
+    "id": "fndds-03404-tortellini-cheese-relleno -sin carne de res-with-tomato-sauce",
+    "name": "Tortellini, relleno de queso, sin carne de res, con salsa de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57868,8 +57869,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03405-tortellini-cheese-filled-sin carne de res-with-tomato-sauce-canned",
-    "name": "Tortellini, queso-filled, sin carne de res, con salsa de tomate, enlatado",
+    "id": "fndds-03405-tortellini-cheese-relleno -sin carne de res-with-tomato-sauce-canned",
+    "name": "Tortellini, relleno de queso, sin carne de res, con salsa de tomate, enlatado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57885,8 +57886,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03406-tortellini-cheese-filled-sin carne de res-with-vinaigrette-dressing",
-    "name": "Tortellini, queso-filled, sin carne de res, con vinaigrette aderezo",
+    "id": "fndds-03406-tortellini-cheese-relleno -sin carne de res-with-vinagreta-dressing",
+    "name": "Tortellini, relleno de queso, sin carne de res, con vinagreta aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57902,8 +57903,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03407-tortellini-meat-filled-no-sauce",
-    "name": "Tortellini, carne-filled, no salsa",
+    "id": "fndds-03407-tortellini-meat-relleno -no-sauce",
+    "name": "Tortellini, relleno de carne, no salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57919,8 +57920,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03408-tortellini-cheese-filled-with-cream-sauce",
-    "name": "Tortellini, queso-filled, con salsa de crema",
+    "id": "fndds-03408-tortellini-cheese-relleno -with-cream-sauce",
+    "name": "Tortellini, relleno de queso, con salsa de crema",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57936,8 +57937,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03409-tortellini-cheese-filled-no-sauce",
-    "name": "Tortellini, queso-filled, no salsa",
+    "id": "fndds-03409-tortellini-cheese-relleno -no-sauce",
+    "name": "Tortellini, relleno de queso, no salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57953,8 +57954,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03410-tortellini-spinach-filled-with-tomato-sauce",
-    "name": "Tortellini, espinaca-filled, con salsa de tomate",
+    "id": "fndds-03410-tortellini-spinach-relleno -with-tomato-sauce",
+    "name": "Tortellini, relleno de espinaca, con salsa de tomate",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57970,8 +57971,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03411-tortellini-spinach-filled-no-sauce",
-    "name": "Tortellini, espinaca-filled, no salsa",
+    "id": "fndds-03411-tortellini-spinach-relleno -no-sauce",
+    "name": "Tortellini, relleno de espinaca, no salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -57987,8 +57988,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03412-cannelloni-cheese-and-spinach-filled-no-sauce",
-    "name": "Cannelloni, queso- y espinaca-filled, no salsa",
+    "id": "fndds-03412-cannelloni-cheese-and-spinach-relleno -no-sauce",
+    "name": "Cannelloni, queso- y relleno de espinaca, no salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -63019,8 +63020,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03708-rice-dessert-or-salad-with-fruit",
-    "name": "Arroz dessert o ensalada con fruta",
+    "id": "fndds-03708-rice-postre-or-salad-with-fruit",
+    "name": "Arroz postre o ensalada con fruta",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -63853,7 +63854,7 @@
   },
   {
     "id": "fndds-03757-noodles-with-vegetables-in-tomato-based-sauce-diet-frozen-me",
-    "name": "Fideos con verduras in tomate-based salsa, diet comida congelada",
+    "name": "Fideos con verduras in tomate-based salsa, dietetico comida congelada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -63887,7 +63888,7 @@
   },
   {
     "id": "fndds-03759-spaghetti-with-meat-sauce-diet-frozen-meal",
-    "name": "Espagueti con carne salsa, diet comida congelada",
+    "name": "Espagueti con carne salsa, dietetico comida congelada",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -65110,7 +65111,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-03831-fruit-pickled",
+    "id": "fndds-03831-fruit-pepinillod",
     "name": "Fruta, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -66539,7 +66540,7 @@
   },
   {
     "id": "fndds-03915-fruit-salad-excluyendo-citrus-fruits-with-nondairy-whipped-to",
-    "name": "Fruta ensalada, excluyendo frutas cítricas, con nonlácteos whipped topping",
+    "name": "Fruta ensalada, excluyendo frutas cítricas, con nonlácteos Crema batida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -66641,7 +66642,7 @@
   },
   {
     "id": "fndds-03921-fruit-salad-incluyendo-citrus-fruits-with-nondairy-whipped-to",
-    "name": "Fruta ensalada, incluyendo frutas cítricas, con nonlácteos whipped topping",
+    "name": "Fruta ensalada, incluyendo frutas cítricas, con nonlácteos Crema batida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -68681,7 +68682,7 @@
   },
   {
     "id": "fndds-04041-potato-chips-sour-cream-and-onion-flavored",
-    "name": "Papa chips, sour crema y cebolla saborizado",
+    "name": "Papa chips, Crema agría y cebolla saborizado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -68766,7 +68767,7 @@
   },
   {
     "id": "fndds-04046-potato-chips-ruffled-sour-cream-and-onion-flavored",
-    "name": "Papa chips, ruffled, sour crema y cebolla saborizado",
+    "name": "Papa chips, ruffled, Crema agría y cebolla saborizado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -70296,7 +70297,7 @@
   },
   {
     "id": "fndds-04136-potato-baked-peel-not-eaten-with-sour-cream",
-    "name": "Papa, horneado, sin cáscara, con sour crema",
+    "name": "Papa, horneado, sin cáscara, con Crema agría",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -70415,7 +70416,7 @@
   },
   {
     "id": "fndds-04143-potato-baked-peel-eaten-with-sour-cream",
-    "name": "Papa, horneado, con cáscara, con sour crema",
+    "name": "Papa, horneado, con cáscara, con Crema agría",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -73814,7 +73815,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04343-tomato-green-pickled",
+    "id": "fndds-04343-tomato-green-pepinillod",
     "name": "Tomate, verde, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -75396,7 +75397,7 @@
   },
   {
     "id": "fndds-04436-cucumber-salad-made-with-sour-cream-dressing",
-    "name": "Pepino ensalada, hecho con sour crema aderezo",
+    "name": "Pepino ensalada, hecho con Crema agría aderezo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79203,8 +79204,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04660-chiles-rellenos-cheese-filled",
-    "name": "Chiles rellenos, queso-filled",
+    "id": "fndds-04660-chiles-rellenos-cheese-relleno ",
+    "name": "Chiles rellenos, relleno de queso",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79220,8 +79221,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04661-chiles-rellenos-filled-with-meat-and-cheese",
-    "name": "Chiles rellenos, filled con carne y queso",
+    "id": "fndds-04661-chiles-rellenos-relleno -with-meat-and-cheese",
+    "name": "Chiles rellenos, relleno  con carne y queso",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79407,8 +79408,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04672-fried-onion-rings",
-    "name": "Frito cebolla rings",
+    "id": "fndds-04672-fried-onion-aros",
+    "name": "Frito cebolla aros",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79662,7 +79663,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04687-green-beans-pickled",
+    "id": "fndds-04687-green-beans-pepinillod",
     "name": "Judías verdes, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -79679,7 +79680,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04688-beets-pickled",
+    "id": "fndds-04688-beets-pepinillod",
     "name": "Remolachas, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -79696,7 +79697,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04689-celery-pickled",
+    "id": "fndds-04689-celery-pepinillod",
     "name": "Apio, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -79730,7 +79731,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04691-cauliflower-pickled",
+    "id": "fndds-04691-cauliflower-pepinillod",
     "name": "Coliflor, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -79747,7 +79748,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04692-cabbage-green-pickled",
+    "id": "fndds-04692-cabbage-green-pepinillod",
     "name": "Repollo, verde, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -79764,7 +79765,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04693-cabbage-red-pickled",
+    "id": "fndds-04693-cabbage-red-pepinillod",
     "name": "Repollo, rojo, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -79798,8 +79799,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04695-pickles-dill",
-    "name": "Pickles, dill",
+    "id": "fndds-04695-pepinillos-dill",
+    "name": "pepinillos, dill",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79815,8 +79816,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04696-relish-pickle",
-    "name": "Relish, pickle",
+    "id": "fndds-04696-relish-pepinillo",
+    "name": "Relish, pepinillo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79832,8 +79833,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04697-pickles-dulce",
-    "name": "Pickles, dulce",
+    "id": "fndds-04697-pepinillos-dulce",
+    "name": "pepinillos, dulce",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79849,7 +79850,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04698-eggplant-pickled",
+    "id": "fndds-04698-eggplant-pepinillod",
     "name": "Berenjena, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -79866,7 +79867,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04699-ginger-root-pickled",
+    "id": "fndds-04699-ginger-root-pepinillod",
     "name": "Raíz de jengibre, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -79900,7 +79901,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04701-mushrooms-pickled",
+    "id": "fndds-04701-mushrooms-pepinillod",
     "name": "Hongos, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -79951,7 +79952,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04704-okra-pickled",
+    "id": "fndds-04704-okra-pepinillod",
     "name": "Okra, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -79968,8 +79969,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04705-olives-nfs",
-    "name": "Olives, no especificado",
+    "id": "fndds-04705-aceitunas-nfs",
+    "name": "aceitunas, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -79985,8 +79986,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04706-olives-green",
-    "name": "Olives, verde",
+    "id": "fndds-04706-aceitunas-green",
+    "name": "aceitunas, verde",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -80002,8 +80003,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04707-olives-black",
-    "name": "Olives, black",
+    "id": "fndds-04707-aceitunas-black",
+    "name": "aceitunas, negras",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -80019,8 +80020,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04708-olives-stuffed",
-    "name": "Olives, relleno",
+    "id": "fndds-04708-aceitunas-stuffed",
+    "name": "aceitunas, relleno",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -80036,8 +80037,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04709-olive-tapenade",
-    "name": "Olive tapenade",
+    "id": "fndds-04709-aceituna-tapenade",
+    "name": "aceituna tapenade",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -80070,7 +80071,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04711-peppers-dulce-pickled",
+    "id": "fndds-04711-peppers-dulce-pepinillod",
     "name": "Pimientos, dulce, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -80087,7 +80088,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04712-peppers-hot-pickled",
+    "id": "fndds-04712-peppers-hot-pepinillod",
     "name": "Pimientos, hot, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -80121,8 +80122,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04714-pickles-nfs",
-    "name": "Pickles, no especificado",
+    "id": "fndds-04714-pepinillos-nfs",
+    "name": "pepinillos, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -80138,8 +80139,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04715-pickles-fried",
-    "name": "Pickles, frito",
+    "id": "fndds-04715-pepinillos-fried",
+    "name": "pepinillos, frito",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -80155,7 +80156,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04716-radishes-pickled",
+    "id": "fndds-04716-radishes-pepinillod",
     "name": "Radishes, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -80172,7 +80173,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04717-seaweed-pickled",
+    "id": "fndds-04717-seaweed-pepinillod",
     "name": "Seaweed, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -80189,7 +80190,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04718-vegetables-pickled",
+    "id": "fndds-04718-vegetables-pepinillod",
     "name": "Verduras, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -80206,7 +80207,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04719-turnip-pickled",
+    "id": "fndds-04719-turnip-pepinillod",
     "name": "Nabo, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -80240,7 +80241,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04721-zucchini-pickled",
+    "id": "fndds-04721-zucchini-pepinillod",
     "name": "Calabacín, encurtido",
     "category": "general",
     "servingBase": 100,
@@ -80937,8 +80938,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04762-vegetable-and-fruit-juice-100-juice-with-high-vitamin-c",
-    "name": "Verdura y fruta jugo, 100% jugo, con high vitamin C",
+    "id": "fndds-04762-vegetable-and-fruit-juice-100-juice-with-alto-vitamin-c",
+    "name": "Verdura y fruta jugo, 100% jugo, con alto vitamin C",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -81634,7 +81635,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04803-olive-oil",
+    "id": "fndds-04803-aceituna-oil",
     "name": "Aceite de oliva",
     "category": "general",
     "servingBase": 100,
@@ -82229,7 +82230,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04838-mayonnaise-reduced-fat-with-olive-oil",
+    "id": "fndds-04838-mayonnaise-reduced-fat-with-aceituna-oil",
     "name": "Mayonesa, reducida en grasa, con aceite de oliva",
     "category": "general",
     "servingBase": 100,
@@ -83487,7 +83488,7 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04912-dessert-dip",
+    "id": "fndds-04912-postre-dip",
     "name": "Postre dip",
     "category": "general",
     "servingBase": 100,
@@ -83521,8 +83522,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04914-dessert-sauce",
-    "name": "Dessert salsa",
+    "id": "fndds-04914-postre-sauce",
+    "name": "postre salsa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -83742,8 +83743,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04927-gelatin-dessert",
-    "name": "Gelatina dessert",
+    "id": "fndds-04927-gelatin-postre",
+    "name": "Gelatina postre",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -83759,8 +83760,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04928-gelatin-dessert-with-fruit",
-    "name": "Gelatina dessert con fruta",
+    "id": "fndds-04928-gelatin-postre-with-fruit",
+    "name": "Gelatina postre con fruta",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -83793,8 +83794,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04930-gelatin-dessert-sugar-free",
-    "name": "Gelatina dessert, sin azúcar",
+    "id": "fndds-04930-gelatin-postre-sugar-free",
+    "name": "Gelatina postre, sin azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -83810,8 +83811,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04931-gelatin-dessert-sugar-free-with-fruit",
-    "name": "Gelatina dessert, sin azúcar, con fruta",
+    "id": "fndds-04931-gelatin-postre-sugar-free-with-fruit",
+    "name": "Gelatina postre, sin azúcar, con fruta",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84116,8 +84117,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04949-chocolate-candy-cookie-filled",
-    "name": "Chocolate dulces, galleta filled",
+    "id": "fndds-04949-chocolate-candy-cookie-relleno ",
+    "name": "Chocolate dulces, galleta relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84269,8 +84270,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04958-chocolate-candy-caramel-filled",
-    "name": "Chocolate dulces, caramel filled",
+    "id": "fndds-04958-chocolate-candy-caramel-relleno ",
+    "name": "Chocolate dulces, caramel relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84286,8 +84287,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04959-chocolate-candy-caramel-filled-with-nueces",
-    "name": "Chocolate dulces, caramel filled con nueces",
+    "id": "fndds-04959-chocolate-candy-caramel-relleno -with-nueces",
+    "name": "Chocolate dulces, caramel relleno  con nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84303,8 +84304,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04960-chocolate-candy-coconut-filled",
-    "name": "Chocolate dulces, coco filled",
+    "id": "fndds-04960-chocolate-candy-coconut-relleno ",
+    "name": "Chocolate dulces, coco relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84320,8 +84321,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04961-chocolate-candy-cream-filled",
-    "name": "Chocolate dulces, crema filled",
+    "id": "fndds-04961-chocolate-candy-cream-relleno ",
+    "name": "Chocolate dulces, crema relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84337,8 +84338,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04962-chocolate-candy-nougat-filled",
-    "name": "Chocolate dulces, nougat filled",
+    "id": "fndds-04962-chocolate-candy-nougat-relleno ",
+    "name": "Chocolate dulces, nougat relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84354,8 +84355,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04963-chocolate-candy-nougat-filled-with-nueces",
-    "name": "Chocolate dulces, nougat filled con nueces",
+    "id": "fndds-04963-chocolate-candy-nougat-relleno -with-nueces",
+    "name": "Chocolate dulces, nougat relleno  con nueces",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84371,8 +84372,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04964-chocolate-candy-peanut-butter-filled",
-    "name": "Chocolate dulces, maní mantequilla filled",
+    "id": "fndds-04964-chocolate-candy-peanut-butter-relleno ",
+    "name": "Chocolate dulces, maní mantequilla relleno ",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84830,8 +84831,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04991-coffee-ns-as-to-brewed-or-instant",
-    "name": "Café, sin especificar brewed o instant",
+    "id": "fndds-04991-coffee-ns-as-to-elaborado-or-instantaneo",
+    "name": "Café, sin especificar elaborado o instantaneo",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84847,8 +84848,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04992-coffee-brewed",
-    "name": "Café, brewed",
+    "id": "fndds-04992-coffee-elaborado",
+    "name": "Café, elaborado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84864,8 +84865,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04993-coffee-brewed-licuado-of-regular-and-decaffeinated",
-    "name": "Café, brewed, licuado de regular y decaffeinated",
+    "id": "fndds-04993-coffee-elaborado-licuado-of-regular-and-descafeinado",
+    "name": "Café, elaborado, licuado de regular y descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84915,8 +84916,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04996-coffee-espresso-decaffeinated",
-    "name": "Café, espresso, decaffeinated",
+    "id": "fndds-04996-coffee-espresso-descafeinado",
+    "name": "Café, espresso, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -84932,8 +84933,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-04997-coffee-brewed-flavored",
-    "name": "Café, brewed, saborizado",
+    "id": "fndds-04997-coffee-elaborado-flavored",
+    "name": "Café, elaborado, saborizado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85017,8 +85018,8 @@
     "servingWeightGrams": 103
   },
   {
-    "id": "fndds-05002-coffee-cafe-con-leche-decaffeinated",
-    "name": "Café, cafe con leche, decaffeinated",
+    "id": "fndds-05002-coffee-cafe-con-leche-descafeinado",
+    "name": "Café, cafe con leche, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -85136,8 +85137,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05009-coffee-latte-decaffeinated",
-    "name": "Café, Latte, decaffeinated",
+    "id": "fndds-05009-coffee-latte-descafeinado",
+    "name": "Café, Latte, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85153,8 +85154,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05010-coffee-latte-decaffeinated-nonfat",
-    "name": "Café, Latte, decaffeinated, sin grasa",
+    "id": "fndds-05010-coffee-latte-descafeinado-nonfat",
+    "name": "Café, Latte, descafeinado, sin grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85170,8 +85171,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05011-coffee-latte-decaffeinated-with-non-dairy-milk",
-    "name": "Café, Latte, decaffeinated, con bebida vegetal",
+    "id": "fndds-05011-coffee-latte-descafeinado-with-non-dairy-milk",
+    "name": "Café, Latte, descafeinado, con bebida vegetal",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85187,8 +85188,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05012-coffee-latte-decaffeinated-flavored",
-    "name": "Café, Latte, decaffeinated, saborizado",
+    "id": "fndds-05012-coffee-latte-descafeinado-flavored",
+    "name": "Café, Latte, descafeinado, saborizado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85204,8 +85205,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05013-coffee-latte-decaffeinated-nonfat-flavored",
-    "name": "Café, Latte, decaffeinated, sin grasa, saborizado",
+    "id": "fndds-05013-coffee-latte-descafeinado-nonfat-flavored",
+    "name": "Café, Latte, descafeinado, sin grasa, saborizado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85221,8 +85222,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05014-coffee-latte-decaffeinated-with-non-dairy-milk-flavored",
-    "name": "Café, Latte, decaffeinated, con bebida vegetal, saborizado",
+    "id": "fndds-05014-coffee-latte-descafeinado-with-non-dairy-milk-flavored",
+    "name": "Café, Latte, descafeinado, con bebida vegetal, saborizado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85340,8 +85341,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05021-frozen-coffee-drink-decaffeinated",
-    "name": "Congelado café bebida, decaffeinated",
+    "id": "fndds-05021-frozen-coffee-drink-descafeinado",
+    "name": "Congelado café bebida, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85357,8 +85358,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05022-frozen-coffee-drink-decaffeinated-nonfat",
-    "name": "Congelado café bebida, decaffeinated, sin grasa",
+    "id": "fndds-05022-frozen-coffee-drink-descafeinado-nonfat",
+    "name": "Congelado café bebida, descafeinado, sin grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85374,8 +85375,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05023-frozen-coffee-drink-decaffeinated-with-non-dairy-milk",
-    "name": "Congelado café bebida, decaffeinated, con bebida vegetal",
+    "id": "fndds-05023-frozen-coffee-drink-descafeinado-with-non-dairy-milk",
+    "name": "Congelado café bebida, descafeinado, con bebida vegetal",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85391,8 +85392,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05024-frozen-coffee-drink-decaffeinated-with-whipped-cream",
-    "name": "Congelado café bebida, decaffeinated, con whipped crema",
+    "id": "fndds-05024-frozen-coffee-drink-descafeinado-with-whipped-cream",
+    "name": "Congelado café bebida, descafeinado, con whipped crema",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85408,8 +85409,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05025-frozen-coffee-drink-decaffeinated-nonfat-with-whipped-cream",
-    "name": "Congelado café bebida, decaffeinated, sin grasa, con whipped crema",
+    "id": "fndds-05025-frozen-coffee-drink-descafeinado-nonfat-with-whipped-cream",
+    "name": "Congelado café bebida, descafeinado, sin grasa, con whipped crema",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85425,8 +85426,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05026-frozen-coffee-drink-decaffeinated-with-non-dairy-milk-and-wh",
-    "name": "Congelado café bebida, decaffeinated, con bebida vegetal y whipped crema",
+    "id": "fndds-05026-frozen-coffee-drink-descafeinado-with-non-dairy-milk-and-wh",
+    "name": "Congelado café bebida, descafeinado, con bebida vegetal y whipped crema",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85493,8 +85494,8 @@
     "servingWeightGrams": 103
   },
   {
-    "id": "fndds-05030-coffee-cafe-mocha-decaffeinated",
-    "name": "Café, Cafe Mocha, decaffeinated",
+    "id": "fndds-05030-coffee-cafe-mocha-descafeinado",
+    "name": "Café, Cafe Mocha, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -85510,8 +85511,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05031-coffee-cafe-mocha-decaffeinated-nonfat",
-    "name": "Café, Cafe Mocha, decaffeinated, sin grasa",
+    "id": "fndds-05031-coffee-cafe-mocha-descafeinado-nonfat",
+    "name": "Café, Cafe Mocha, descafeinado, sin grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -85527,8 +85528,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05032-coffee-cafe-mocha-decaffeinated-with-non-dairy-milk",
-    "name": "Café, Cafe Mocha, decaffeinated, con bebida vegetal",
+    "id": "fndds-05032-coffee-cafe-mocha-descafeinado-with-non-dairy-milk",
+    "name": "Café, Cafe Mocha, descafeinado, con bebida vegetal",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -85646,8 +85647,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05039-frozen-mocha-coffee-drink-decaffeinated",
-    "name": "Congelado mocha café bebida, decaffeinated",
+    "id": "fndds-05039-frozen-mocha-coffee-drink-descafeinado",
+    "name": "Congelado mocha café bebida, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85663,8 +85664,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05040-frozen-mocha-coffee-drink-decaffeinated-nonfat",
-    "name": "Congelado mocha café bebida, decaffeinated, sin grasa",
+    "id": "fndds-05040-frozen-mocha-coffee-drink-descafeinado-nonfat",
+    "name": "Congelado mocha café bebida, descafeinado, sin grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85680,8 +85681,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05041-frozen-mocha-coffee-drink-decaffeinated-with-non-dairy-milk",
-    "name": "Congelado mocha café bebida, decaffeinated, con bebida vegetal",
+    "id": "fndds-05041-frozen-mocha-coffee-drink-descafeinado-with-non-dairy-milk",
+    "name": "Congelado mocha café bebida, descafeinado, con bebida vegetal",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85697,8 +85698,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05042-frozen-mocha-coffee-drink-decaffeinated-with-whipped-cream",
-    "name": "Congelado mocha café bebida, decaffeinated, con whipped crema",
+    "id": "fndds-05042-frozen-mocha-coffee-drink-descafeinado-with-whipped-cream",
+    "name": "Congelado mocha café bebida, descafeinado, con whipped crema",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85714,8 +85715,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05043-frozen-mocha-coffee-drink-decaffeinated-nonfat-with-whipped-",
-    "name": "Congelado mocha café bebida, decaffeinated, sin grasa, con whipped crema",
+    "id": "fndds-05043-frozen-mocha-coffee-drink-descafeinado-nonfat-with-whipped-",
+    "name": "Congelado mocha café bebida, descafeinado, sin grasa, con whipped crema",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85731,8 +85732,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05044-frozen-mocha-coffee-drink-decaffeinated-with-non-dairy-milk-",
-    "name": "Congelado mocha café bebida, decaffeinated, con bebida vegetal y whipped crema",
+    "id": "fndds-05044-frozen-mocha-coffee-drink-descafeinado-with-non-dairy-milk-",
+    "name": "Congelado mocha café bebida, descafeinado, con bebida vegetal y whipped crema",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85748,8 +85749,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05045-iced-coffee-brewed",
-    "name": "Iced café, brewed",
+    "id": "fndds-05045-iced-coffee-elaborado",
+    "name": "Iced café, elaborado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85765,8 +85766,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05046-iced-coffee-brewed-decaffeinated",
-    "name": "Iced café, brewed, decaffeinated",
+    "id": "fndds-05046-iced-coffee-elaborado-descafeinado",
+    "name": "Iced café, elaborado, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85901,8 +85902,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05054-coffee-iced-latte-decaffeinated",
-    "name": "Café, Iced Latte, decaffeinated",
+    "id": "fndds-05054-coffee-iced-latte-descafeinado",
+    "name": "Café, Iced Latte, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85918,8 +85919,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05055-coffee-iced-latte-decaffeinated-nonfat",
-    "name": "Café, Iced Latte, decaffeinated, sin grasa",
+    "id": "fndds-05055-coffee-iced-latte-descafeinado-nonfat",
+    "name": "Café, Iced Latte, descafeinado, sin grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85935,8 +85936,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05056-coffee-iced-latte-decaffeinated-with-non-dairy-milk",
-    "name": "Café, Iced Latte, decaffeinated, con bebida vegetal",
+    "id": "fndds-05056-coffee-iced-latte-descafeinado-with-non-dairy-milk",
+    "name": "Café, Iced Latte, descafeinado, con bebida vegetal",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85952,8 +85953,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05057-coffee-iced-latte-decaffeinated-flavored",
-    "name": "Café, Iced Latte, decaffeinated, saborizado",
+    "id": "fndds-05057-coffee-iced-latte-descafeinado-flavored",
+    "name": "Café, Iced Latte, descafeinado, saborizado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85969,8 +85970,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05058-coffee-iced-latte-decaffeinated-nonfat-flavored",
-    "name": "Café, Iced Latte, decaffeinated, sin grasa, saborizado",
+    "id": "fndds-05058-coffee-iced-latte-descafeinado-nonfat-flavored",
+    "name": "Café, Iced Latte, descafeinado, sin grasa, saborizado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -85986,8 +85987,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05059-coffee-iced-latte-decaffeinated-with-non-dairy-milk-flavored",
-    "name": "Café, Iced Latte, decaffeinated, con bebida vegetal, saborizado",
+    "id": "fndds-05059-coffee-iced-latte-descafeinado-with-non-dairy-milk-flavored",
+    "name": "Café, Iced Latte, descafeinado, con bebida vegetal, saborizado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86054,8 +86055,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05063-coffee-iced-cafe-mocha-decaffeinated",
-    "name": "Café, Iced Cafe Mocha, decaffeinated",
+    "id": "fndds-05063-coffee-iced-cafe-mocha-descafeinado",
+    "name": "Café, Iced Cafe Mocha, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86071,8 +86072,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05064-coffee-iced-cafe-mocha-decaffeinated-nonfat",
-    "name": "Café, Iced Cafe Mocha, decaffeinated, sin grasa",
+    "id": "fndds-05064-coffee-iced-cafe-mocha-descafeinado-nonfat",
+    "name": "Café, Iced Cafe Mocha, descafeinado, sin grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86088,8 +86089,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05065-coffee-iced-cafe-mocha-decaffeinated-with-non-dairy-milk",
-    "name": "Café, Iced Cafe Mocha, decaffeinated, con bebida vegetal",
+    "id": "fndds-05065-coffee-iced-cafe-mocha-descafeinado-with-non-dairy-milk",
+    "name": "Café, Iced Cafe Mocha, descafeinado, con bebida vegetal",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86105,8 +86106,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05066-coffee-instant-reconstituted",
-    "name": "Café, instant, reconstituida",
+    "id": "fndds-05066-coffee-instantaneo-reconstituted",
+    "name": "Café, instantaneo, reconstituida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86122,8 +86123,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05067-coffee-instant-50-less-caffeine-reconstituted",
-    "name": "Café, instant, 50% less caffeine, reconstituida",
+    "id": "fndds-05067-coffee-instantaneo-50-less-caffeine-reconstituted",
+    "name": "Café, instantaneo, 50% less caffeine, reconstituida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86139,8 +86140,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05068-coffee-ns-as-to-brewed-or-instant-decaffeinated",
-    "name": "Café, sin especificar brewed o instant, decaffeinated",
+    "id": "fndds-05068-coffee-ns-as-to-elaborado-or-instantaneo-descafeinado",
+    "name": "Café, sin especificar elaborado o instantaneo, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86156,8 +86157,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05069-coffee-brewed-decaffeinated",
-    "name": "Café, brewed, decaffeinated",
+    "id": "fndds-05069-coffee-elaborado-descafeinado",
+    "name": "Café, elaborado, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86173,8 +86174,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05070-coffee-instant-decaffeinated-reconstituted",
-    "name": "Café, instant, decaffeinated, reconstituida",
+    "id": "fndds-05070-coffee-instantaneo-descafeinado-reconstituted",
+    "name": "Café, instantaneo, descafeinado, reconstituida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86190,8 +86191,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05071-coffee-instant-pre-lightened-and-pre-dulceened-with-sugar-re",
-    "name": "Café, instant, pre-lightened y pre-endulzada con azúcar, reconstituida",
+    "id": "fndds-05071-coffee-instantaneo-pre-lightened-and-pre-dulceened-with-sugar-re",
+    "name": "Café, instantaneo, pre-lightened y pre-endulzada con azúcar, reconstituida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86207,8 +86208,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05072-coffee-instant-decaffeinated-pre-lightened-and-pre-dulceened",
-    "name": "Café, instant, decaffeinated, pre-lightened y pre-endulzada con azúcar, reconsitituted",
+    "id": "fndds-05072-coffee-instantaneo-descafeinado-pre-lightened-and-pre-dulceened",
+    "name": "Café, instantaneo, descafeinado, pre-lightened y pre-endulzada con azúcar, reconsitituted",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86224,8 +86225,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05073-coffee-instant-pre-dulceened-with-sugar-reconstituted",
-    "name": "Café, instant, pre-endulzada con azúcar, reconstituida",
+    "id": "fndds-05073-coffee-instantaneo-pre-dulceened-with-sugar-reconstituted",
+    "name": "Café, instantaneo, pre-endulzada con azúcar, reconstituida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86241,8 +86242,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05074-coffee-mocha-instant-pre-lightened-and-pre-dulceened-with-lo",
-    "name": "Café, mocha, instant, pre-lightened y pre-endulzada con low calorie dulceener, reconstituida",
+    "id": "fndds-05074-coffee-mocha-instantaneo-pre-lightened-and-pre-dulceened-with-lo",
+    "name": "Café, mocha, instantaneo, pre-lightened y pre-endulzada con bajo en calorías dulceener, reconstituida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86258,8 +86259,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05075-coffee-instant-pre-lightened-and-pre-dulceened-with-low-calo",
-    "name": "Café, instant, pre-lightened y pre-endulzada con low calorie dulceener, reconstituida",
+    "id": "fndds-05075-coffee-instantaneo-pre-lightened-and-pre-dulceened-with-low-calo",
+    "name": "Café, instantaneo, pre-lightened y pre-endulzada con bajo en calorías dulceener, reconstituida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86275,8 +86276,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05076-coffee-instant-decaffeinated-pre-lightened-and-pre-dulceened",
-    "name": "Café, instant, decaffeinated, pre-lightened y pre-endulzada con low calorie dulceener, reconstituida",
+    "id": "fndds-05076-coffee-instantaneo-descafeinado-pre-lightened-and-pre-dulceened",
+    "name": "Café, instantaneo, descafeinado, pre-lightened y pre-endulzada con bajo en calorías dulceener, reconstituida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86309,8 +86310,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05078-coffee-decaffeinated-pre-lightened-and-pre-dulceened-with-su",
-    "name": "Café, decaffeinated, pre-lightened y pre-endulzada con azúcar",
+    "id": "fndds-05078-coffee-descafeinado-pre-lightened-and-pre-dulceened-with-su",
+    "name": "Café, descafeinado, pre-lightened y pre-endulzada con azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86327,7 +86328,7 @@
   },
   {
     "id": "fndds-05079-coffee-pre-lightened-and-pre-dulceened-with-low-calorie-swee",
-    "name": "Café, pre-lightened y pre-endulzada con low calorie dulceener",
+    "name": "Café, pre-lightened y pre-endulzada con bajo en calorías dulceener",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86343,8 +86344,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05080-coffee-decaffeinated-pre-lightened-and-pre-dulceened-with-lo",
-    "name": "Café, decaffeinated, pre-lightened y pre-endulzada con low calorie dulceener",
+    "id": "fndds-05080-coffee-descafeinado-pre-lightened-and-pre-dulceened-with-lo",
+    "name": "Café, descafeinado, pre-lightened y pre-endulzada con bajo en calorías dulceener",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86377,8 +86378,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05082-coffee-decaffeinated-pre-lightened",
-    "name": "Café, decaffeinated, pre-lightened",
+    "id": "fndds-05082-coffee-descafeinado-pre-lightened",
+    "name": "Café, descafeinado, pre-lightened",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86411,8 +86412,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05084-coffee-decaffeinated-pre-dulceened-with-sugar",
-    "name": "Café, decaffeinated, pre-endulzada con azúcar",
+    "id": "fndds-05084-coffee-descafeinado-pre-dulceened-with-sugar",
+    "name": "Café, descafeinado, pre-endulzada con azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86429,7 +86430,7 @@
   },
   {
     "id": "fndds-05085-coffee-pre-dulceened-with-low-calorie-dulceener",
-    "name": "Café, pre-endulzada con low calorie dulceener",
+    "name": "Café, pre-endulzada con bajo en calorías dulceener",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86445,8 +86446,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05086-coffee-decaffeinated-pre-dulceened-with-low-calorie-dulceene",
-    "name": "Café, decaffeinated, pre-endulzada con low calorie dulceener",
+    "id": "fndds-05086-coffee-descafeinado-pre-dulceened-with-low-calorie-dulceene",
+    "name": "Café, descafeinado, pre-endulzada con bajo en calorías dulceener",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86462,8 +86463,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05087-coffee-and-chicory-brewed",
-    "name": "Café y chicory, brewed",
+    "id": "fndds-05087-coffee-and-chicory-elaborado",
+    "name": "Café y chicory, elaborado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86479,8 +86480,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05088-coffee-and-chicory-brewed-decaffeinated",
-    "name": "Café y chicory, brewed, decaffeinated",
+    "id": "fndds-05088-coffee-and-chicory-elaborado-descafeinado",
+    "name": "Café y chicory, elaborado, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86547,8 +86548,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05092-coffee-cappuccino-decaffeinated",
-    "name": "Café, Cappuccino, decaffeinated",
+    "id": "fndds-05092-coffee-cappuccino-descafeinado",
+    "name": "Café, Cappuccino, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86564,8 +86565,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05093-coffee-cappuccino-decaffeinated-nonfat",
-    "name": "Café, Cappuccino, decaffeinated, sin grasa",
+    "id": "fndds-05093-coffee-cappuccino-descafeinado-nonfat",
+    "name": "Café, Cappuccino, descafeinado, sin grasa",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86581,8 +86582,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05094-coffee-cappuccino-decaffeinated-with-non-dairy-milk",
-    "name": "Café, Cappuccino, decaffeinated, con bebida vegetal",
+    "id": "fndds-05094-coffee-cappuccino-descafeinado-with-non-dairy-milk",
+    "name": "Café, Cappuccino, descafeinado, con bebida vegetal",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86632,8 +86633,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05097-coffee-instant-not-reconstituted",
-    "name": "Café, instant, sin reconstituir",
+    "id": "fndds-05097-coffee-instantaneo-not-reconstituted",
+    "name": "Café, instantaneo, sin reconstituir",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86649,8 +86650,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05098-coffee-instant-decaffeinated-not-reconstituted",
-    "name": "Café, instant, decaffeinated, sin reconstituir",
+    "id": "fndds-05098-coffee-instantaneo-descafeinado-not-reconstituted",
+    "name": "Café, instantaneo, descafeinado, sin reconstituir",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86666,8 +86667,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05099-coffee-instant-pre-dulceened-with-sugar-not-reconstituted",
-    "name": "Café, instant, pre-endulzada con azúcar, sin reconstituir",
+    "id": "fndds-05099-coffee-instantaneo-pre-dulceened-with-sugar-not-reconstituted",
+    "name": "Café, instantaneo, pre-endulzada con azúcar, sin reconstituir",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86683,8 +86684,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05100-coffee-instant-pre-lightened-and-pre-dulceened-with-sugar-no",
-    "name": "Café, instant, pre-lightened y pre-endulzada con azúcar, sin reconstituir",
+    "id": "fndds-05100-coffee-instantaneo-pre-lightened-and-pre-dulceened-with-sugar-no",
+    "name": "Café, instantaneo, pre-lightened y pre-endulzada con azúcar, sin reconstituir",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86700,8 +86701,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05101-coffee-instant-decaffeinated-pre-lightened-and-pre-dulceened",
-    "name": "Café, instant, decaffeinated, pre-lightened y pre-endulzada con azúcar, sin reconstituir",
+    "id": "fndds-05101-coffee-instantaneo-descafeinado-pre-lightened-and-pre-dulceened",
+    "name": "Café, instantaneo, descafeinado, pre-lightened y pre-endulzada con azúcar, sin reconstituir",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86717,8 +86718,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05102-coffee-instant-decaffeinated-pre-lightened-and-pre-dulceened",
-    "name": "Café, instant, decaffeinated, pre-lightened y pre-endulzada con low calorie dulceener, sin reconstituir",
+    "id": "fndds-05102-coffee-instantaneo-descafeinado-pre-lightened-and-pre-dulceened",
+    "name": "Café, instantaneo, descafeinado, pre-lightened y pre-endulzada con bajo en calorías dulceener, sin reconstituir",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86785,8 +86786,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05106-tea-hot-leaf-black-decaffeinated",
-    "name": "Té, hot, leaf, black, decaffeinated",
+    "id": "fndds-05106-tea-hot-leaf-black-descafeinado",
+    "name": "Té, hot, leaf, black, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86819,8 +86820,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05108-tea-hot-leaf-green-decaffeinated",
-    "name": "Té, hot, leaf, verde, decaffeinated",
+    "id": "fndds-05108-tea-hot-leaf-green-descafeinado",
+    "name": "Té, hot, leaf, verde, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86853,8 +86854,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05110-tea-iced-instant-black-undulceened",
-    "name": "Té, iced, instant, black, sin azúcar",
+    "id": "fndds-05110-tea-iced-instantaneo-black-undulceened",
+    "name": "Té, iced, instantaneo, black, sin azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86870,8 +86871,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05111-tea-iced-instant-black-pre-dulceened-with-sugar",
-    "name": "Té, iced, instant, black, pre-endulzada con azúcar",
+    "id": "fndds-05111-tea-iced-instantaneo-black-pre-dulceened-with-sugar",
+    "name": "Té, iced, instantaneo, black, pre-endulzada con azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86887,8 +86888,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05112-tea-iced-instant-black-decaffeinated-pre-dulceened-with-suga",
-    "name": "Té, iced, instant, black, decaffeinated, pre-endulzada con azúcar",
+    "id": "fndds-05112-tea-iced-instantaneo-black-descafeinado-pre-dulceened-with-suga",
+    "name": "Té, iced, instantaneo, black, descafeinado, pre-endulzada con azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86904,8 +86905,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05113-tea-iced-instant-black-pre-dulceened-with-low-calorie-dulcee",
-    "name": "Té, iced, instant, black, pre-endulzada con low calorie dulceener",
+    "id": "fndds-05113-tea-iced-instantaneo-black-pre-dulceened-with-low-calorie-dulcee",
+    "name": "Té, iced, instantaneo, black, pre-endulzada con bajo en calorías dulceener",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86921,8 +86922,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05114-tea-iced-instant-black-decaffeinated-pre-dulceened-with-low-",
-    "name": "Té, iced, instant, black, decaffeinated, pre-endulzada con low calorie dulceener",
+    "id": "fndds-05114-tea-iced-instantaneo-black-descafeinado-pre-dulceened-with-low-",
+    "name": "Té, iced, instantaneo, black, descafeinado, pre-endulzada con bajo en calorías dulceener",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86938,8 +86939,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05115-tea-iced-instant-black-decaffeinated-undulceened",
-    "name": "Té, iced, instant, black, decaffeinated, sin azúcar",
+    "id": "fndds-05115-tea-iced-instantaneo-black-descafeinado-undulceened",
+    "name": "Té, iced, instantaneo, black, descafeinado, sin azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86955,8 +86956,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05116-tea-iced-instant-green-undulceened",
-    "name": "Té, iced, instant, verde, sin azúcar",
+    "id": "fndds-05116-tea-iced-instantaneo-green-undulceened",
+    "name": "Té, iced, instantaneo, verde, sin azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86972,8 +86973,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05117-tea-iced-instant-green-pre-dulceened-with-sugar",
-    "name": "Té, iced, instant, verde, pre-endulzada con azúcar",
+    "id": "fndds-05117-tea-iced-instantaneo-green-pre-dulceened-with-sugar",
+    "name": "Té, iced, instantaneo, verde, pre-endulzada con azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -86989,8 +86990,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05118-tea-iced-instant-green-pre-dulceened-with-low-calorie-dulcee",
-    "name": "Té, iced, instant, verde, pre-endulzada con low calorie dulceener",
+    "id": "fndds-05118-tea-iced-instantaneo-green-pre-dulceened-with-low-calorie-dulcee",
+    "name": "Té, iced, instantaneo, verde, pre-endulzada con bajo en calorías dulceener",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87142,8 +87143,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05127-tea-iced-instant-black-undulceened-dry",
-    "name": "Té, iced, instant, black, sin azúcar, seca",
+    "id": "fndds-05127-tea-iced-instantaneo-black-undulceened-dry",
+    "name": "Té, iced, instantaneo, black, sin azúcar, seca",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87159,8 +87160,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05128-tea-iced-instant-black-pre-dulceened-dry",
-    "name": "Té, iced, instant, black, pre-endulzada, seca",
+    "id": "fndds-05128-tea-iced-instantaneo-black-pre-dulceened-dry",
+    "name": "Té, iced, instantaneo, black, pre-endulzada, seca",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87227,8 +87228,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05132-tea-iced-brewed-black-pre-dulceened-with-sugar",
-    "name": "Té, iced, brewed, black, pre-endulzada con azúcar",
+    "id": "fndds-05132-tea-iced-elaborado-black-pre-dulceened-with-sugar",
+    "name": "Té, iced, elaborado, black, pre-endulzada con azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87244,8 +87245,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05133-tea-iced-brewed-black-pre-dulceened-with-low-calorie-dulceen",
-    "name": "Té, iced, brewed, black, pre-endulzada con low calorie dulceener",
+    "id": "fndds-05133-tea-iced-elaborado-black-pre-dulceened-with-low-calorie-dulceen",
+    "name": "Té, iced, elaborado, black, pre-endulzada con bajo en calorías dulceener",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87261,8 +87262,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05134-tea-iced-brewed-black-undulceened",
-    "name": "Té, iced, brewed, black, sin azúcar",
+    "id": "fndds-05134-tea-iced-elaborado-black-undulceened",
+    "name": "Té, iced, elaborado, black, sin azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87278,8 +87279,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05135-tea-iced-brewed-black-decaffeinated-pre-dulceened-with-sugar",
-    "name": "Té, iced, brewed, black, decaffeinated, pre-endulzada con azúcar",
+    "id": "fndds-05135-tea-iced-elaborado-black-descafeinado-pre-dulceened-with-sugar",
+    "name": "Té, iced, elaborado, black, descafeinado, pre-endulzada con azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87295,8 +87296,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05136-tea-iced-brewed-black-decaffeinated-pre-dulceened-with-low-c",
-    "name": "Té, iced, brewed, black, decaffeinated, pre-endulzada con low calorie dulceener",
+    "id": "fndds-05136-tea-iced-elaborado-black-descafeinado-pre-dulceened-with-low-c",
+    "name": "Té, iced, elaborado, black, descafeinado, pre-endulzada con bajo en calorías dulceener",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87312,8 +87313,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05137-tea-iced-brewed-black-decaffeinated-undulceened",
-    "name": "Té, iced, brewed, black, decaffeinated, sin azúcar",
+    "id": "fndds-05137-tea-iced-elaborado-black-descafeinado-undulceened",
+    "name": "Té, iced, elaborado, black, descafeinado, sin azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87329,8 +87330,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05138-tea-iced-brewed-green-pre-dulceened-with-sugar",
-    "name": "Té, iced, brewed, verde, pre-endulzada con azúcar",
+    "id": "fndds-05138-tea-iced-elaborado-green-pre-dulceened-with-sugar",
+    "name": "Té, iced, elaborado, verde, pre-endulzada con azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87346,8 +87347,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05139-tea-iced-brewed-green-pre-dulceened-with-low-calorie-dulceen",
-    "name": "Té, iced, brewed, verde, pre-endulzada con low calorie dulceener",
+    "id": "fndds-05139-tea-iced-elaborado-green-pre-dulceened-with-low-calorie-dulceen",
+    "name": "Té, iced, elaborado, verde, pre-endulzada con bajo en calorías dulceener",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87363,8 +87364,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05140-tea-iced-brewed-green-undulceened",
-    "name": "Té, iced, brewed, verde, sin azúcar",
+    "id": "fndds-05140-tea-iced-elaborado-green-undulceened",
+    "name": "Té, iced, elaborado, verde, sin azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87380,8 +87381,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05141-tea-iced-brewed-green-decaffeinated-pre-dulceened-with-sugar",
-    "name": "Té, iced, brewed, verde, decaffeinated, pre-endulzada con azúcar",
+    "id": "fndds-05141-tea-iced-elaborado-green-descafeinado-pre-dulceened-with-sugar",
+    "name": "Té, iced, elaborado, verde, descafeinado, pre-endulzada con azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87397,8 +87398,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05142-tea-iced-brewed-green-decaffeinated-pre-dulceened-with-low-c",
-    "name": "Té, iced, brewed, verde, decaffeinated, pre-endulzada con low calorie dulceener",
+    "id": "fndds-05142-tea-iced-elaborado-green-descafeinado-pre-dulceened-with-low-c",
+    "name": "Té, iced, elaborado, verde, descafeinado, pre-endulzada con bajo en calorías dulceener",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87414,8 +87415,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05143-tea-iced-brewed-green-decaffeinated-undulceened",
-    "name": "Té, iced, brewed, verde, decaffeinated, sin azúcar",
+    "id": "fndds-05143-tea-iced-elaborado-green-descafeinado-undulceened",
+    "name": "Té, iced, elaborado, verde, descafeinado, sin azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87448,8 +87449,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05145-tea-iced-bottled-black-decaffeinated",
-    "name": "Té, iced, bottled, black, decaffeinated",
+    "id": "fndds-05145-tea-iced-bottled-black-descafeinado",
+    "name": "Té, iced, bottled, black, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87482,8 +87483,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05147-tea-iced-bottled-black-decaffeinated-diet",
-    "name": "Té, iced, bottled, black, decaffeinated, diet",
+    "id": "fndds-05147-tea-iced-bottled-black-descafeinado-diet",
+    "name": "Té, iced, bottled, black, descafeinado, diet",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87516,8 +87517,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05149-tea-iced-bottled-black-decaffeinated-undulceened",
-    "name": "Té, iced, bottled, black, decaffeinated, sin azúcar",
+    "id": "fndds-05149-tea-iced-bottled-black-descafeinado-undulceened",
+    "name": "Té, iced, bottled, black, descafeinado, sin azúcar",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87703,8 +87704,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05160-soft-drink-cola-decaffeinated",
-    "name": "Soft bebida, cola, decaffeinated",
+    "id": "fndds-05160-soft-drink-cola-descafeinado",
+    "name": "Soft bebida, cola, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87720,8 +87721,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05161-soft-drink-cola-decaffeinated-diet",
-    "name": "Soft bebida, cola, decaffeinated, diet",
+    "id": "fndds-05161-soft-drink-cola-descafeinado-diet",
+    "name": "Soft bebida, cola, descafeinado, diet",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87771,8 +87772,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05164-soft-drink-pepper-type-decaffeinated",
-    "name": "Soft bebida, pimiento tipo, decaffeinated",
+    "id": "fndds-05164-soft-drink-pepper-type-descafeinado",
+    "name": "Soft bebida, pimiento tipo, descafeinado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -87788,8 +87789,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05165-soft-drink-pepper-type-decaffeinated-diet",
-    "name": "Soft bebida, pimiento tipo, decaffeinated, diet",
+    "id": "fndds-05165-soft-drink-pepper-type-descafeinado-diet",
+    "name": "Soft bebida, pimiento tipo, descafeinado, diet",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -88298,8 +88299,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05195-fruit-flavored-drink-with-high-vitamin-c",
-    "name": "Fruta saborizado bebida, con high vitamin C",
+    "id": "fndds-05195-fruit-flavored-drink-with-alto-vitamin-c",
+    "name": "Fruta saborizado bebida, con alto vitamin C",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -88315,8 +88316,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05196-arandanos rojos-juice-drink-with-high-vitamin-c",
-    "name": "arandanos rojos jugo bebida, con high vitamin C",
+    "id": "fndds-05196-arandanos rojos-juice-drink-with-alto-vitamin-c",
+    "name": "arandanos rojos jugo bebida, con alto vitamin C",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -88332,8 +88333,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05197-fruit-juice-drink-with-high-vitamin-c",
-    "name": "Fruta jugo bebida, con high vitamin C",
+    "id": "fndds-05197-fruit-juice-drink-with-alto-vitamin-c",
+    "name": "Fruta jugo bebida, con alto vitamin C",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -88349,8 +88350,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05198-vegetable-and-fruit-juice-drink-with-high-vitamin-c",
-    "name": "Verdura y fruta jugo bebida, con high vitamin C",
+    "id": "fndds-05198-vegetable-and-fruit-juice-drink-with-alto-vitamin-c",
+    "name": "Verdura y fruta jugo bebida, con alto vitamin C",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -88400,8 +88401,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05201-fruit-flavored-drink-with-high-vitamin-c-powdered-reconstitu",
-    "name": "Fruta saborizado bebida, con high vitamin C, powdered, reconstituida",
+    "id": "fndds-05201-fruit-flavored-drink-with-alto-vitamin-c-powdered-reconstitu",
+    "name": "Fruta saborizado bebida, con alto vitamin C, powdered, reconstituida",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -88417,8 +88418,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05202-fruit-juice-drink-with-high-vitamin-c-light",
-    "name": "Fruta jugo bebida, con high vitamin C, liviano",
+    "id": "fndds-05202-fruit-juice-drink-with-alto-vitamin-c-light",
+    "name": "Fruta jugo bebida, con alto vitamin C, liviano",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -88468,8 +88469,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05205-arandanos rojos-juice-drink-with-high-vitamin-c-light",
-    "name": "arandanos rojos jugo bebida, con high vitamin C, liviano",
+    "id": "fndds-05205-arandanos rojos-juice-drink-with-alto-vitamin-c-light",
+    "name": "arandanos rojos jugo bebida, con alto vitamin C, liviano",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -88570,8 +88571,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05211-vegetable-and-fruit-juice-drink-with-high-vitamin-c-diet",
-    "name": "Verdura y fruta jugo bebida, con high vitamin C, diet",
+    "id": "fndds-05211-vegetable-and-fruit-juice-drink-with-alto-vitamin-c-diet",
+    "name": "Verdura y fruta jugo bebida, con alto vitamin C, diet",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -88587,8 +88588,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05212-vegetable-and-fruit-juice-drink-with-high-vitamin-c-light",
-    "name": "Verdura y fruta jugo bebida, con high vitamin C, liviano",
+    "id": "fndds-05212-vegetable-and-fruit-juice-drink-with-alto-vitamin-c-light",
+    "name": "Verdura y fruta jugo bebida, con alto vitamin C, liviano",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -88604,8 +88605,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05213-fruit-flavored-drink-with-high-vitamin-c-diet",
-    "name": "Fruta saborizado bebida, con high vitamin C, diet",
+    "id": "fndds-05213-fruit-flavored-drink-with-alto-vitamin-c-diet",
+    "name": "Fruta saborizado bebida, con alto vitamin C, diet",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -88638,8 +88639,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05215-fruit-flavored-drink-with-high-vitamin-c-powdered-reconstitu",
-    "name": "Fruta saborizado bebida, con high vitamin C, powdered, reconstituida, diet",
+    "id": "fndds-05215-fruit-flavored-drink-with-alto-vitamin-c-powdered-reconstitu",
+    "name": "Fruta saborizado bebida, con alto vitamin C, powdered, reconstituida, diet",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -88876,8 +88877,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05229-fruit-flavored-drink-with-high-vitamin-c-powdered-not-recons",
-    "name": "Fruta saborizado bebida, con high vitamin C, powdered, sin reconstituir",
+    "id": "fndds-05229-fruit-flavored-drink-with-alto-vitamin-c-powdered-not-recons",
+    "name": "Fruta saborizado bebida, con alto vitamin C, powdered, sin reconstituir",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -88978,8 +88979,8 @@
     "servingWeightGrams": 101
   },
   {
-    "id": "fndds-05235-beer-higher-alcohol",
-    "name": "Beer, higher alcohol",
+    "id": "fndds-05235-beer-altoer-alcohol",
+    "name": "Beer, altoer alcohol",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -89659,7 +89660,7 @@
   },
   {
     "id": "fndds-05275-whiskey-and-diet-cola",
-    "name": "Whiskey y diet cola",
+    "name": "Whiskey y dietetico cola",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -89710,7 +89711,7 @@
   },
   {
     "id": "fndds-05278-rum-and-diet-cola",
-    "name": "Rum y diet cola",
+    "name": "Rum y dietetico cola",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -89812,7 +89813,7 @@
   },
   {
     "id": "fndds-05284-vodka-and-diet-cola",
-    "name": "Vodka y diet cola",
+    "name": "Vodka y dietetico cola",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -90236,8 +90237,8 @@
     "servingWeightGrams": 99
   },
   {
-    "id": "fndds-05309-wine-dessert-dulce",
-    "name": "Wine, dessert, dulce",
+    "id": "fndds-05309-wine-postre-dulce",
+    "name": "Wine, postre, dulce",
     "category": "general",
     "servingBase": 100,
     "unit": "ml",
@@ -90610,8 +90611,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05331-nutritional-drink-or-shake-ready-to-drink-boost",
-    "name": "Nutritional bebida o shake, ready-to-bebida (Boost)",
+    "id": "fndds-05331-Nutricional-drink-or-shake-ready-to-drink-boost",
+    "name": "Nutricional bebida o shake, ready-to-bebida (Boost)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90627,8 +90628,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05332-nutritional-drink-or-shake-ready-to-drink-boost-plus",
-    "name": "Nutritional bebida o shake, ready-to-bebida (Boost Plus)",
+    "id": "fndds-05332-Nutricional-drink-or-shake-ready-to-drink-boost-plus",
+    "name": "Nutricional bebida o shake, ready-to-bebida (Boost Plus)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90644,8 +90645,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05333-nutritional-drink-or-shake-ready-to-drink-carnation-instant-",
-    "name": "Nutritional bebida o shake, ready-to-bebida (Carnation Instant Breakfast)",
+    "id": "fndds-05333-Nutricional-drink-or-shake-ready-to-drink-carnation-instantaneo-",
+    "name": "Nutricional bebida o shake, ready-to-bebida (Carnation instantaneo Breakfast)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90661,8 +90662,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05334-nutritional-drink-or-shake-ready-to-drink-ensure",
-    "name": "Nutritional bebida o shake, ready-to-bebida (Ensure)",
+    "id": "fndds-05334-Nutricional-drink-or-shake-ready-to-drink-ensure",
+    "name": "Nutricional bebida o shake, ready-to-bebida (Ensure)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90678,8 +90679,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05335-nutritional-drink-or-shake-ready-to-drink-ensure-plus",
-    "name": "Nutritional bebida o shake, ready-to-bebida (Ensure Plus)",
+    "id": "fndds-05335-Nutricional-drink-or-shake-ready-to-drink-ensure-plus",
+    "name": "Nutricional bebida o shake, ready-to-bebida (Ensure Plus)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90695,8 +90696,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05336-nutritional-drink-or-shake-ready-to-drink-sugar-free-glucern",
-    "name": "Nutritional bebida o shake, ready-to-bebida, sin azúcar (Glucerna)",
+    "id": "fndds-05336-Nutricional-drink-or-shake-ready-to-drink-sugar-free-glucern",
+    "name": "Nutricional bebida o shake, ready-to-bebida, sin azúcar (Glucerna)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90712,8 +90713,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05337-nutritional-drink-or-shake-ready-to-drink-muscle-milk",
-    "name": "Nutritional bebida o shake, ready-to-bebida (Muscle leche)",
+    "id": "fndds-05337-Nutricional-drink-or-shake-ready-to-drink-muscle-milk",
+    "name": "Nutricional bebida o shake, ready-to-bebida (leche proteica)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90729,8 +90730,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05338-nutritional-drink-or-shake-ready-to-drink-light-muscle-milk",
-    "name": "Nutritional bebida o shake, ready-to-bebida, liviano (Muscle leche)",
+    "id": "fndds-05338-Nutricional-drink-or-shake-ready-to-drink-light-muscle-milk",
+    "name": "Nutricional bebida o shake, ready-to-bebida, liviano (leche proteica)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90746,8 +90747,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05339-nutritional-drink-or-shake-ready-to-drink-slim-fast",
-    "name": "Nutritional bebida o shake, ready-to-bebida (Slim Fast)",
+    "id": "fndds-05339-Nutricional-drink-or-shake-ready-to-drink-slim-fast",
+    "name": "Nutricional bebida o shake, ready-to-bebida (adelgazante, light)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90763,8 +90764,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05340-nutritional-drink-or-shake-ready-to-drink-sugar-free-slim-fa",
-    "name": "Nutritional bebida o shake, ready-to-bebida, sin azúcar (Slim Fast)",
+    "id": "fndds-05340-Nutricional-drink-or-shake-ready-to-drink-sugar-free-slim-fa",
+    "name": "Nutricional bebida o shake, ready-to-bebida, sin azúcar (adelgazante, light)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90780,8 +90781,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05341-nutritional-drink-or-shake-high-protein-ready-to-drink-slim-",
-    "name": "Nutritional bebida o shake, high proteína, ready-to-bebida (Slim Fast)",
+    "id": "fndds-05341-Nutricional-drink-or-shake-alto-protein-ready-to-drink-slim-",
+    "name": "Nutricional bebida o shake, alto proteína, ready-to-bebida (adelgazante, light)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90797,8 +90798,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05342-nutritional-drink-or-shake-ready-to-drink-nfs",
-    "name": "Nutritional bebida o shake, ready-to-bebida, no especificado",
+    "id": "fndds-05342-Nutricional-drink-or-shake-ready-to-drink-nfs",
+    "name": "Nutricional bebida o shake, ready-to-bebida, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90814,8 +90815,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05343-nutritional-drink-or-shake-high-protein-ready-to-drink-nfs",
-    "name": "Nutritional bebida o shake, high proteína, ready-to-bebida, no especificado",
+    "id": "fndds-05343-Nutricional-drink-or-shake-alto-protein-ready-to-drink-nfs",
+    "name": "Nutricional bebida o shake, alto proteína, ready-to-bebida, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90831,8 +90832,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05344-nutritional-drink-or-shake-high-protein-light-ready-to-drink",
-    "name": "Nutritional bebida o shake, high proteína, liviano, ready-to-bebida, no especificado",
+    "id": "fndds-05344-Nutricional-drink-or-shake-alto-protein-light-ready-to-drink",
+    "name": "Nutricional bebida o shake, alto proteína, liviano, ready-to-bebida, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90848,8 +90849,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05345-nutritional-drink-or-shake-liquid-soy-based",
-    "name": "Nutritional bebida o shake, liquid, soja-based",
+    "id": "fndds-05345-Nutricional-drink-or-shake-liquid-soy-based",
+    "name": "Nutricional bebida o shake, liquid, soja-based",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90865,8 +90866,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05346-nutritional-powder-mix-carnation-instant-breakfast",
-    "name": "Nutritional en polvo mix (Carnation Instant Breakfast)",
+    "id": "fndds-05346-Nutricional-powder-mix-carnation-instantaneo-breakfast",
+    "name": "Nutricional en polvo mix (Carnation instantaneo Breakfast)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90882,8 +90883,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05347-nutritional-powder-mix-sugar-free-carnation-instant-breakfas",
-    "name": "Nutritional en polvo mix, sin azúcar (Carnation Instant Breakfast)",
+    "id": "fndds-05347-Nutricional-powder-mix-sugar-free-carnation-instantaneo-breakfas",
+    "name": "Nutricional en polvo mix, sin azúcar (Carnation instantaneo Breakfast)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90899,8 +90900,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05348-nutritional-powder-mix-eas-whey-protein-powder",
-    "name": "Nutritional en polvo mix (EAS Whey proteína en polvo)",
+    "id": "fndds-05348-Nutricional-powder-mix-eas-whey-protein-powder",
+    "name": "Nutricional en polvo mix (EAS Whey proteína en polvo)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90916,8 +90917,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05349-nutritional-powder-mix-eas-soy-protein-powder",
-    "name": "Nutritional en polvo mix (EAS soja proteína en polvo)",
+    "id": "fndds-05349-Nutricional-powder-mix-eas-soy-protein-powder",
+    "name": "Nutricional en polvo mix (EAS soja proteína en polvo)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90933,8 +90934,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05350-nutritional-powder-mix-high-protein-herbalife",
-    "name": "Nutritional en polvo mix, high proteína (Herbalife)",
+    "id": "fndds-05350-Nutricional-powder-mix-alto-protein-herbalife",
+    "name": "Nutricional en polvo mix, alto proteína (Herbalife)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90950,8 +90951,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05351-nutritional-powder-mix-isopure",
-    "name": "Nutritional en polvo mix (Isopure)",
+    "id": "fndds-05351-Nutricional-powder-mix-isopure",
+    "name": "Nutricional en polvo mix (Isopure)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90967,8 +90968,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05352-nutritional-powder-mix-muscle-milk",
-    "name": "Nutritional en polvo mix (Muscle leche)",
+    "id": "fndds-05352-Nutricional-powder-mix-muscle-milk",
+    "name": "Nutricional en polvo mix (leche proteica)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -90984,8 +90985,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05353-nutritional-powder-mix-light-muscle-milk",
-    "name": "Nutritional en polvo mix, liviano (Muscle leche)",
+    "id": "fndds-05353-Nutricional-powder-mix-light-muscle-milk",
+    "name": "Nutricional en polvo mix, liviano (leche proteica)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91001,8 +91002,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05354-nutritional-powder-mix-slim-fast",
-    "name": "Nutritional en polvo mix (Slim Fast)",
+    "id": "fndds-05354-Nutricional-powder-mix-slim-fast",
+    "name": "Nutricional en polvo mix (adelgazante, light)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91018,8 +91019,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05355-nutritional-powder-mix-sugar-free-slim-fast",
-    "name": "Nutritional en polvo mix, sin azúcar (Slim Fast)",
+    "id": "fndds-05355-Nutricional-powder-mix-sugar-free-slim-fast",
+    "name": "Nutricional en polvo mix, sin azúcar (adelgazante, light)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91035,8 +91036,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05356-nutritional-powder-mix-high-protein-slim-fast",
-    "name": "Nutritional en polvo mix, high proteína (Slim Fast)",
+    "id": "fndds-05356-Nutricional-powder-mix-alto-protein-slim-fast",
+    "name": "Nutricional en polvo mix, alto proteína (adelgazante, light)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91052,8 +91053,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05357-nutritional-powder-mix-nfs",
-    "name": "Nutritional en polvo mix, no especificado",
+    "id": "fndds-05357-Nutricional-powder-mix-nfs",
+    "name": "Nutricional en polvo mix, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91069,8 +91070,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05358-nutritional-powder-mix-high-protein-nfs",
-    "name": "Nutritional en polvo mix, high proteína, no especificado",
+    "id": "fndds-05358-Nutricional-powder-mix-alto-protein-nfs",
+    "name": "Nutricional en polvo mix, alto proteína, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91086,8 +91087,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05359-nutritional-powder-mix-whey-based-nfs",
-    "name": "Nutritional en polvo mix, whey based, no especificado",
+    "id": "fndds-05359-Nutricional-powder-mix-whey-based-nfs",
+    "name": "Nutricional en polvo mix, whey based, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91103,8 +91104,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05360-nutritional-powder-mix-protein-soy-based-nfs",
-    "name": "Nutritional en polvo mix, proteína, soja based, no especificado",
+    "id": "fndds-05360-Nutricional-powder-mix-protein-soy-based-nfs",
+    "name": "Nutricional en polvo mix, proteína, soja based, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91120,8 +91121,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05361-nutritional-powder-mix-protein-light-nfs",
-    "name": "Nutritional en polvo mix, proteína, liviano, no especificado",
+    "id": "fndds-05361-Nutricional-powder-mix-protein-light-nfs",
+    "name": "Nutricional en polvo mix, proteína, liviano, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91137,8 +91138,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "fndds-05362-nutritional-powder-mix-protein-nfs",
-    "name": "Nutritional en polvo mix, proteína, no especificado",
+    "id": "fndds-05362-Nutricional-powder-mix-protein-nfs",
+    "name": "Nutricional en polvo mix, proteína, no especificado",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91257,7 +91258,7 @@
   },
   {
     "id": "fndds-05369-energy-drink-red-bull",
-    "name": "Energy bebida (rojo Bull)",
+    "name": "Energy bebida (RedBull)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91342,7 +91343,7 @@
   },
   {
     "id": "fndds-05374-energy-drink-low-calorie-monster",
-    "name": "Energy bebida, low calorie (Monster)",
+    "name": "Energy bebida, bajo en calorías (Monster)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91410,7 +91411,7 @@
   },
   {
     "id": "fndds-05378-energy-drink-sugar-free-nos",
-    "name": "Energy bebida, azúcar-free (NOS)",
+    "name": "Energy bebida, sin azucar (NOS)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91444,7 +91445,7 @@
   },
   {
     "id": "fndds-05380-energy-drink-sugar-free-red-bull",
-    "name": "Energy bebida, azúcar-free (rojo Bull)",
+    "name": "Energy bebida, sin azucar (rojo Bull)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91597,7 +91598,7 @@
   },
   {
     "id": "fndds-05389-sports-drink-low-calorie-gatorade-g2",
-    "name": "Sports bebida, low calorie (Gatorade G2)",
+    "name": "Sports bebida, bajo en calorías (Gatorade G2)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91614,7 +91615,7 @@
   },
   {
     "id": "fndds-05390-sports-drink-low-calorie-powerade-zero",
-    "name": "Sports bebida, low calorie (Powerade Zero)",
+    "name": "Sports bebida, bajo en calorías (Powerade Zero)",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -91631,7 +91632,7 @@
   },
   {
     "id": "fndds-05391-sports-drink-low-calorie",
-    "name": "Sports bebida, low calorie",
+    "name": "Sports bebida, bajo en calorías",
     "category": "general",
     "servingBase": 100,
     "unit": "g",
@@ -92973,8 +92974,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "latam-sara2-0039-pickles-en-vinagre-prefritos-congelados-patitas-de",
-    "name": "Pickles, en vinagre Prefritos congelados, patitas de",
+    "id": "latam-sara2-0039-pepinillos-en-vinagre-prefritos-congelados-patitas-de",
+    "name": "pepinillos, en vinagre Prefritos congelados, patitas de",
     "category": "latam-verduras",
     "servingBase": 100,
     "unit": "g",
@@ -96900,8 +96901,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "latam-sara2-0270-papa-pure-instantaneo-polvo-papas-prefritas-congel",
-    "name": "Papa, puré instantáneo (polvo) Papas prefritas congeladas enva",
+    "id": "latam-sara2-0270-papa-pure-instantaneoaneo-polvo-papas-prefritas-congel",
+    "name": "Papa, puré instantaneoáneo (polvo) Papas prefritas congeladas enva",
     "category": "latam-legumbres",
     "servingBase": 100,
     "unit": "g",
@@ -103445,8 +103446,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "latam-sara2-0655-saborizador-en-polvo-sopa-crema-instantanea-prepa",
-    "name": "Saborizador en polvo Sopa crema instantánea prepa",
+    "id": "latam-sara2-0655-saborizador-en-polvo-sopa-crema-instantaneoanea-prepa",
+    "name": "Saborizador en polvo Sopa crema instantaneoánea prepa",
     "category": "latam-caldos-y-sopas-industriales",
     "servingBase": 100,
     "unit": "g",
@@ -103462,8 +103463,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "latam-sara2-0656-rada-sopa-crema-instantanea-polvo",
-    "name": "rada Sopa crema instantánea, polvo",
+    "id": "latam-sara2-0656-rada-sopa-crema-instantaneoanea-polvo",
+    "name": "rada Sopa crema instantaneoánea, polvo",
     "category": "latam-caldos-y-sopas-industriales",
     "servingBase": 100,
     "unit": "g",
@@ -103479,8 +103480,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "latam-sara2-0657-para-preparar-sabores-varios-sopa-crema-instantane",
-    "name": "para preparar (sabores varios) Sopa crema instantánea, polvo",
+    "id": "latam-sara2-0657-para-preparar-sabores-varios-sopa-crema-instantaneoane",
+    "name": "para preparar (sabores varios) Sopa crema instantaneoánea, polvo",
     "category": "latam-caldos-y-sopas-industriales",
     "servingBase": 100,
     "unit": "g",
@@ -103513,8 +103514,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "latam-sara2-0659-vasada-para-preparar-sopa-de-vegetales-instantanea",
-    "name": "vasada para preparar Sopa de vegetales instantánea,",
+    "id": "latam-sara2-0659-vasada-para-preparar-sopa-de-vegetales-instantaneoanea",
+    "name": "vasada para preparar Sopa de vegetales instantaneoánea,",
     "category": "latam-caldos-y-sopas-industriales",
     "servingBase": 100,
     "unit": "g",
@@ -104601,8 +104602,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "latam-sara2-0723-cafe-instantaneo-polvo-o-granu-lado-para-preparar-",
-    "name": "Café instantáneo (polvo o granulado para preparar) Café instantáneo descafeinado",
+    "id": "latam-sara2-0723-cafe-instantaneoaneo-polvo-o-granu-lado-para-preparar-",
+    "name": "Café instantaneoáneo (polvo o granulado para preparar) Café instantaneoáneo descafeinado",
     "category": "latam-infusiones",
     "servingBase": 100,
     "unit": "g",
@@ -104669,8 +104670,8 @@
     "servingWeightGrams": 100
   },
   {
-    "id": "latam-sara2-0727-maltaa-instantanea-en-polvo",
-    "name": "maltaa instantánea en polvo",
+    "id": "latam-sara2-0727-maltaa-instantaneoanea-en-polvo",
+    "name": "maltaa instantaneoánea en polvo",
     "category": "latam-infusiones",
     "servingBase": 100,
     "unit": "g",
