@@ -4,7 +4,7 @@ export function searchFoods(query: string, foods: FoodRecord[]) {
   const normalized = normalizeText(query)
 
   if (!normalized) {
-    return foods.slice(0, 8)
+    return foods.slice(0, 100)
   }
 
   const queryTokens = normalized.split(' ').filter(Boolean)
@@ -15,7 +15,7 @@ export function searchFoods(query: string, foods: FoodRecord[]) {
       return queryTokens.every((token) => normalizedName.includes(token))
     })
     .sort((left, right) => scoreFoodMatch(right.name, normalized) - scoreFoodMatch(left.name, normalized))
-    .slice(0, 8)
+    .slice(0, 100)
 }
 
 export function getInitialFoods(foods: FoodRecord[], loggedItems: LoggedMealItem[]) {
